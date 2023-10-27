@@ -267,20 +267,90 @@
   },
   {
     "id":38,
+    "name": "360 Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/360_tv.png",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+  },
+  {
+    "id":39,
+    "name": "Akit Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Akit_tv.png",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
+  },
+  {
+    "id":40,
+    "name": "Bengü Türk",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/benguturk.png",
+    "url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8"
+  },
+  {
+    "id":41,
+    "name": "Karadeniz Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Karadeniz_tv.png",
+    "url": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8"
+  },
+  {
+    "id":42,
+    "name": "Meltem Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/meltem.png",
+    "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
+  },
+  {
+    "id":43,
+    "name": "Berat Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/berat_tv.png",
+    "url": "http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
+  },
+  {
+    "id":44,
+    "name": "Diyanet Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Diyanet_tv.png",
+    "url": "http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+  },
+  {
+    "id":45,
+    "name": "Lalegül Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Lalegul_tv.png",
+    "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8"
+  },
+  {
+    "id":46,
+    "name": "Semerkand Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/semerkand_tv.png",
+    "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
+  },
+  {
+    "id":47,
+    "name": "Dost Tv",
+    "category": "mix",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/dost_tv.png",
+    "url": "https://dost.stream.emsal.im/tv/live.m3u8"
+  },
+  {
+    "id":48,
     "name": "TRT Eba İlkokul",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ilkokul.png",
     "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
   },
  {
-    "id":39,
+    "id":49,
     "name": "TRT Eba Ortaokul",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ortaokul.png",
     "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
   },
  {
-    "id":40,
+    "id":50,
     "name": "TRT Eba Lise",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/lise.png",
