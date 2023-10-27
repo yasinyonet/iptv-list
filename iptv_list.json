@@ -265,25 +265,26 @@
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
     "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
   },
- {
+  {
     "id":38,
-    "name": "A Haber HD1",
-    "category": "News-Haber",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
-    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
+    "name": "TRT Eba İlkokul",
+    "category": "Child-Çocuk",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ilkokul.png",
+    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
   },
  {
     "id":39,
-    "name": "A Haber HD2",
-    "category": "News-Haber",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
-    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
+    "name": "TRT Eba Ortaokul",
+    "category": "Child-Çocuk",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ortaokul.png",
+    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
   },
  {
     "id":40,
-    "name": "A Haber HD3",
-    "category": "News-Haber",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
-    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
+    "name": "TRT Eba Lise",
+    "category": "Child-Çocuk",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/lise.png",
+    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
   }
+ 
 ]
