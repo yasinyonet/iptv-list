@@ -372,27 +372,132 @@
   },
  {
   "id":53,
-  "name": "Görev Maviler",
+  "name": "Afrika Kedileri",
   "category": "Documentary-Belgesel",
-  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-blue-69090.webp",
-  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/G%C3%B6rev%20Maviler.m3u8"
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/afrika-kedileri.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/afrika_kedileri.m3u8"
  },
   {
   "id":54,
-  "name": "Mercan Pesinde",
+  "name": "Alaskaya Yolculuk",
   "category": "Documentary-Belgesel",
-  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mercan-pesinde-chasing-coral-5458.webp",
-  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/Mercan%20Pe%C5%9Finde.m3u8"
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alaska-ya-yolculuk.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/alaskaya_yolculuk.m3u8"
  },
  {
   "id":55,
-  "name": "Çinde Doğdum",
+  "name": "Ayıların Krallığı",
   "category": "Documentary-Belgesel",
-  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/cin-de-dogdum-born-in-china-42490.webp",
-  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ayilarin-kralligi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ayilarin_kralligi.m3u8"
  },
   {
   "id":56,
+  "name": "Bizim Krallığımız",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bizim-kralligimiz.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/bizim_kralligimiz.m3u8"
+ },
+  {
+  "id":57,
+  "name": "Nefesini Tut Buza Dalış",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/nefesini-tut-buz-dalisi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/buza_dalis.m3u8"
+ },
+ {
+  "id":58,
+  "name": "Cennette Yasam Savaşı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cennette-yasam-savasi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cennette_yasam_savasi.m3u8"
+ },
+ {
+  "id":59,
+  "name": "Çin Seferi",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-seferi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cin_seferi.m3u8"
+ },
+ {
+  "id":60,
+  "name": "Dağcı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alpinist-dagci.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dagci.m3u8"
+ },
+  {
+  "id":61,
+  "name": "Patagonya Devleri",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/dinozorlar.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dinazorlar_patagonya_devleri.m3u8"
+ },
+ {
+  "id":62,
+  "name": "Fildişi Oyunu",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/fildisi-oyunu.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/fildisi_oyunu.m3u8"
+ },
+ {
+  "id":63,
+  "name": "Gergedan",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ganimet-trophy.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ganimet.m3u8"
+ },
+ {
+  "id":64,
+  "name": "Görev Maviler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mission-blue.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/gorev_maviler.m3u8"
+ },
+ {
+  "id":65,
+  "name": "Kayıp Piramit",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bilinmeyenler-kayip-piramit.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/kayip_pramit.m3u8"
+ },
+ {
+  "id":66,
+  "name": "Mercan Peşinde",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mercan-pesinde.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/mercan_pesinde.m3u8"
+ },
+ {
+  "id":67,
+  "name": "Sakkaranın Sırları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sakkara-nin-sirlari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/sakkaran%C4%B1n_sirlari.m3u8"
+ },
+ {
+  "id":68,
+  "name": "Sualtı Yaratıkları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sualti-yaratiklari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/su_alti_yaratiklari.m3u8"
+ },
+ {
+  "id":69,
+  "name": "Vahşi Büyüyenler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/vahsi-buyuyenler.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/vahsi_buyuyenler.m3u8"
+ },
+  {
+  "id":70,
+  "name": "Çinde Doğdum",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-de-dogdum.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
+ },
+  {
+  "id":71,
   "name": "Doru 2 Macera Ormanı",
   "category": "Child-Çocuk",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
