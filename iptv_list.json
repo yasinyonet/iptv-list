@@ -253,132 +253,139 @@
  },
  {
   "id":36,
+  "name": "Minika Go",
+  "category": "Child-Çocuk",
+  "photo": "https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png",
+  "url": "https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1699553798&st=yY5Mgo0WHg0_fqNGAkkf7A&sid=5vxp2u0r7jmu&app=be451f3e-b8d8-4edd-8469-1030b5ad7fd3&ce=3"
+ },
+ {
+  "id":37,
   "name": "TRT Belgesel HD",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-belgesel.png",
   "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":37,
+  "id":38,
   "name": "TGRT Belgesel",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tgrtbelgesel.png",
   "url": "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel_576p.m3u8"
  },
  {
-    "id":38,
+    "id":39,
     "name": "A Haber HD",
     "category": "News-Haber",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
  "url":"https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8"
   },
   {
-    "id":39,
+    "id":40,
     "name": "360 Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/360_tv.png",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
   },
   {
-    "id":40,
+    "id":41,
     "name": "Akit Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Akit_tv.png",
     "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
   },
   {
-    "id":41,
+    "id":42,
     "name": "Bengü Türk",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/benguturk.png",
     "url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8"
   },
   {
-    "id":42,
+    "id":43,
     "name": "Karadeniz Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Karadeniz_tv.png",
     "url": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8"
   },
   {
-    "id":43,
+    "id":44,
     "name": "Meltem Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/meltem.png",
     "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
   },
   {
-    "id":44,
+    "id":45,
     "name": "Berat Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/berat_tv.png",
     "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
   },
   {
-    "id":45,
+    "id":46,
     "name": "Diyanet Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Diyanet_tv.png",
     "url": "http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
   },
   {
-    "id":46,
+    "id":47,
     "name": "Lalegül Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Lalegul_tv.png",
     "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8"
   },
   {
-    "id":47,
+    "id":48,
     "name": "Semerkand Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/semerkand_tv.png",
     "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
   },
   {
-    "id":48,
+    "id":49,
     "name": "Dost Tv",
     "category": "mix",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/dost_tv.png",
     "url": "https://dost.stream.emsal.im/tv/live.m3u8"
   },
   {
-    "id":49,
+    "id":50,
     "name": "TRT Eba İlkokul",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ilkokul.png",
     "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
   },
  {
-    "id":50,
+    "id":51,
     "name": "TRT Eba Ortaokul",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ortaokul.png",
     "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
   },
  {
-    "id":51,
+    "id":52,
     "name": "TRT Eba Lise",
     "category": "Child-Çocuk",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/lise.png",
     "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
   },
  {
-  "id":52,
+  "id":53,
   "name": "Görev Maviler",
   "category": "Documentary-Belgesel",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-blue-69090.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/g%C3%B6rev-maviler-1080p.m3u8"
  },
   {
-  "id":53,
+  "id":54,
   "name": "Mercan Pesinde",
   "category": "Documentary-Belgesel",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mercan-pesinde-chasing-coral-5458.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/mercan-pe%C5%9Finde-1080p.m3u8"
  },
  {
-  "id":54,
+  "id":55,
   "name": "Çinde Doğdum",
   "category": "Documentary-Belgesel",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/cin-de-dogdum-born-in-china-42490.webp",
