@@ -489,21 +489,21 @@
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/vahsi-buyuyenler.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/vahsi_buyuyenler.m3u8"
  },
-  {
+ {
   "id":70,
   "name": "Çinde Doğdum",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-de-dogdum.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
  },
-  {
+ {
   "id":71,
   "name": "Doru 2 Macera Ormanı",
   "category": "Child-Çocuk",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/Doru%20Macera%20Orman%C4%B1.m3u8"
  },
-{
+ {
   "id":72,
   "name": "Siyah Adam 2",
   "category": "Movies-Film",
@@ -517,7 +517,7 @@
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-impossible-7-izle-1-89708.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/gorevimiz_tehlike_7.m3u8"
  },
-  {
+ {
   "id":74,
   "name": "Ölümcül Tür",
   "category": "Movies-Film",
@@ -531,18 +531,21 @@
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/lifeforms-47714.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/lifeforms.m3u8"
  },
+ {
   "id":76,
   "name": "57 Seconds",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/57-seconds-91051.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/57_seconds.m3u8"
  },
+ {
  "id":77,
   "name": "The Black Deamon",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/the-black-demon-74641.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNh3TUV0MNpXW45EVBdXTEJFbNpnWsplaNNTTEZFaapWR5plaK1WWXlVP:1702546068:88.247.89.103:0ba4b0b89a9d037a94dfd925495bf9e4cfef305c04465a21a6e4d8fadb83c490/1080/index.m3u8"
  },
+ {
  "id":78,
   "name": "Colonials",
   "category": "Movies-Film",
