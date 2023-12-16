@@ -93,7 +93,7 @@
  {
   "id":13,
   "name": "Ntv",
-  "category": "News-Haber",
+  "category": "BKurgu-Bilim Kurgu",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ntv.png",
   "url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8"
  },
