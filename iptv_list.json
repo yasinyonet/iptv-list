@@ -593,5 +593,26 @@
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-6-Kara-Kader-2019-film-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%202.m3u8"
+ },
+ {
+ "id":85,
+  "name": "Star Wars 1",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/1568/wdp4unWJWY9hGKN1tM56HeSt6PZ.jpg",
+  "url": "https://rovideo.xyz/012/tt0120915.480p.tr.m3u8"
+ },
+ {
+ "id":86,
+  "name": "Star Wars 2",
+  "category": "Movies-Film",
+  "photo": "https://webteizle2.com/i/afis/b/a109.jpg",
+  "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/03982/zpdkbfk2yi28_x/index-v1-a1.m3u8?t=xFGUWz4ERSjxWHPocOYJtl2dV3aqoazV8pOGcrv2cNE&s=1703683369&e=43200&f=19911224&srv=23&asn=47331&sp=2500"
+ },
+ {
+ "id":87,
+  "name": "Star Wars 3",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/520/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg",
+  "url": "https://rovideo.xyz/012/tt0121766.480p.tr.m3u8"
  }
 ]
