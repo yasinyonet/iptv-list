@@ -45,188 +45,181 @@
  },
  {
   "id":6,
-  "name": "Siyah Adam 2",
-  "category": "Movies-Film",
-  "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
-  "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
- },
- {
-  "id":7,
   "name": "Afrika Kedileri",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/afrika-kedileri.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/afrika_kedileri.m3u8"
  },
   {
-  "id":8,
+  "id":7,
   "name": "Alaskaya Yolculuk",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alaska-ya-yolculuk.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/alaskaya_yolculuk.m3u8"
  },
  {
-  "id":9,
+  "id":8,
   "name": "Ayıların Krallığı",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ayilarin-kralligi.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ayilarin_kralligi.m3u8"
  },
   {
-  "id":10,
+  "id":9,
   "name": "Bizim Krallığımız",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bizim-kralligimiz.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/bizim_kralligimiz.m3u8"
  },
   {
-  "id":11,
+  "id":10,
   "name": "Nefesini Tut Buza Dalış",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/nefesini-tut-buz-dalisi.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/buza_dalis.m3u8"
  },
  {
-  "id":12,
+  "id":11,
   "name": "Cennette Yasam Savaşı",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cennette-yasam-savasi.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cennette_yasam_savasi.m3u8"
  },
  {
-  "id":13,
+  "id":12,
   "name": "Çin Seferi",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-seferi.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cin_seferi.m3u8"
  },
  {
-  "id":14,
+  "id":13,
   "name": "Dağcı",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alpinist-dagci.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dagci.m3u8"
  },
   {
-  "id":15,
+  "id":14,
   "name": "Patagonya Devleri",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/dinozorlar.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVrRTT6t2MORlWs50VJFTWqd2dZdVSz0ERVVjWt10MPRVW1olanJjWEFUP:1699538794:88.247.89.103:604b6d623c0300b3763a8e8e5d8057c10bd3a54807652f69313d1c690fc01425/1080/index.m3u8"
  },
  {
-  "id":16,
+  "id":15,
   "name": "Fildişi Oyunu",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/fildisi-oyunu.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/fildisi_oyunu.m3u8"
  },
  {
-  "id":17,
+  "id":16,
   "name": "Gergedan",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ganimet-trophy.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ganimet.m3u8"
  },
  {
-  "id":18,
+  "id":17,
   "name": "Görev Maviler",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mission-blue.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/gorev_maviler.m3u8"
  },
  {
-  "id":19,
+  "id":18,
   "name": "Kayıp Piramit",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bilinmeyenler-kayip-piramit.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/kayip_pramit.m3u8"
  },
  {
-  "id":20,
+  "id":19,
   "name": "Mercan Peşinde",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mercan-pesinde.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/mercan_pesinde.m3u8"
  },
  {
-  "id":21,
+  "id":20,
   "name": "Sakkaranın Sırları",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sakkara-nin-sirlari.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/sakkaran%C4%B1n_sirlari.m3u8"
  },
  {
-  "id":22,
+  "id":21,
   "name": "Sualtı Yaratıkları",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sualti-yaratiklari.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/su_alti_yaratiklari.m3u8"
  },
  {
-  "id":23,
+  "id":22,
   "name": "Vahşi Büyüyenler",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/vahsi-buyuyenler.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/vahsi_buyuyenler.m3u8"
  },
  {
-  "id":24,
+  "id":23,
   "name": "Çinde Doğdum",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-de-dogdum.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
  },
  {
-  "id":25,
+  "id":24,
   "name": "Doru 2 Macera Ormanı",
   "category": "Child-Çocuk",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/Doru%20Macera%20Orman%C4%B1.m3u8"
  },
  {
-  "id":26,
+  "id":25,
   "name": "Siyah Adam 2",
   "category": "Movies-Film",
   "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
   "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
  },
  {
-  "id":27,
+  "id":26,
   "name": "Görevimiz Tehlike 7",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-impossible-7-izle-1-89708.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/gorevimiz_tehlike_7.m3u8"
  },
  {
-  "id":28,
+  "id":27,
   "name": "Ölümcül Tür",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-olumcul-tur-extinction.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/%C3%B6l%C3%BCmc%C3%BCl_t%C3%BCr.m3u8"
  },
  {
-  "id":29,
+  "id":28,
   "name": "Lifeforms",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/lifeforms-47714.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/lifeforms.m3u8"
  },
  {
-  "id":30,
+  "id":29,
   "name": "57 Seconds",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/57-seconds-91051.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/57_seconds.m3u8"
  },
  {
- "id":31,
+ "id":30,
   "name": "The Black Deamon",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/the-black-demon-74641.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNh3TUV0MNpXW45EVBdXTEJFbNpnWsplaNNTTEZFaapWR5plaK1WWXlVP:1702546068:88.247.89.103:0ba4b0b89a9d037a94dfd925495bf9e4cfef305c04465a21a6e4d8fadb83c490/1080/index.m3u8"
  },
  {
- "id":78,
+ "id":31,
   "name": "Colonials",
   "category": "Movies-Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/colonials-88156.webp",
