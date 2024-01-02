@@ -31,7 +31,7 @@
  {
   "id":4,
   "name": "TRT Çocuk HD",
-  "category": "Child-Çocuk",
+  "category": "Child-Çizgi Film",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-cocuk.png",
   "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
  },
@@ -172,7 +172,7 @@
  {
   "id":24,
   "name": "Doru 2 Macera Ormanı",
-  "category": "Child-Çocuk",
+  "category": "Child-Çizgi Film",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/Doru%20Macera%20Orman%C4%B1.m3u8"
  },
