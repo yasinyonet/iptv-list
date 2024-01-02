@@ -1,367 +1,340 @@
 [
+
  {
   "id":0,
-  "name": "Siyah Adam 2",
+  "name": "TRT 1 FHD",
   "category": "mix",
-  "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
-  "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
+  "url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
  },
  {
   "id":1,
-  "name": "Arı Maya 3",
-  "category": "mix",
-  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/ari-maya-3-altin-kure-98187.webp",
-  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/a_m_ormanlar%20diyar%C4%B1.m3u8"
- },
- {
-  "id":2,
-  "name": "Show Tv FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/show-tv.png",
-  "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8"
- },
- {
-  "id":3,
-  "name": "Kanal D FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/kanal-d.png",
-  "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8"
- },
- {
-  "id":4,
-  "name": "Fox Tv HD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
-  "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
- },
- {
-  "id":5,
-  "name": "Fox Tv HD Yedek",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
-  "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
- },
- {
-  "id":6,
-  "name": "TV8 FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tv8.png",
-  "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8"
- },
- {
-  "id":7,
-  "name": "Kanal 7 FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/kanal7.png",
-  "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5aixfzh8r6e8&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
- },
- {
-  "id":8,
-  "name": "Beyaz Tv FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/beyaz-tv.png",
-  "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=5aj0jwmne342&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3"
- },
- {
-  "id":9,
-  "name": "Teve 2 FHD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/teve2.png",
-  "url": "https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8"
- },
- {
-  "id":10,
-  "name": "Dmax HD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/dmax.png",
-  "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=Tms0VWtFUVZGQUcrdG5lcnpFZFE4OWlKeDEzemMyL1lUQm8rRjNVYWNnZz0=&sid=5aj0n8ily7dq&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
- },
- {
-  "id":11,
-  "name": "TLC HD",
-  "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tlc.png",
-  "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=bVBHOUJOdkpIMDF5bWFSMGcreFJ1VjZEYks4QnJQeGxjaTY0eC9NNytDOD0=&sid=5aj0rn99nhya&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
- },
- {
-  "id":12,
   "name": "Ntv",
   "category": "News-Haber",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ntv.png",
   "url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8"
  },
  {
-  "id":13,
-  "name": "Cnn Türk",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/cnnturk.png",
-  "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
- },
- {
-  "id":14,
-  "name": "HaberTürk FHD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/haberturk.png",
-  "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8"
- },
- {
-  "id":15,
-  "name": "TGRT Haber",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tgrthaber.png",
-  "url": "https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=5ojvz6kpicm3&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2"
- },
- {
-  "id":16,
-  "name": "24 Tv HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/24tv.png",
-  "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
- },
- {
-  "id":17,
-  "name": "TRT Haber HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-haber.png",
-  "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
- },
- {
-  "id":18,
-  "name": "Haber Global HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/haberglobal.png",
-  "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8"
- },
- {
-  "id":19,
-  "name": "Halk Tv FHD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/halk.png",
-  "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5aj3ayrq2vz2&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
- },
- {
-  "id":20,
-  "name": "TV100 HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tv100.png",
-  "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699361039/ei/r9xJZcesNPLnx_AP5vqksAU/ip/88.247.89.103/id/sd94keSra6A.1/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0h20zlWuQPBcXSeDH2oePkTwYI_bz-MYJQBug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAMdzIAO5Oi3rKibEH1QFKAXrC-5TjjtUVtCSsVXL2SxYAiEAnen6hZQxAiR8Nsy7SlyNuujFt7Lj9pt59ZWWF6LmuDs%3D/file/index.m3u8"
- },
- {
-  "id":21,
-  "name": "Ülke Tv HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ulke.png",
-  "url": "https://stream-11.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNm4blfq3Fu0qhzKK_4FQ_ey--Nhk6L9vAbwbyD4wU4S)/dm/3/x7yb4xm/s/live-1.m3u8"
- },
- {
-  "id":22,
-  "name": "TRT World HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trtworld.png",
-  "url": "https://tv-trtworld.live.trt.com.tr/master_720.m3u8"
- },
- {
-  "id":23,
-  "name": "PowerTürk Tv",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/powerturk.png",
-  "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
- },
- {
-  "id":24,
-  "name": "DreamTürk Tv",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/dreamturk.png",
-  "url": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8"
- },
- {
-  "id":25,
-  "name": "Kral Pop",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/kral-pop.png",
-  "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
- },
- {
-  "id":26,
-  "name": "TRT Müzik",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trtmuzik.png",
-  "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
- },
- {
-  "id":27,
-  "name": "Power Tv",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/power.png",
-  "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8"
- },
- {
-  "id":28,
-  "name": "Number 1 Türk",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/number1.png",
-  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=XpqJk0SjZ6C-FrvFoDBA9Q&expires=1693158896"
- },
- {
-  "id":29,
+  "id":2,
   "name": "Gs Tv",
   "category": "Sport-Spor",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/gs-tv.png",
   "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
  },
  {
-  "id":30,
-  "name": "Sports Tv",
-  "category": "Sport-Spor",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/sports-tv.png",
-  "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
+  "id":3,
+  "name": "Number 1 Türk",
+  "category": "Music-Müzik",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/number1.png",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=XpqJk0SjZ6C-FrvFoDBA9Q&expires=1693158896"
  },
  {
-  "id":31,
-  "name": "TJK Tv FHD",
-  "category": "Sport-Spor",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tjk.png",
-  "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8"
- },
- {
-  "id":32,
-  "name": "TRT Spor HD",
-  "category": "Sport-Spor",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-spor.png",
-  "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8"
- },
- {
-  "id":33,
+  "id":4,
   "name": "TRT Çocuk HD",
   "category": "Child-Çocuk",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-cocuk.png",
   "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
  },
+
  {
-  "id":34,
-  "name": "Cartoon Network",
-  "category": "Child-Çocuk",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/cartoonnetwork.png",
-  "url": "https://ecanlitv3.etvserver.com/cartoonnetwork.m3u8?tkn=p4C_9ru6Y-rfCQoDGxDmXQ&tms=1697015429"
- },
- {
-  "id":35,
+  "id":5,
   "name": "TRT Belgesel HD",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-belgesel.png",
   "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":36,
-  "name": "TGRT Belgesel",
-  "category": "Documentary-Belgesel",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tgrtbelgesel.png",
-  "url": "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel_576p.m3u8"
+  "id":6,
+  "name": "Siyah Adam 2",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+  "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
  },
  {
-   "id":37,
-   "name": "Atv FHD",
-   "category": "mix",
-   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/atv.png",
-   "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1697053474&st=GO7FXdbOi1Kv2heVn7w_9A&sid=5t2fpcil87kr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
-  },
+  "id":7,
+  "name": "Afrika Kedileri",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/afrika-kedileri.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/afrika_kedileri.m3u8"
+ },
   {
-    "id":38,
-    "name": "A Haber HD",
-    "category": "News-Haber",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ahaber.png",
- "url":"https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8"
-  },
-  {
-    "id":39,
-    "name": "360 Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/360_tv.png",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
-  },
-  {
-    "id":40,
-    "name": "Akit Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Akit_tv.png",
-    "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
-  },
-  {
-    "id":41,
-    "name": "Bengü Türk",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/benguturk.png",
-    "url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8"
-  },
-  {
-    "id":42,
-    "name": "Karadeniz Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Karadeniz_tv.png",
-    "url": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8"
-  },
-  {
-    "id":43,
-    "name": "Meltem Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/meltem.png",
-    "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
-  },
-  {
-    "id":44,
-    "name": "Berat Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/berat_tv.png",
-    "url": "http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
-  },
-  {
-    "id":45,
-    "name": "Diyanet Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Diyanet_tv.png",
-    "url": "http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
-  },
-  {
-    "id":46,
-    "name": "Lalegül Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/Lalegul_tv.png",
-    "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8"
-  },
-  {
-    "id":47,
-    "name": "Semerkand Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/semerkand_tv.png",
-    "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
-  },
-  {
-    "id":48,
-    "name": "Dost Tv",
-    "category": "mix",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/dost_tv.png",
-    "url": "https://dost.stream.emsal.im/tv/live.m3u8"
-  },
-  {
-    "id":49,
-    "name": "TRT Eba İlkokul",
-    "category": "Child-Çocuk",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ilkokul.png",
-    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
-  },
+  "id":8,
+  "name": "Alaskaya Yolculuk",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alaska-ya-yolculuk.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/alaskaya_yolculuk.m3u8"
+ },
  {
-    "id":50,
-    "name": "TRT Eba Ortaokul",
-    "category": "Child-Çocuk",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ortaokul.png",
-    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-  },
+  "id":9,
+  "name": "Ayıların Krallığı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ayilarin-kralligi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ayilarin_kralligi.m3u8"
+ },
+  {
+  "id":10,
+  "name": "Bizim Krallığımız",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bizim-kralligimiz.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/bizim_kralligimiz.m3u8"
+ },
+  {
+  "id":11,
+  "name": "Nefesini Tut Buza Dalış",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/nefesini-tut-buz-dalisi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/buza_dalis.m3u8"
+ },
  {
-    "id":51,
-    "name": "TRT Eba Lise",
-    "category": "Child-Çocuk",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/lise.png",
-    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
-  }
- 
+  "id":12,
+  "name": "Cennette Yasam Savaşı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cennette-yasam-savasi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cennette_yasam_savasi.m3u8"
+ },
+ {
+  "id":13,
+  "name": "Çin Seferi",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-seferi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cin_seferi.m3u8"
+ },
+ {
+  "id":14,
+  "name": "Dağcı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alpinist-dagci.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dagci.m3u8"
+ },
+  {
+  "id":15,
+  "name": "Patagonya Devleri",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/dinozorlar.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVrRTT6t2MORlWs50VJFTWqd2dZdVSz0ERVVjWt10MPRVW1olanJjWEFUP:1699538794:88.247.89.103:604b6d623c0300b3763a8e8e5d8057c10bd3a54807652f69313d1c690fc01425/1080/index.m3u8"
+ },
+ {
+  "id":16,
+  "name": "Fildişi Oyunu",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/fildisi-oyunu.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/fildisi_oyunu.m3u8"
+ },
+ {
+  "id":17,
+  "name": "Gergedan",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ganimet-trophy.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ganimet.m3u8"
+ },
+ {
+  "id":18,
+  "name": "Görev Maviler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mission-blue.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/gorev_maviler.m3u8"
+ },
+ {
+  "id":19,
+  "name": "Kayıp Piramit",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bilinmeyenler-kayip-piramit.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/kayip_pramit.m3u8"
+ },
+ {
+  "id":20,
+  "name": "Mercan Peşinde",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mercan-pesinde.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/mercan_pesinde.m3u8"
+ },
+ {
+  "id":21,
+  "name": "Sakkaranın Sırları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sakkara-nin-sirlari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/sakkaran%C4%B1n_sirlari.m3u8"
+ },
+ {
+  "id":22,
+  "name": "Sualtı Yaratıkları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sualti-yaratiklari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/su_alti_yaratiklari.m3u8"
+ },
+ {
+  "id":23,
+  "name": "Vahşi Büyüyenler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/vahsi-buyuyenler.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/vahsi_buyuyenler.m3u8"
+ },
+ {
+  "id":24,
+  "name": "Çinde Doğdum",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-de-dogdum.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
+ },
+ {
+  "id":25,
+  "name": "Doru 2 Macera Ormanı",
+  "category": "Child-Çocuk",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/Doru%20Macera%20Orman%C4%B1.m3u8"
+ },
+ {
+  "id":26,
+  "name": "Siyah Adam 2",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+  "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
+ },
+ {
+  "id":27,
+  "name": "Görevimiz Tehlike 7",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-impossible-7-izle-1-89708.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/gorevimiz_tehlike_7.m3u8"
+ },
+ {
+  "id":28,
+  "name": "Ölümcül Tür",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-olumcul-tur-extinction.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/%C3%B6l%C3%BCmc%C3%BCl_t%C3%BCr.m3u8"
+ },
+ {
+  "id":29,
+  "name": "Lifeforms",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/lifeforms-47714.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/lifeforms.m3u8"
+ },
+ {
+  "id":30,
+  "name": "57 Seconds",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/57-seconds-91051.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/57_seconds.m3u8"
+ },
+ {
+ "id":31,
+  "name": "The Black Deamon",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/the-black-demon-74641.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNh3TUV0MNpXW45EVBdXTEJFbNpnWsplaNNTTEZFaapWR5plaK1WWXlVP:1702546068:88.247.89.103:0ba4b0b89a9d037a94dfd925495bf9e4cfef305c04465a21a6e4d8fadb83c490/1080/index.m3u8"
+ },
+ {
+ "id":78,
+  "name": "Colonials",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/colonials-88156.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbStWTtlUeNp2Yy80VGhmT6V1MZRlTtlleFpnWEdWMNRVS35ERRNjWENWP:1702546072:88.247.89.103:e479bc88e0fdb0c1f97d8752bdf490fbde2e89341a69aaaca262ef92cead0508/1080/index.m3u8"
+ },
+ {
+ "id":32,
+  "name": "Terminatör 1",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-1-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%201.m3u8"
+ },
+ {
+ "id":33,
+  "name": "Terminatör 2",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-2-mahser-gunu-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%202.m3u8"
+ },
+ {
+ "id":34,
+  "name": "Terminatör 3",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-3-makinelerin-yukselisi-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%203.m3u8"
+ },
+ {
+ "id":34,
+  "name": "Terminatör 4",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/terminator-4-full-hd-izle-turkce-dublaj950.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%204.m3u8"
+ },
+ {
+ "id":36,
+  "name": "Terminatör 5",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-trmnto-5-gnsys-filmi-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%205.m3u8"
+ },
+ {
+ "id":37,
+  "name": "Terminatör 6",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-6-Kara-Kader-2019-film-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%202.m3u8"
+ },
+ {
+ "id":38,
+  "name": "Star Wars 1",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/1568/wdp4unWJWY9hGKN1tM56HeSt6PZ.jpg",
+  "url": "https://rovideo.xyz/012/tt0120915.480p.tr.m3u8"
+ },
+ {
+ "id":39,
+  "name": "Star Wars 2",
+  "category": "Movies-Film",
+  "photo": "https://webteizle2.com/i/afis/b/a109.jpg",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/star_wars_2.m3u8"
+ },
+ {
+ "id":40,
+  "name": "Star Wars 3",
+  "category": "Movies-Film",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/520/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg",
+  "url": "https://rovideo.xyz/012/tt0121766.480p.tr.m3u8"
+ },
+ {
+ "id":41,
+  "name": "Star Wars 4",
+  "category": "Movies-Film",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-yildiz-savaslari-4-yeni-bir-umut-izle_list.webp",
+  "url": "https://cdn788.abortionsgel.pw/64/1080p.m3u8"
+ },
+ {
+ "id":42,
+  "name": "Star Wars 5",
+  "category": "Movies-Film",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-5-imparatorun-donusu-izle_list.webp",
+  "url": "https://a1.vidload.one/55/1080p.m3u8"
+ },
+ {
+ "id":43,
+  "name": "Star Wars 6",
+  "category": "Movies-Film",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-6-jediin-donusu-izle_list.webp",
+  "url": "https://a1.vidload.one/66/1080p.m3u8"
+ },
+ {
+ "id":44,
+  "name": "Star Wars 7",
+  "category": "Movies-Film",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-star-wars-7-guc-uyaniyor-izle_list.webp",
+  "url": "https://cdn153.albergomgir.pw/68/1080p.m3u8"
+ },
+ {
+ "id":45,
+  "name": "Star Wars 8",
+  "category": "Movies-Film",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-8-izle_list.webp",
+  "url": "https://cdn957.absorbentgel.pw/70/1080p.m3u8"
+ },
+ {
+ "id":46,
+  "name": "Star Wars 9",
+  "category": "Movies-Film",
+  "photo": "https://webteizle2.com/i/afis/b/a8903.jpg",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/star_wars_9.m3u8"
+ }
 ]
