@@ -24,14 +24,14 @@
  {
   "id":3,
   "name": "Number 1 Türk",
-  "category": "Music-Müzik",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/number1.png",
   "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=XpqJk0SjZ6C-FrvFoDBA9Q&expires=1693158896"
  },
  {
   "id":4,
   "name": "TRT Çocuk HD",
-  "category": "Child-Çizgi Film",
+  "category": "Child-Çizgi",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-cocuk.png",
   "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
  },
@@ -179,35 +179,35 @@
  {
   "id":25,
   "name": "Siyah Adam 2",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
   "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
  },
  {
   "id":26,
   "name": "Görevimiz Tehlike 7",
-  "category": "Movies-Film",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-impossible-7-izle-1-89708.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/gorevimiz_tehlike_7.m3u8"
  },
  {
   "id":27,
   "name": "Ölümcül Tür",
-  "category": "Movies-Film",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-olumcul-tur-extinction.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/%C3%B6l%C3%BCmc%C3%BCl_t%C3%BCr.m3u8"
  },
  {
   "id":28,
   "name": "Lifeforms",
-  "category": "Movies-Film",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/lifeforms-47714.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/lifeforms.m3u8"
  },
  {
   "id":29,
   "name": "57 Seconds",
-  "category": "Movies-Film",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/57-seconds-91051.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/57_seconds.m3u8"
  },
@@ -221,112 +221,112 @@
  {
  "id":31,
   "name": "Colonials",
-  "category": "Movies-Film",
+  "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/colonials-88156.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbStWTtlUeNp2Yy80VGhmT6V1MZRlTtlleFpnWEdWMNRVS35ERRNjWENWP:1702546072:88.247.89.103:e479bc88e0fdb0c1f97d8752bdf490fbde2e89341a69aaaca262ef92cead0508/1080/index.m3u8"
  },
  {
  "id":32,
   "name": "Terminatör 1",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-1-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%201.m3u8"
  },
  {
  "id":33,
   "name": "Terminatör 2",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-2-mahser-gunu-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%202.m3u8"
  },
  {
  "id":34,
   "name": "Terminatör 3",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-3-makinelerin-yukselisi-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%203.m3u8"
  },
  {
  "id":34,
   "name": "Terminatör 4",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/terminator-4-full-hd-izle-turkce-dublaj950.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%204.m3u8"
  },
  {
  "id":36,
   "name": "Terminatör 5",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-trmnto-5-gnsys-filmi-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%205.m3u8"
  },
  {
  "id":37,
   "name": "Terminatör 6",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-6-Kara-Kader-2019-film-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%202.m3u8"
  },
  {
  "id":38,
   "name": "Star Wars 1",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.filmmodu15.com/uploads/movie/cover/1568/wdp4unWJWY9hGKN1tM56HeSt6PZ.jpg",
   "url": "https://rovideo.xyz/012/tt0120915.480p.tr.m3u8"
  },
  {
  "id":39,
   "name": "Star Wars 2",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://webteizle2.com/i/afis/b/a109.jpg",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/star_wars_2.m3u8"
  },
  {
  "id":40,
   "name": "Star Wars 3",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.filmmodu15.com/uploads/movie/cover/520/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg",
   "url": "https://rovideo.xyz/012/tt0121766.480p.tr.m3u8"
  },
  {
  "id":41,
   "name": "Star Wars 4",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-yildiz-savaslari-4-yeni-bir-umut-izle_list.webp",
   "url": "https://cdn788.abortionsgel.pw/64/1080p.m3u8"
  },
  {
  "id":42,
   "name": "Star Wars 5",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-5-imparatorun-donusu-izle_list.webp",
   "url": "https://a1.vidload.one/55/1080p.m3u8"
  },
  {
  "id":43,
   "name": "Star Wars 6",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-6-jediin-donusu-izle_list.webp",
   "url": "https://a1.vidload.one/66/1080p.m3u8"
  },
  {
  "id":44,
   "name": "Star Wars 7",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-star-wars-7-guc-uyaniyor-izle_list.webp",
   "url": "https://cdn153.albergomgir.pw/68/1080p.m3u8"
  },
  {
  "id":45,
   "name": "Star Wars 8",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-8-izle_list.webp",
   "url": "https://cdn957.absorbentgel.pw/70/1080p.m3u8"
  },
  {
  "id":46,
   "name": "Star Wars 9",
-  "category": "science_fiction-Bilim Kurgu",
+  "category": "science_fiction-Bilim",
   "photo": "https://webteizle2.com/i/afis/b/a8903.jpg",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/star_wars_9.m3u8"
  }
