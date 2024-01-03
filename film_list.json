@@ -13,17 +13,16 @@
   "category": "war_movies-Savaş",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/assault-on-hill-400-2770.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERChmTEZUaNpWS4pFRVpXWUlFNOdUS35ERnVTTUFEeN1mTp5ERnRTTUlUP:1704283357:88.247.89.103:44a3f3ca3525e2d9b971d9934a1c708e55b7c8f79db321bf510f8b04add26c80/1080/index.m3u8"
- {
  },
- 
- "id":32,
+ {
+ "id":2,
   "name": "Terminatör 1",
   "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-1-izle.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/Terminat%C3%B6r%201.m3u8"
  },
  {
- "id":33,
+ "id":3,
   "name": "Terminatör 2",
   "category": "science_fiction-Bilim",
   "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-2-mahser-gunu-izle.webp",
@@ -141,7 +140,7 @@
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/afrika-kedileri.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/afrika_kedileri.m3u8"
  },
-  {
+ {
   "id":7,
   "name": "Alaskaya Yolculuk",
   "category": "Documentary-Belgesel",
@@ -155,14 +154,14 @@
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ayilarin-kralligi.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ayilarin_kralligi.m3u8"
  },
-  {
+ {
   "id":9,
   "name": "Bizim Krallığımız",
   "category": "Documentary-Belgesel",
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bizim-kralligimiz.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/bizim_kralligimiz.m3u8"
  },
-  {
+ {
   "id":10,
   "name": "Nefesini Tut Buza Dalış",
   "category": "Documentary-Belgesel",
@@ -190,7 +189,7 @@
   "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alpinist-dagci.webp",
   "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dagci.m3u8"
  },
-  {
+ {
   "id":14,
   "name": "Patagonya Devleri",
   "category": "Documentary-Belgesel",
