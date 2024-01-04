@@ -15,13 +15,6 @@
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERChmTEZUaNpWS4pFRVpXWUlFNOdUS35ERnVTTUFEeN1mTp5ERnRTTUlUP:1704283357:88.247.89.103:44a3f3ca3525e2d9b971d9934a1c708e55b7c8f79db321bf510f8b04add26c80/1080/index.m3u8"
  },
  {
-  "id":45,
-  "name": "Er Raynı Kurtarmak",
-  "category": "war_movies-Savaş",
-  "photo": "https://github.com/yasinyonet/iptv-list/blob/main/film_logo/Er-Ryani-kurtarmak-poster.png",
-  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/er-rayn.m3u8"
- },
- {
  "id":2,
   "name": "Terminatör 1",
   "category": "science_fiction-Bilim",
@@ -321,6 +314,13 @@
   "category": "Adventure_Movie-Macera",
   "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/colonials-88156.webp",
   "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbStWTtlUeNp2Yy80VGhmT6V1MZRlTtlleFpnWEdWMNRVS35ERRNjWENWP:1702546072:88.247.89.103:e479bc88e0fdb0c1f97d8752bdf490fbde2e89341a69aaaca262ef92cead0508/1080/index.m3u8"
+ },
+ {
+  "id":45,
+  "name": "Er Raynı Kurtarmak",
+  "category": "war_movies-Savaş",
+  "photo": "https://github.com/yasinyonet/iptv-list/blob/main/film_logo/Er-Ryani-kurtarmak-poster.png",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/er-rayn.m3u8"
  }
 
 ]
