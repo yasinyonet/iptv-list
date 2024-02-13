@@ -12,7 +12,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:2660,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:40,ATV HD
-http://51.195.5.44:80/atv/index.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:100,ATV FHD
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 #EXTINF:2650,SHOW TV FHD
