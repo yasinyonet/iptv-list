@@ -123,7 +123,7 @@
   "name": "24 Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/24tv.png",
-  "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
+  "url": "http://stream.tvcdn.net/haber/ulke-tv.m3u8"
  },
  {
   "id":18,
