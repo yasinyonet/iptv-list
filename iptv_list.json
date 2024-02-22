@@ -36,14 +36,14 @@
  },
  {
   "id":5,
-  "name": "Fox Tv HD",
+  "name": "Now Tv HD",
   "category": "mix",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
   "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
  },
  {
   "id":6,
-  "name": "Fox Tv HD Yedek",
+  "name": "Now Tv HD Yedek",
   "category": "mix",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
   "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
