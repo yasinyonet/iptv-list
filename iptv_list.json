@@ -38,14 +38,14 @@
   "id":5,
   "name": "Now Tv HD",
   "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
+  "photo": "https://tr.m.wikipedia.org/wiki/NOW_(T%C3%BCrkiye)#/media/Dosya%3ANOW_TV_(Turkey)_wordmark-red.svg",
   "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
  },
  {
   "id":6,
   "name": "Now Tv HD Yedek",
   "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/fox-tv.png",
+  "photo": "https://tr.m.wikipedia.org/wiki/NOW_(T%C3%BCrkiye)#/media/Dosya%3ANOW_TV_(Turkey)_wordmark-red.svg",
   "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
  },
  {
