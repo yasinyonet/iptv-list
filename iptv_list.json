@@ -104,6 +104,13 @@
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/cnnturk.png",
   "url": "http://stream.tvcdn.net/haber/cnn-turk.m3u8"
  },
+{
+  "id":53,
+  "name": "Cnn Türk1",
+  "category": "News-Haber",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/cnnturk.png",
+  "url": "https://hw1.jemtv.com/app/cnnturk/chunks.m3u8"
+ },
  {
   "id":15,
   "name": "HaberTürk FHD",
