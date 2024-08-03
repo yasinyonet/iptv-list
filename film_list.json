@@ -1,429 +1,332 @@
-[
-    {
-        "id": 0,
-        "name": "TRT1",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",
-        "url": "http://stream.tvcdn.net/ulusal/trt-1.m3u8"
-    },
-    {
-        "id": 1,
-        "name": "ATV",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
-        "url": "http://stream.tvcdn.net/ulusal/atv.m3u8"
-    },
-    {
-        "id": 2,
-        "name": "KanalD",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",
-        "url": "http://stream.tvcdn.net/ulusal/kanal-d.m3u8"
-    },
-    {
-        "id": 3,
-        "name": "Now",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
-        "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
-    },
-    {
-        "id": 4,
-        "name": "Now",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
-        "url": "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8"
-    },
-    {
-        "id": 5,
-        "name": "ShowTV",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
-        "url": "http://stream.tvcdn.net/ulusal/show-tv.m3u8"
-    },
-    {
-        "id": 6,
-        "name": "BeyazTV",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",
-        "url": "http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8"
-    },
-    {
-        "id": 7,
-        "name": "Kanal7",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",
-        "url": "http://stream.tvcdn.net/ulusal/kanal-7.m3u8"
-    },
-    {
-        "id": 8,
-        "name": "TV8",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
-        "url": "http://stream.tvcdn.net/ulusal/tv8.m3u8"
-    },
-    {
-        "id": 9,
-        "name": "StarTV",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",
-        "url": "http://stream.tvcdn.net/ulusal/star-tv.m3u8"
-    },
-    {
-        "id": 10,
-        "name": "360",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",
-        "url": "http://stream.tvcdn.net/ulusal/360-tv.m3u8"
-    },
-    {
-        "id": 11,
-        "name": "TV100",
-        "category": "Ulusal",
-        "photo": "http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
-        "url": "http://stream.tvcdn.net/ulusal/tv-100.m3u8"
-    },
-    {
-        "id": 12,
-        "name": "TRTTurk",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8"
-    },
-    {
-        "id": 13,
-        "name": "TRTAvaz",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8"
-    },
-    {
-        "id": 14,
-        "name": "ATVAvrupa",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8"
-    },
-    {
-        "id": 15,
-        "name": "EuroD",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8"
-    },
-    {
-        "id": 16,
-        "name": "TGRTEU",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8"
-    },
-    {
-        "id": 17,
-        "name": "ShowTurk",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8"
-    },
-    {
-        "id": 18,
-        "name": "Kanal7Avrupa",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8"
-    },
-    {
-        "id": 19,
-        "name": "TV8International",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8"
-    },
-    {
-        "id": 20,
-        "name": "EuroStar",
-        "category": "Ulusal - Yurt Dışı",
-        "photo": "http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png",
-        "url": "http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8"
-    },
-    {
-        "id": 21,
-        "name": "TRTHaber",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",
-        "url": "http://stream.tvcdn.net/haber/trt-haber.m3u8"
-    },
-    {
-        "id": 22,
-        "name": "AHaber",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",
-        "url": "http://stream.tvcdn.net/haber/a-haber.m3u8"
-    },
-    {
-        "id": 23,
-        "name": "CNNTurk",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png",
-        "url": "http://stream.tvcdn.net/haber/cnn-turk.m3u8"
-    },
-    {
-        "id": 24,
-        "name": "TGRTHaber",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png",
-        "url": "http://stream.tvcdn.net/haber/tgrt-haber.m3u8"
-    },
-    {
-        "id": 25,
-        "name": "HaberturkTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png",
-        "url": "http://stream.tvcdn.net/haber/haberturk.m3u8"
-    },
-    {
-        "id": 26,
-        "name": "HaberGlobal",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png",
-        "url": "http://stream.tvcdn.net/haber/haber-global.m3u8"
-    },
-    {
-        "id": 27,
-        "name": "UlkeTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png",
-        "url": "http://stream.tvcdn.net/haber/ulke-tv.m3u8"
-    },
-    {
-        "id": 28,
-        "name": "HalkTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",
-        "url": "http://stream.tvcdn.net/haber/halk-tv.m3u8"
-    },
-    {
-        "id": 29,
-        "name": "NTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png",
-        "url": "http://stream.tvcdn.net/haber/ntv.m3u8"
-    },
-    {
-        "id": 30,
-        "name": "24TV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png",
-        "url": "http://stream.tvcdn.net/haber/24-tv.m3u8"
-    },
-    {
-        "id": 31,
-        "name": "KRT",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png",
-        "url": "http://stream.tvcdn.net/haber/krt-tv.m3u8"
-    },
-    {
-        "id": 32,
-        "name": "AkitTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png",
-        "url": "http://stream.tvcdn.net/haber/akit-tv.m3u8"
-    },
-    {
-        "id": 33,
-        "name": "SozcuTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png",
-        "url": "http://stream.tvcdn.net/haber/sozcu-tv.m3u8"
-    },
-    {
-        "id": 34,
-        "name": "Tele1",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png",
-        "url": "http://stream.tvcdn.net/haber/tele-1.m3u8"
-    },
-    {
-        "id": 35,
-        "name": "TVNET",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png",
-        "url": "http://stream.tvcdn.net/haber/tvnet.m3u8"
-    },
-    {
-        "id": 36,
-        "name": "FlashTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png",
-        "url": "http://stream.tvcdn.net/haber/flash-haber.m3u8"
-    },
-    {
-        "id": 37,
-        "name": "UlusalKanal",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png",
-        "url": "http://stream.tvcdn.net/haber/ulusal-kanal.m3u8"
-    },
-    {
-        "id": 38,
-        "name": "BenguturkTV",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",
-        "url": "http://stream.tvcdn.net/haber/benguturk-tv.m3u8"
-    },
-    {
-        "id": 39,
-        "name": "YOLTV.de",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png",
-        "url": "http://stream.tvcdn.net/haber/yol-tv.m3u8"
-    },
-    {
-        "id": 40,
-        "name": "",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png",
-        "url": "http://stream.tvcdn.net/haber/tbmm-tv.m3u8"
-    },
-    {
-        "id": 41,
-        "name": "",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",
-        "url": "http://stream.tvcdn.net/haber/dha-canli-1.m3u8"
-    },
-    {
-        "id": 42,
-        "name": "",
-        "category": "News-Haber",
-        "photo": "http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png",
-        "url": "http://stream.tvcdn.net/haber/dha-canli-2.m3u8"
-    },
-    {
-        "id": 43,
-        "name": "APara",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png",
-        "url": "http://stream.tvcdn.net/ekonomi/a-para.m3u8"
-    },
-    {
-        "id": 44,
-        "name": "BloombergHT",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png",
-        "url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8"
-    },
-    {
-        "id": 45,
-        "name": "Ekoturk",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png",
-        "url": "http://stream.tvcdn.net/ekonomi/ekoturk.m3u8"
-    },
-    {
-        "id": 46,
-        "name": "",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png",
-        "url": "http://stream.tvcdn.net/ekonomi/finans-turk.m3u8"
-    },
-    {
-        "id": 47,
-        "name": "",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/e87da323-5076-4ea7-a70a-5f2b1ebe00a4.png",
-        "url": "http://stream.tvcdn.net/ekonomi/expo-vizyon.m3u8"
-    },
-    {
-        "id": 48,
-        "name": "",
-        "category": "Ekonomi",
-        "photo": "http://assets.tvcdn.net/8a9bb676-fd2d-47c5-9332-804e2aae533b.jpeg",
-        "url": "http://stream.tvcdn.net/ekonomi/business-channel-turk.m3u8"
-    },
-    {
-        "id": 49,
-        "name": "TRT2",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png",
-        "url": "http://stream.tvcdn.net/eglence/trt-2.m3u8"
-    },
-    {
-        "id": 50,
-        "name": "A2TV",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png",
-        "url": "http://stream.tvcdn.net/eglence/a2.m3u8"
-    },
-    {
-        "id": 51,
-        "name": "Teve2",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",
-        "url": "http://stream.tvcdn.net/eglence/teve2.m3u8"
-    },
-    {
-        "id": 52,
-        "name": "ShowMax",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",
-        "url": "http://stream.tvcdn.net/eglence/show-max.m3u8"
-    },
-    {
-        "id": 53,
-        "name": "TV85",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",
-        "url": "http://stream.tvcdn.net/eglence/tv8-5.m3u8"
-    },
-    {
-        "id": 54,
-        "name": "DMAX",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png",
-        "url": "http://stream.tvcdn.net/eglence/dmax.m3u8"
-    },
-    {
-        "id": 55,
-        "name": "TLC",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",
-        "url": "http://stream.tvcdn.net/eglence/tlc.m3u8"
-    },
-    {
-        "id": 56,
-        "name": "TV4",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",
-        "url": "http://stream.tvcdn.net/eglence/tv-4.m3u8"
-    },
-    {
-        "id": 57,
-        "name": "",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png",
-        "url": "http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8"
-    },
-    {
-        "id": 58,
-        "name": "",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png",
-        "url": "http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8"
-    },
-    {
-        "id": 59,
-        "name": "",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png",
-        "url": "http://stream.tvcdn.net/eglence/belgesel-tv.m3u8"
-    },
-    {
-        "id": 60,
-        "name": "",
-        "category": "Eğlence",
-        "photo": "http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png",
-        "url": "http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8"
-    }
+
+  [
+{
+  "id":0,
+  "name": "TRT 1 FHD",
+  "category": "mix",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
+  "url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
+ },
+ {
+  "id":1,
+  "name": "Hill 400",
+  "category": "war_movies-Savaş",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/assault-on-hill-400-2770.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERChmTEZUaNpWS4pFRVpXWUlFNOdUS35ERnVTTUFEeN1mTp5ERnRTTUlUP:1704283357:88.247.89.103:44a3f3ca3525e2d9b971d9934a1c708e55b7c8f79db321bf510f8b04add26c80/1080/index.m3u8"
+ },
+ {
+ "id":2,
+  "name": "Terminatör 1",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-1-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%201.m3u8"
+ },
+ {
+ "id":3,
+  "name": "Terminatör 2",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-2-mahser-gunu-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%202.m3u8"
+ },
+ {
+ "id":4,
+  "name": "Terminatör 3",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-3-makinelerin-yukselisi-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%203.m3u8"
+ },
+ {
+ "id":5,
+  "name": "Terminatör 4",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/terminator-4-full-hd-izle-turkce-dublaj950.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%204.m3u8"
+ },
+ {
+ "id":6,
+  "name": "Terminatör 5",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-trmnto-5-gnsys-filmi-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%205.m3u8"
+ },
+ {
+ "id":7,
+  "name": "Terminatör 6",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-terminator-6-Kara-Kader-2019-film-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/Terminat%C3%B6r%202.m3u8"
+ },
+ {
+ "id":8,
+  "name": "Star Wars 1",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/1568/wdp4unWJWY9hGKN1tM56HeSt6PZ.jpg",
+  "url": "https://rovideo.xyz/012/tt0120915.480p.tr.m3u8"
+ },
+ {
+ "id":9,
+  "name": "Star Wars 2",
+  "category": "science_fiction-Bilim",
+  "photo": "https://webteizle2.com/i/afis/b/a109.jpg",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/star_wars_2.m3u8"
+ },
+ {
+ "id":10,
+  "name": "Star Wars 3",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/520/wUYTfFbfPiZC6Lcyt1nonr69ZmK.jpg",
+  "url": "https://rovideo.xyz/012/tt0121766.480p.tr.m3u8"
+ },
+ {
+ "id":11,
+  "name": "Star Wars 4",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-yildiz-savaslari-4-yeni-bir-umut-izle_list.webp",
+  "url": "https://cdn788.abortionsgel.pw/64/1080p.m3u8"
+ },
+ {
+ "id":12,
+  "name": "Star Wars 5",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-5-imparatorun-donusu-izle_list.webp",
+  "url": "https://a1.vidload.one/55/1080p.m3u8"
+ },
+ {
+ "id":13,
+  "name": "Star Wars 6",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-6-jediin-donusu-izle_list.webp",
+  "url": "https://a1.vidload.one/66/1080p.m3u8"
+ },
+ {
+ "id":14,
+  "name": "Star Wars 7",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/hd-star-wars-7-guc-uyaniyor-izle_list.webp",
+  "url": "https://cdn153.albergomgir.pw/68/1080p.m3u8"
+ },
+ {
+ "id":15,
+  "name": "Star Wars 8",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.hdfilmcehennemi2.de/uploads/poster/yildiz-savaslari-8-izle_list.webp",
+  "url": "https://cdn957.absorbentgel.pw/70/1080p.m3u8"
+ },
+ {
+ "id":16,
+  "name": "Star Wars 9",
+  "category": "science_fiction-Bilim",
+  "photo": "https://webteizle2.com/i/afis/b/a8903.jpg",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/star_wars_9.m3u8"
+ },
+ {
+  "id":17,
+  "name": "TRT Çocuk HD",
+  "category": "Child-Çizgi",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-cocuk.png",
+  "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "id":18,
+  "name": "TRT Belgesel HD",
+  "category": "Documentary-Belgesel",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt-belgesel.png",
+  "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "id":19,
+  "name": "Afrika Kedileri",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/afrika-kedileri.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/afrika_kedileri.m3u8"
+ },
+ {
+  "id":20,
+  "name": "Alaskaya Yolculuk",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alaska-ya-yolculuk.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/alaskaya_yolculuk.m3u8"
+ },
+ {
+  "id":21,
+  "name": "Ayıların Krallığı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ayilarin-kralligi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ayilarin_kralligi.m3u8"
+ },
+ {
+  "id":22,
+  "name": "Bizim Krallığımız",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bizim-kralligimiz.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/bizim_kralligimiz.m3u8"
+ },
+ {
+  "id":23,
+  "name": "Nefesini Tut Buza Dalış",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/nefesini-tut-buz-dalisi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/buza_dalis.m3u8"
+ },
+ {
+  "id":24,
+  "name": "Cennette Yasam Savaşı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cennette-yasam-savasi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cennette_yasam_savasi.m3u8"
+ },
+ {
+  "id":25,
+  "name": "Çin Seferi",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-seferi.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/cin_seferi.m3u8"
+ },
+ {
+  "id":26,
+  "name": "Dağcı",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/alpinist-dagci.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/dagci.m3u8"
+ },
+ {
+  "id":27,
+  "name": "Patagonya Devleri",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/dinozorlar.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVrRTT6t2MORlWs50VJFTWqd2dZdVSz0ERVVjWt10MPRVW1olanJjWEFUP:1699538794:88.247.89.103:604b6d623c0300b3763a8e8e5d8057c10bd3a54807652f69313d1c690fc01425/1080/index.m3u8"
+ },
+ {
+  "id":28,
+  "name": "Fildişi Oyunu",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/fildisi-oyunu.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/fildisi_oyunu.m3u8"
+ },
+ {
+  "id":29,
+  "name": "Gergedan",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/ganimet-trophy.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/ganimet.m3u8"
+ },
+ {
+  "id":30,
+  "name": "Görev Maviler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mission-blue.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/gorev_maviler.m3u8"
+ },
+ {
+  "id":31,
+  "name": "Kayıp Piramit",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/bilinmeyenler-kayip-piramit.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/kayip_pramit.m3u8"
+ },
+ {
+  "id":32,
+  "name": "Mercan Peşinde",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/mercan-pesinde.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/mercan_pesinde.m3u8"
+ },
+ {
+  "id":33,
+  "name": "Sakkaranın Sırları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sakkara-nin-sirlari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/sakkaran%C4%B1n_sirlari.m3u8"
+ },
+ {
+  "id":34,
+  "name": "Sualtı Yaratıkları",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/sualti-yaratiklari.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/su_alti_yaratiklari.m3u8"
+ },
+ {
+  "id":35,
+  "name": "Vahşi Büyüyenler",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/vahsi-buyuyenler.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/vahsi_buyuyenler.m3u8"
+ },
+ {
+  "id":36,
+  "name": "Çinde Doğdum",
+  "category": "Documentary-Belgesel",
+  "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/film_logo/belgesel_logo/cin-de-dogdum.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/belgesel/%C3%87inde%20Do%C4%9Fdum.m3u8"
+ },
+ {
+  "id":37,
+  "name": "Doru 2 Macera Ormanı",
+  "category": "Child-Çizgi Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/doru-2-macera-ormani-84078.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/cizgi_film/Doru%20Macera%20Orman%C4%B1.m3u8"
+ },
+ {
+  "id":38,
+  "name": "Siyah Adam 2",
+  "category": "science_fiction-Bilim",
+  "photo": "https://www.filmmodu15.com/uploads/movie/cover/12315/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+  "url": "https://rovideo.xyz/644/tt6443346.480p.tr.m3u8"
+ },
+ {
+  "id":39,
+  "name": "Görevimiz Tehlike 7",
+  "category": "Adventure_Movie-Macera",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/mission-impossible-7-izle-1-89708.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/gorevimiz_tehlike_7.m3u8"
+ },
+ {
+  "id":40,
+  "name": "Ölümcül Tür",
+  "category": "Adventure_Movie-Macera",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-olumcul-tur-extinction.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/%C3%B6l%C3%BCmc%C3%BCl_t%C3%BCr.m3u8"
+ },
+ {
+  "id":41,
+  "name": "Lifeforms",
+  "category": "Adventure_Movie-Macera",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/lifeforms-47714.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/lifeforms.m3u8"
+ },
+ {
+  "id":42,
+  "name": "Blue Bettle",
+  "category": "science_fiction-Bilim",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/blue-beetle-28604.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/bilim_kurgu/blue_bettle.m3u8"
+ },
+ {
+ "id":43,
+  "name": "The Black Deamon",
+  "category": "Movies-Film",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/the-black-demon-74641.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNh3TUV0MNpXW45EVBdXTEJFbNpnWsplaNNTTEZFaapWR5plaK1WWXlVP:1702546068:88.247.89.103:0ba4b0b89a9d037a94dfd925495bf9e4cfef305c04465a21a6e4d8fadb83c490/1080/index.m3u8"
+ },
+ {
+ "id":44,
+  "name": "Colonials",
+  "category": "Adventure_Movie-Macera",
+  "photo": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/colonials-88156.webp",
+  "url": "https://cdn82.trstx.org/stream/81a1afe557cdebda91ec2267b9765388/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbStWTtlUeNp2Yy80VGhmT6V1MZRlTtlleFpnWEdWMNRVS35ERRNjWENWP:1702546072:88.247.89.103:e479bc88e0fdb0c1f97d8752bdf490fbde2e89341a69aaaca262ef92cead0508/1080/index.m3u8"
+ },
+ {
+  "id":45,
+  "name": "Er Raynı Kurtarmak",
+  "category": "war_movies-Savaş",
+  "photo": "https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-er-ryani-kurtarmak-filmini-full-hd-izle.webp",
+  "url": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/macera_film/er_rayn.m3u8"
+ },
+ {
+  "id":46, 
+  "name": "Neşeli Çiftlik",
+  "category": "Child-Çizgi",
+  "photo": "https://hdfilmizlesene.org/wp-content/uploads/2024/04/neseli-ciftlik-3-tren-kalkiyor-181x270.jpg",
+  "url": "https://s23.seeshare.pics/m9/F3I0o3OjMJ4gHTRhp3OipzI0YwVjZwZhI0IPYHEZYwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi23vr1.m3u8"
+ }
 ]
