@@ -3,7 +3,7 @@
     "id": 0,
     "name": "TRT1",
     "category": "mix",
-    "photo": "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
     "url": "http://stream.tvcdn.net/ulusal/trt-1.m3u8"
   },
   {
@@ -38,7 +38,7 @@
     "id": 5,
     "name": "ShowTV",
     "category": "mix",
-    "photo": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/show-tv.png",
     "url": "http://stream.tvcdn.net/ulusal/show-tv.m3u8"
   },
   {
@@ -66,7 +66,7 @@
     "id": 9,
     "name": "StarTV",
     "category": "mix",
-    "photo": "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",
+    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/star-tv.png",
     "url": "http://stream.tvcdn.net/ulusal/star-tv.m3u8"
   },
   {
