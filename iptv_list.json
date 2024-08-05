@@ -374,21 +374,21 @@
         "id": 53,
         "name": "AGRT TV",
         "category": "Turkey-Yerel",
-        "photo": "http://assets.tvcdn.net/33d410a7-764e-405d-8633-4b63dd73790e.png",
+        "photo": "https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/agrttv.png",
         "url": "http://stream.tvcdn.net/yerel/agrt.m3u8"
   },
   {
         "id": 54,
         "name": "LalegulTV",
         "category": "Quran-Dini",
-        "photo": "http://assets.tvcdn.net/97578c5d-493f-4a99-ab6b-aedc02609cf0.png",
+        "photo": "https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/lalegultv.png",
         "url": "http://stream.tvcdn.net/dini/lalegul-tv.m3u8"
   },
   {
         "id": 55,
         "name": "TarimTV",
         "category": "Farming-Tarım",
-        "photo": "http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png",
+        "photo": "https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/tarimtv.png",
         "url": "http://stream.tvcdn.net/belgesel/tarim-tv.m3u8"
   }
  
