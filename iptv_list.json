@@ -374,7 +374,7 @@
     "id": 53,
     "name": "AGRT TV",
     "category": "Turkey-Yerel",
-    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/agrttv.png",
+    "photo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/main/iptv-logo/agrttv.png",
     "url": "http://stream.tvcdn.net/yerel/agrt.m3u8"
   },
   {
