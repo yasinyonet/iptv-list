@@ -2,8 +2,8 @@
  {
   "id":0,
   "name": "TRT 1 FHD",
-  "category": "mix",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
+  "category": "mix",
   "url": "https://d1u68oyra9spme.cloudfront.net/master.m3u8"
  },
  {
