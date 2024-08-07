@@ -45,8 +45,7 @@
   "id":6,
   "name": "Now Tv HD Yedek",
   "category": "mix",
-  "photo": "https://tr.m.wikipedia.org/wiki/NOW_(T%C3%BCrkiye)#/media/Dosya%3ANOW_TV_(Turkey)_wordmark-red.svg",
-  "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723024016/ei/MO6yZrmHE_SKp-oP4bSUKA/ip/78.182.133.252/id/f6dc742435787ff4/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-u0g3uxax3-pnur.googlevideo.com/mh/ms/mm/31%2C29/mn/sn-u0g3uxax3-pnur%2Csn-hgn7yn7s/ms/au%2Crdu/mv/m/mvi/7/pl/21/tx/51219771/txs/51191460%2C51191461%2C51191462%2C51219771/initcwndbps/1201250/vprv/1/go/1/rqh/5/mt/1723002054/fvip/2/nvgoi/1/nagoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIdhWN1mDqrF5RAYZ2sZ4sZFevXdlCIoaHdrtCtscWCsAiEAoVpie4TifGc-tZq9XnLyt6UHZJ-Pkq7Qs0IHn0oGs0U%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AGtxev0wRQIgTbXv7K4DlM98MGnrt7yFqqsHBggOWv3lrFlEfcwVti8CIQDs6tqefLaPc6YizUMeVY55rs7e4RVgGUJlVSnGJzxDlQ%3D%3D/file/index.m3u8"
+  "photo": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
  },
  {
   "id":7,
