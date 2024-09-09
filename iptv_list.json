@@ -39,14 +39,14 @@
   "name": "Now Tv HD",
   "category": "mix",
   "photo": "https://tr.m.wikipedia.org/wiki/NOW_(T%C3%BCrkiye)#/media/Dosya%3ANOW_TV_(Turkey)_wordmark-red.svg",
-  "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
+"url":"http://stream.tvcdn.net/ulusal/now-tv.m3u8"
  },
  {
   "id":6,
   "name": "Now Tv HD Yedek",
   "category": "mix",
   "photo": "https://tr.m.wikipedia.org/wiki/NOW_(T%C3%BCrkiye)#/media/Dosya%3ANOW_TV_(Turkey)_wordmark-red.svg",
-  "url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8 "
+"url":"https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8"
  },
  {
   "id":7,
