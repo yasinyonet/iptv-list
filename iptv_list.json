@@ -11,7 +11,7 @@
    "name": "Atv FHD",
    "category": "mix",
    "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/atv.png",
-   "url": "116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8"
+   "url": "http://stream.tvcdn.net/ulusal/atv.m3u8"
  },
  {
   "id":2,
