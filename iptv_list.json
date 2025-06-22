@@ -150,8 +150,20 @@
   "id":21,
   "name": "TV100 HD",
   "category": "News-Haber",
+<<<<<<< HEAD
   "photo": "https://i.ytimg.com/vi/sd94keSra6A/mqdefault.jpg",
   "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699361039/ei/r9xJZcesNPLnx_AP5vqksAU/ip/88.247.89.103/id/sd94keSra6A.1/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0h20zlWuQPBcXSeDH2oePkTwYI_bz-MYJQBug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAMdzIAO5Oi3rKibEH1QFKAXrC-5TjjtUVtCSsVXL2SxYAiEAnen6hZQxAiR8Nsy7SlyNuujFt7Lj9pt59ZWWF6LmuDs%3D/file/index.m3u8"
+=======
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tv100.png",
+  "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699361039/ei/r9xJZcesNPLnx_AP5vqksAU/ip/88.247.89.103/id/sd94keSra6A.1/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0h20zlWuQPBcXSeDH2oePkTwYI_bz-MYJQBug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAMdzIAO5Oi3rKibEH1QFKAXrC-5TjjtUVtCSsVXL2SxYAiEAnen6hZQxAiR8Nsy7SlyNuujFt7Lj9pt59ZWWF6LmuDs%3D/file/index.m3u8"
+ },
+ {
+  "id":21,
+  "name": "Ülke Tv HD",
+  "category": "News-Haber",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/ulke.png",
+  "url": "https://stream-11.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNm4blfq3Fu0qhzKK_4FQ_ey--Nhk6L9vAbwbyD4wU4S)/dm/3/x7yb4xm/s/live-1.m3u8"
+>>>>>>> cfe8812 (G├╝ncelleme)
  },
  {
   "id":22,
