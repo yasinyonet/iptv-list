@@ -390,6 +390,12 @@
     "category": "Farming-Tarım",
     "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/tarimtv.png",
     "url": "http://stream.tvcdn.net/belgesel/tarim-tv.m3u8"
+  },
+ {
+    "id": 56,
+    "name": "YabanTV",
+    "category": "Documentary-Belgesel",
+    "photo": "https://www.yabantv.com/public/img/ayar/yabantv_logo.png",
+    "url": "https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w669364074.m3u8?hash=14327ac102c912645eda07b8328e4828"
   }
- 
 ]
