@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 0,
+    "name": "4U TV SD",
+    "photo": "https://i.imgur.com/PexhKwp.png",
+    "category": "mix",
+    "url": "https://hls.4utv.live/hls/stream.m3u8"
+  },
+  {
+    "id": 1,
+    "name": "24 TV SD",
+    "photo": "https://i.imgur.com/8FO41es.png",
+    "category": "news-haber",
+    "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
+  },
+  {
+    "id": 2,
+    "name": "360 SD",
+    "photo": "https://i.imgur.com/agn47sQ.png",
+    "category": "news-haber",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+  },
+  {
+    "id": 3,
+    "name": "A2TV SD",
+    "photo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+    "category": "mix",
+    "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8"
+  },
+  {
+    "id": 4,
+    "name": "Afroturk TV SD",
+    "photo": "https://i.imgur.com/fWlLvRA.png",
+    "category": "mix",
+    "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 5,
+    "name": "Akit TV SD",
+    "photo": "https://i.imgur.com/oGto929.png",
+    "category": "news-haber",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+  },
+  {
+    "id": 6,
+    "name": "Aksu TV SD",
+    "photo": "https://i.postimg.cc/3w6VHNTp/aksutv.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
+  },
+  {
+    "id": 7,
+    "name": "Alanya Posta TV SD",
+    "photo": "https://i.imgur.com/a3w9eFe.png",
+    "category": "turkey-yerel",
+    "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+  },
+  {
+    "id": 8,
+    "name": "Almahriah TV SD",
+    "photo": "https://i.imgur.com/GgEeTNr.png",
+    "category": "news-haber",
+    "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
+  },
+  {
+    "id": 9,
+    "name": "Al-Rafidain TV SD",
+    "photo": "https://i.postimg.cc/nhxQ0G99/alrafidaintv.png",
+    "category": "quran-dini",
+    "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8"
+  },
+  {
+    "id": 10,
+    "name": "Altas TV SD",
+    "photo": "https://i.postimg.cc/Vkzdjs2j/altastv.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 11,
+    "name": "Al-Zahra TV Turkic SD",
+    "photo": "https://i.imgur.com/QEHKGnG.png",
+    "category": "quran-dini",
+    "url": "https://live.al-zahratv.com/live/playlist.m3u8"
+  },
+  {
+    "id": 12,
+    "name": "Anadolu Agency SD",
+    "photo": "https://i.imgur.com/dWElJll.png",
+    "category": "news-haber",
+    "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8"
+  },
+  {
+    "id": 13,
+    "name": "Anadolu Net TV SD",
+    "photo": "https://www.anadolunettv.com/d/r/logo.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+  },
+  {
+    "id": 14,
+    "name": "Aras TV SD",
+    "photo": "https://i.imgur.com/JsDCyWG.png",
+    "category": "turkey-yerel",
+    "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+  },
+  {
+    "id": 15,
+    "name": "A Spor SD",
+    "photo": "https://i.imgur.com/ZhkZzLf.png",
+    "category": "sport-spor",
+    "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+  },
+  {
+    "id": 16,
+    "name": "AS TV SD",
+    "photo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
+  },
+  {
+    "id": 17,
+    "name": "A Turk SD",
+    "photo": "https://i.imgur.com/je5wQ3G.png",
+    "category": "news-haber",
+    "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8"
+  },
+  {
+    "id": 18,
+    "name": "ATV SD",
+    "photo": "https://i.imgur.com/HyVUwFC.png",
+    "category": "mix",
+    "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+  },
+  {
+    "id": 19,
+    "name": "ATV Alanya SD",
+    "photo": "https://i.imgur.com/bUwarR0.png",
+    "category": "turkey-yerel",
+    "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8"
+  },
+  {
+    "id": 20,
+    "name": "ATV Avrupa SD",
+    "photo": "https://i.postimg.cc/Ghdyjjy8/atvavrupa.png",
+    "category": "mix",
+    "url": "https://streamer2.nexgen.bz/ATV/index.m3u8"
+  },
+  {
+    "id": 21,
+    "name": "Benguturk TV SD",
+    "photo": "https://i.imgur.com/p3ON1oX.png",
+    "category": "mix",
+    "url": "http://185.234.111.229:8000/play/a05u"
+  },
+  {
+    "id": 22,
+    "name": "Berat TV SD",
+    "photo": "https://i.postimg.cc/wB2qghBP/berattv.png",
+    "category": "mix",
+    "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
+  },
+  {
+    "id": 23,
+    "name": "Besiktas Web TV SD",
+    "photo": "https://i.ibb.co/bRhnM6W/qti5aea.png",
+    "category": "sport-spor",
+    "url": "https://s01.vpis.io/besiktas/besiktas.m3u8"
+  },
+  {
+    "id": 24,
+    "name": "Beyaz TV SD",
+    "photo": "https://i.imgur.com/uykIdML.png",
+    "category": "mix",
+    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3"
+  },
+  {
+    "id": 25,
+    "name": "Bir TV SD",
+    "photo": "https://birtv.tv/assets/upload/637f83951df60.png",
+    "category": "mix",
+    "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8"
+  },
+  {
+    "id": 26,
+    "name": "Bizimev TV SD",
+    "photo": "https://i.imgur.com/eJa6sFY.png",
+    "category": "mix",
+    "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8"
+  },
+  {
+    "id": 27,
+    "name": "Bloomberg HT SD",
+    "photo": "https://i.imgur.com/bmkXfIE.png",
+    "category": "news-haber",
+    "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
+  },
+  {
+    "id": 28,
+    "name": "Bric ve Satranc TV SD",
+    "photo": "https://i.imgur.com/TXDV1ty.png",
+    "category": "mix",
+    "url": "http://139.162.182.79/live/test/index.m3u8"
+  },
+  {
+    "id": 29,
+    "name": "BRTV SD",
+    "photo": "https://i.postimg.cc/Ls9qt4Yc/brtv.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+  },
+  {
+    "id": 30,
+    "name": "Bursa TV SD",
+    "photo": "https://i.imgur.com/9cl1MR8.png",
+    "category": "turkey-yerel",
+    "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
+  },
+  {
+    "id": 31,
+    "name": "Can TV SD",
+    "photo": "https://i.imgur.com/oIMtuwB.png",
+    "category": "news-haber",
+    "url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
+  },
+  {
+    "id": 32,
+    "name": "Cay TV SD",
+    "photo": "https://i.imgur.com/ndupxwu.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 33,
+    "name": "Cekmekoy TV SD",
+    "photo": "https://i.imgur.com/sjAGFWu.png",
+    "category": "turkey-yerel",
+    "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
+  },
+  {
+    "id": 34,
+    "name": "CGTN Documentary SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",
+    "category": "documentary-belgesel",
+    "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
+  },
+  {
+    "id": 35,
+    "name": "Ciftci TV SD",
+    "photo": "https://i.imgur.com/CLzP4vL.png",
+    "category": "farming-tarım",
+    "url": "http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8"
+  },
+  {
+    "id": 36,
+    "name": "Cine 1 SD",
+    "photo": "https://i.postimg.cc/ZRTqNJnW/cine1.png",
+    "category": "mix",
+    "url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8"
+  },
+  {
+    "id": 37,
+    "name": "Cine5 SD",
+    "photo": "https://i.imgur.com/AmcOAIY.png",
+    "category": "mix",
+    "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+  },
+  {
+    "id": 38,
+    "name": "Deha TV SD",
+    "photo": "https://i.postimg.cc/qRKB3gXX/dehatv.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8"
+  },
+  {
+    "id": 39,
+    "name": "Deniz Postasi TV SD",
+    "photo": "https://i.imgur.com/Mm8hdfx.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+  },
+  {
+    "id": 40,
+    "name": "Dersim62 TV SD",
+    "photo": "https://i.imgur.com/wFTl8aQ.png",
+    "category": "turkey-yerel",
+    "url": "http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8"
+  },
+  {
+    "id": 41,
+    "name": "DHA SD",
+    "photo": "https://i.postimg.cc/HxbHLRd6/dha.png",
+    "category": "news-haber",
+    "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
+  },
+  {
+    "id": 42,
+    "name": "Dim TV SD",
+    "photo": "https://i.imgur.com/X4QFDhk.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+  },
+  {
+    "id": 43,
+    "name": "Disney Jr. SD",
+    "photo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
+    "category": "child-çocuk",
+    "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8"
+  },
+  {
+    "id": 44,
+    "name": "Diyanet TV SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png",
+    "category": "quran-dini",
+    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+  },
+  {
+    "id": 45,
+    "name": "Diyar TV SD",
+    "photo": "https://i.imgur.com/qWkHjRA.png",
+    "category": "quran-dini",
+    "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
+  },
+  {
+    "id": 46,
+    "name": "Dost TV SD",
+    "photo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+    "category": "quran-dini",
+    "url": "https://dost.stream.emsal.im/tv/live.m3u8"
+  },
+  {
+    "id": 47,
+    "name": "Dream Turk SD",
+    "photo": "https://i.imgur.com/vJ8VaZi.png",
+    "category": "music-müzik",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
+  },
+  {
+    "id": 48,
+    "name": "DRT Denizli SD",
+    "photo": "https://i.postimg.cc/15s6yZsY/drtdenizli.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 49,
+    "name": "Edessa TV SD",
+    "photo": "https://i.postimg.cc/8CmgQWHY/edessatv.png",
+    "category": "mix",
+    "url": "https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8"
+  },
+  {
+    "id": 50,
+    "name": "ERTV SD",
+    "photo": "https://i.postimg.cc/VLKFTNnF/ertv.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+  },
+  {
+    "id": 51,
+    "name": "Erzurum Web TV SD",
+    "photo": "https://i.imgur.com/HF7N4Li.png",
+    "category": "turkey-yerel",
+    "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
+  },
+  {
+    "id": 52,
+    "name": "ES TV SD",
+    "photo": "https://i.imgur.com/epAEBrp.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
+  },
+  {
+    "id": 53,
+    "name": "ETV Kayseri SD",
+    "photo": "https://i.postimg.cc/zBpLByJt/etvkayseri.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
+  },
+  {
+    "id": 54,
+    "name": "ETV Manisa SD",
+    "photo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 55,
+    "name": "Euro D SD",
+    "photo": "https://i.imgur.com/x9kHsXo.png",
+    "category": "mix",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd"
+  },
+  {
+    "id": 56,
+    "name": "EuroStar SD",
+    "photo": "https://i.postimg.cc/W3tVGzGf/eurostar.png",
+    "category": "mix",
+    "url": "https://gknnowtv.onrender.com/eurostar.m3u8"
+  },
+  {
+    "id": 57,
+    "name": "FB TV SD",
+    "photo": "https://i.imgur.com/qBVqtYd.png",
+    "category": "sport-spor",
+    "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+  },
+  {
+    "id": 58,
+    "name": "Finans Turk TV SD",
+    "photo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+    "category": "news-haber",
+    "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+  },
+  {
+    "id": 59,
+    "name": "Flash TV SD",
+    "photo": "https://i.imgur.com/L0NHKBM.png",
+    "category": "mix",
+    "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8"
+  },
+  {
+    "id": 60,
+    "name": "Fortuna TV SD",
+    "photo": "https://i.imgur.com/ZbUSlOC.png",
+    "category": "mix",
+    "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+  },
+  {
+    "id": 61,
+    "name": "FX HD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png",
+    "category": "mix",
+    "url": "https://saran-live.ercdn.net/fx/index.m3u8"
+  },
+  {
+    "id": 62,
+    "name": "GEM Bollywood SD",
+    "photo": "https://i.imgur.com/2XASeBk.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8"
+  },
+  {
+    "id": 63,
+    "name": "GEM Classic SD",
+    "photo": "https://i.imgur.com/25BhuOf.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemclassic/index-0.m3u8"
+  },
+  {
+    "id": 64,
+    "name": "GEM Comedy SD",
+    "photo": "https://i.imgur.com/FuscfJW.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemcomedy/index-0.m3u8"
+  },
+  {
+    "id": 65,
+    "name": "GEM Drama SD",
+    "photo": "https://i.imgur.com/k2pGyRH.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemdrama/index-0.m3u8"
+  },
+  {
+    "id": 66,
+    "name": "GEM Drama + SD",
+    "photo": "https://gemgroup.tv/assets/images/channels/icon_7.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8"
+  },
+  {
+    "id": 67,
+    "name": "GEM Film SD",
+    "photo": "https://i.imgur.com/nrFz3LU.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8"
+  },
+  {
+    "id": 68,
+    "name": "GEM Fit SD",
+    "photo": "https://i.imgur.com/7FQxaII.png",
+    "category": "sport-spor",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8"
+  },
+  {
+    "id": 69,
+    "name": "GEM Food SD",
+    "photo": "https://i.imgur.com/SMtSinK.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfood/index-0.m3u8"
+  },
+  {
+    "id": 70,
+    "name": "GEM Junior SD",
+    "photo": "https://i.imgur.com/jK8yzj2.png",
+    "category": "child-çocuk",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8"
+  },
+  {
+    "id": 71,
+    "name": "GEM Kids SD",
+    "photo": "https://i.imgur.com/ArkjaFk.png",
+    "category": "child-çocuk",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8"
+  },
+  {
+    "id": 72,
+    "name": "GEM Life SD",
+    "photo": "https://i.imgur.com/gI8qePa.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8"
+  },
+  {
+    "id": 73,
+    "name": "GEM Mifa SD",
+    "photo": "https://i.imgur.com/qlI7o7V.png",
+    "category": "music-müzik",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8"
+  },
+  {
+    "id": 74,
+    "name": "GEM Mifa + SD",
+    "photo": "https://i.imgur.com/8FIAqR5.png",
+    "category": "music-müzik",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8"
+  },
+  {
+    "id": 75,
+    "name": "GEM Nature SD",
+    "photo": "https://i.imgur.com/ENvOMDQ.png",
+    "category": "documentary-belgesel",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8"
+  },
+  {
+    "id": 76,
+    "name": "GEM Onyx SD",
+    "photo": "https://i.imgur.com/gXRIAw4.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8"
+  },
+  {
+    "id": 77,
+    "name": "GEM Pixel SD",
+    "photo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+    "category": "mix",
+    "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+  },
+  {
+    "id": 78,
+    "name": "GEM River SD",
+    "photo": "https://i.imgur.com/yJ6f1B6.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemriver/index-0.m3u8"
+  },
+  {
+    "id": 79,
+    "name": "GEM River + SD",
+    "photo": "https://gemgroup.tv/assets/images/channels/icon_29.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemriverplus/index-0.m3u8"
+  },
+  {
+    "id": 80,
+    "name": "GEM Rubix SD",
+    "photo": "https://i.imgur.com/cDjOj58.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8"
+  },
+  {
+    "id": 81,
+    "name": "GEM Rubix + SD",
+    "photo": "https://gemgroup.tv/assets/images/channels/icon_31.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8"
+  },
+  {
+    "id": 82,
+    "name": "GEM Series SD",
+    "photo": "https://i.imgur.com/M0WMDXm.png",
+    "category": "mix",
+    "url": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemseries/index-0.m3u8"
+  },
+  {
+    "id": 83,
+    "name": "GEM Series + SD",
+    "photo": "https://gemgroup.tv/assets/images/channels/icon_33.png",
+    "category": "mix",
+    "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8"
+  },
+  {
+    "id": 84,
+    "name": "Gonca TV SD",
+    "photo": "https://i.imgur.com/TwqIJwo.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 85,
+    "name": "Grand Cinema SD",
+    "photo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+    "category": "mix",
+    "url": "https://gcinemahls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 86,
+    "name": "GRT SD",
+    "photo": "https://i.imgur.com/eRR0gkC.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8"
+  },
+  {
+    "id": 87,
+    "name": "Guneydogu TV SD",
+    "photo": "https://i.imgur.com/JT5pp3Y.png",
+    "category": "news-haber",
+    "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 88,
+    "name": "Guney TV Tarsus SD",
+    "photo": "https://i.imgur.com/solQ9nj.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8"
+  },
+  {
+    "id": 89,
+    "name": "GZT SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png",
+    "category": "documentary-belgesel",
+    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+  },
+  {
+    "id": 90,
+    "name": "Haber61 TV SD",
+    "photo": "https://i.imgur.com/2a2XUKl.png",
+    "category": "news-haber",
+    "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
+  },
+  {
+    "id": 91,
+    "name": "Haber Global SD",
+    "photo": "https://i.postimg.cc/fbQQPsGB/haberglobal.png",
+    "category": "news-haber",
+    "url": "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8"
+  },
+  {
+    "id": 92,
+    "name": "Haberturk TV SD",
+    "photo": "https://i.imgur.com/6Tw3rUp.png",
+    "category": "news-haber",
+    "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
+  },
+  {
+    "id": 93,
+    "name": "Halk TV SD",
+    "photo": "https://i.imgur.com/xM0HA30.png",
+    "category": "news-haber",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
+  },
+  {
+    "id": 94,
+    "name": "Helwa TV SD",
+    "photo": "",
+    "category": "mix",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8"
+  },
+  {
+    "id": 95,
+    "name": "HTSpor TV SD",
+    "photo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+    "category": "sport-spor",
+    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
+  },
+  {
+    "id": 96,
+    "name": "Hunat TV SD",
+    "photo": "https://i.imgur.com/NrxHGnb.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
+  },
+  {
+    "id": 97,
+    "name": "IBB TV SD",
+    "photo": "https://i.imgur.com/aXxAz84.png",
+    "category": "turkey-yerel",
+    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8"
+  },
+  {
+    "id": 98,
+    "name": "Icel TV SD",
+    "photo": "https://i.imgur.com/CGwImKv.png",
+    "category": "turkey-yerel",
+    "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 99,
+    "name": "Kanal 3 SD",
+    "photo": "https://i.imgur.com/eXErSv0.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
+  },
+  {
+    "id": 100,
+    "name": "Kanal 7 SD",
+    "photo": "https://i.imgur.com/0gq9xOm.png",
+    "category": "mix",
+    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+  },
+  {
+    "id": 101,
+    "name": "Kanal 7 Avrupa SD",
+    "photo": "https://i.imgur.com/wlfyj5l.png",
+    "category": "mix",
+    "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+  },
+  {
+    "id": 102,
+    "name": "Kanal 12 SD",
+    "photo": "https://i.imgur.com/51xCkXG.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8"
+  },
+  {
+    "id": 103,
+    "name": "Kanal 15 SD",
+    "photo": "https://i.postimg.cc/1tCqBv8c/kanal15.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
+  },
+  {
+    "id": 104,
+    "name": "Kanal 23 SD",
+    "photo": "https://i.imgur.com/3br8RCq.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8"
+  },
+  {
+    "id": 105,
+    "name": "Kanal 26 SD",
+    "photo": "https://i.postimg.cc/T2sbWHMT/kanal26.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
+  },
+  {
+    "id": 106,
+    "name": "Kanal 32 SD",
+    "photo": "https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+  },
+  {
+    "id": 107,
+    "name": "Kanal 33 SD",
+    "photo": "https://i.imgur.com/5WYaoFZ.png",
+    "category": "turkey-yerel",
+    "url": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8"
+  },
+  {
+    "id": 108,
+    "name": "Kanal 34 SD",
+    "photo": "https://i.imgur.com/SIaI6Sj.png",
+    "category": "turkey-yerel",
+    "url": "https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8"
+  },
+  {
+    "id": 109,
+    "name": "Kanal 38 SD",
+    "photo": "https://i.imgur.com/WvtZ7Xd.png",
+    "category": "turkey-yerel",
+    "url": "http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8"
+  },
+  {
+    "id": 110,
+    "name": "Kanal 68 SD",
+    "photo": "https://i.imgur.com/5y7K9SS.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8"
+  },
+  {
+    "id": 111,
+    "name": "Kanal Avrupa SD",
+    "photo": "https://i.imgur.com/bIGk6RN.png",
+    "category": "mix",
+    "url": "http://51.15.2.151/hls/kanalavrupa.m3u8"
+  },
+  {
+    "id": 112,
+    "name": "Kanal B SD",
+    "photo": "https://i.postimg.cc/qR5NygF1/kanalb.png",
+    "category": "turkey-yerel",
+    "url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8"
+  },
+  {
+    "id": 113,
+    "name": "Kanal D SD",
+    "photo": "https://i.imgur.com/9o1atM6.png",
+    "category": "mix",
+    "url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"
+  },
+  {
+    "id": 114,
+    "name": "Kanal D Drama SD",
+    "photo": "https://i.imgur.com/WIeZMKT.png",
+    "category": "mix",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+  },
+  {
+    "id": 115,
+    "name": "Kanal Firat SD",
+    "photo": "https://i.postimg.cc/v8Czdmm7/kanalfirat.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
+  },
+  {
+    "id": 116,
+    "name": "Kanal Hayat SD",
+    "photo": "https://i.postimg.cc/qMnGBdtP/kanalhayat.png",
+    "category": "mix",
+    "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
+  },
+  {
+    "id": 117,
+    "name": "Kanal V SD",
+    "photo": "https://i.imgur.com/7RNjTno.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
+  },
+  {
+    "id": 118,
+    "name": "Kanal Z SD",
+    "photo": "https://i.postimg.cc/kMRQwdy2/kanalz.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
+  },
+  {
+    "id": 119,
+    "name": "Kardelen TV SD",
+    "photo": "https://i.postimg.cc/1Rc2QbqW/kardelentv.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 120,
+    "name": "Kay TV SD",
+    "photo": "https://i.imgur.com/MymuDJ1.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8"
+  },
+  {
+    "id": 121,
+    "name": "Kent Turk SD",
+    "photo": "https://i.postimg.cc/KYxf8Wbf/kentturk.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+  },
+  {
+    "id": 122,
+    "name": "Konya Olay TV SD",
+    "photo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
+  },
+  {
+    "id": 123,
+    "name": "Kral Pop TV SD",
+    "photo": "https://i.imgur.com/ch365lh.png",
+    "category": "music-müzik",
+    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
+  },
+  {
+    "id": 124,
+    "name": "Kral TV SD",
+    "photo": "https://i.postimg.cc/Sx1LDQHz/kraltv.png",
+    "category": "music-müzik",
+    "url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8"
+  },
+  {
+    "id": 125,
+    "name": "Kudus TV SD",
+    "photo": "https://i.imgur.com/lwRA84B.png",
+    "category": "news-haber",
+    "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8"
+  },
+  {
+    "id": 126,
+    "name": "Lalegul TV SD",
+    "photo": "https://i.imgur.com/wwCysFs.png",
+    "category": "quran-dini",
+    "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8"
+  },
+  {
+    "id": 127,
+    "name": "Life TV SD",
+    "photo": "https://i.imgur.com/lWeJxm0.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
+  },
+  {
+    "id": 128,
+    "name": "Line TV SD",
+    "photo": "https://i.imgur.com/6GNp7f8.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 129,
+    "name": "MaviKaradeniz TV SD",
+    "photo": "https://i.imgur.com/wyWappU.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
+  },
+  {
+    "id": 130,
+    "name": "Med Muzik SD",
+    "photo": "https://i.postimg.cc/05d9mzJZ/medmuzik.png",
+    "category": "music-müzik",
+    "url": "http://54.36.110.140/live3/live3.m3u8"
+  },
+  {
+    "id": 131,
+    "name": "Mekameleen TV SD",
+    "photo": "https://i.postimg.cc/85dghYss/mekameleentv.png",
+    "category": "news-haber",
+    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+  },
+  {
+    "id": 132,
+    "name": "Meltem TV SD",
+    "photo": "https://i.imgur.com/C3m6w5S.png",
+    "category": "turkey-yerel",
+    "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
+  },
+  {
+    "id": 133,
+    "name": "Mercan TV SD",
+    "photo": "https://i.imgur.com/3CWV8bS.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
+  },
+  {
+    "id": 134,
+    "name": "Milyon TV SD",
+    "photo": "https://i.imgur.com/lEIFDwo.png",
+    "category": "mix",
+    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
+  },
+  {
+    "id": 135,
+    "name": "Minika Cocuk SD",
+    "photo": "https://i.imgur.com/VCywMTv.png",
+    "category": "child-çocuk",
+    "url": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8"
+  },
+  {
+    "id": 136,
+    "name": "Minika Go SD",
+    "photo": "https://i.imgur.com/qIoipDq.png",
+    "category": "child-çocuk",
+    "url": "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8"
+  },
+  {
+    "id": 137,
+    "name": "MovieSmart Turk SD",
+    "photo": "https://i.imgur.com/DWN9ulT.png",
+    "category": "mix",
+    "url": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174"
+  },
+  {
+    "id": 138,
+    "name": "MTurk TV SD",
+    "photo": "https://i.postimg.cc/BnTWzRNB/mturktv.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+  },
+  {
+    "id": 139,
+    "name": "National Geographic SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+    "category": "documentary-belgesel",
+    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+  },
+  {
+    "id": 140,
+    "name": "National Geographic Wild SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+    "category": "documentary-belgesel",
+    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+  },
+  {
+    "id": 141,
+    "name": "Natural TV SD",
+    "photo": "https://i.imgur.com/rfcJ674.png",
+    "category": "documentary-belgesel",
+    "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 142,
+    "name": "NOW TV SD",
+    "photo": "https://i.imgur.com/5EYjWK7.png",
+    "category": "mix",
+    "url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
+  },
+  {
+    "id": 143,
+    "name": "NTV SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png",
+    "category": "news-haber",
+    "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8"
+  },
+  {
+    "id": 144,
+    "name": "Number 1 Ask SD",
+    "photo": "https://i.imgur.com/slwbux7.png",
+    "category": "music-müzik",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+  },
+  {
+    "id": 145,
+    "name": "Number 1 Damar SD",
+    "photo": "https://i.imgur.com/rYtbAGZ.png",
+    "category": "music-müzik",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+  },
+  {
+    "id": 146,
+    "name": "Number 1 Dance SD",
+    "photo": "https://i.imgur.com/ZM4PSyq.png",
+    "category": "music-müzik",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+  },
+  {
+    "id": 147,
+    "name": "Number 1 Turk SD",
+    "photo": "https://i.imgur.com/18zjk3q.png",
+    "category": "music-müzik",
+    "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8"
+  },
+  {
+    "id": 148,
+    "name": "Number 1 TV SD",
+    "photo": "https://i.imgur.com/02cDIBi.png",
+    "category": "music-müzik",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
+  },
+  {
+    "id": 149,
+    "name": "OlayTurk TV SD",
+    "photo": "https://i.imgur.com/e9ca6gc.png",
+    "category": "news-haber",
+    "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
+  },
+  {
+    "id": 150,
+    "name": "On4 TV SD",
+    "photo": "https://i.imgur.com/qGRa1KI.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
+  },
+  {
+    "id": 151,
+    "name": "On 6 SD",
+    "photo": "https://i.imgur.com/k7rS2gC.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8"
+  },
+  {
+    "id": 152,
+    "name": "Oncu TV SD",
+    "photo": "https://i.imgur.com/TGPNYrD.jpg",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 153,
+    "name": "On Medya TV SD",
+    "photo": "https://i.imgur.com/thvk3Py.png",
+    "category": "news-haber",
+    "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8"
+  },
+  {
+    "id": 154,
+    "name": "Pamukkale TV SD",
+    "photo": "https://i.imgur.com/8fHgTIr.png",
+    "category": "turkey-yerel",
+    "url": "http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8"
+  },
+  {
+    "id": 155,
+    "name": "Power Dance SD",
+    "photo": "https://i.imgur.com/QpPteBO.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+  },
+  {
+    "id": 156,
+    "name": "Power Love SD",
+    "photo": "https://i.imgur.com/0RzUswR.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+  },
+  {
+    "id": 157,
+    "name": "Power Plus SD",
+    "photo": "https://i.imgur.com/susAPo6.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"
+  },
+  {
+    "id": 158,
+    "name": "PowerTurk Akustik SD",
+    "photo": "https://i.imgur.com/driabBO.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+  },
+  {
+    "id": 159,
+    "name": "PowerTurk En Iyiler SD",
+    "photo": "https://i.imgur.com/CM2Z9lg.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8"
+  },
+  {
+    "id": 160,
+    "name": "PowerTurk Slow SD",
+    "photo": "https://i.imgur.com/tQSoQXW.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+  },
+  {
+    "id": 161,
+    "name": "PowerTurk Taptaze SD",
+    "photo": "https://i.imgur.com/a5nW3HU.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+  },
+  {
+    "id": 162,
+    "name": "PowerTurk TV SD",
+    "photo": "https://i.imgur.com/9OPoXQG.png",
+    "category": "music-müzik",
+    "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8"
+  },
+  {
+    "id": 163,
+    "name": "Power TV SD",
+    "photo": "https://i.postimg.cc/RZmwMsnG/powertv.png",
+    "category": "music-müzik",
+    "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8"
+  },
+  {
+    "id": 164,
+    "name": "Qaf TV SD",
+    "photo": "https://i.postimg.cc/JhZwbhhR/qaftv.png",
+    "category": "quran-dini",
+    "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8"
+  },
+  {
+    "id": 165,
+    "name": "Rehber TV SD",
+    "photo": "https://i.imgur.com/fpkaw78.png",
+    "category": "quran-dini",
+    "url": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8"
+  },
+  {
+    "id": 166,
+    "name": "Sariyer TV SD",
+    "photo": "https://i.imgur.com/lfHVabz.png",
+    "category": "turkey-yerel",
+    "url": "https://s01.vpis.io/sariyer/sariyer.m3u8"
+  },
+  {
+    "id": 167,
+    "name": "Semerkand TV SD",
+    "photo": "https://i.imgur.com/UVGGrQd.png",
+    "category": "quran-dini",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
+  },
+  {
+    "id": 168,
+    "name": "Show Max SD",
+    "photo": "https://i.imgur.com/456FWA7.png",
+    "category": "mix",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8"
+  },
+  {
+    "id": 169,
+    "name": "Show TV SD",
+    "photo": "https://i.imgur.com/1l7SCCu.png",
+    "category": "mix",
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8"
+  },
+  {
+    "id": 170,
+    "name": "Sinop Yildiz TV SD",
+    "photo": "https://i.imgur.com/CjgbQTk.png",
+    "category": "turkey-yerel",
+    "url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8"
+  },
+  {
+    "id": 171,
+    "name": "Sports TV SD",
+    "photo": "https://i.postimg.cc/sXMS2194/sportstv.png",
+    "category": "sport-spor",
+    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+  },
+  {
+    "id": 172,
+    "name": "S Sport 2 SD",
+    "photo": "https://i.postimg.cc/13WfNszC/ssport2.png",
+    "category": "sport-spor",
+    "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
+  },
+  {
+    "id": 173,
+    "name": "S Sport SD",
+    "photo": "https://i.postimg.cc/3xrkRd30/ssport.png",
+    "category": "sport-spor",
+    "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8"
+  },
+  {
+    "id": 174,
+    "name": "Star TV SD",
+    "photo": "https://i.imgur.com/9O3DHRB.png",
+    "category": "mix",
+    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8"
+  },
+  {
+    "id": 175,
+    "name": "Sun RTV SD",
+    "photo": "https://i.postimg.cc/2yqxg2Km/sunrtv.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
+  },
+  {
+    "id": 176,
+    "name": "Tabii Spor 6 SD",
+    "photo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
+    "category": "sport-spor",
+    "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 177,
+    "name": "Tarih TV SD",
+    "photo": "https://i.imgur.com/HbIGZUt.png",
+    "category": "documentary-belgesel",
+    "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8"
+  },
+  {
+    "id": 178,
+    "name": "Tarim TV SD",
+    "photo": "https://i.imgur.com/q30sFms.png",
+    "category": "farming-tarım",
+    "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8"
+  },
+  {
+    "id": 179,
+    "name": "Tatlises TV SD",
+    "photo": "https://i.imgur.com/et1sbyq.png",
+    "category": "mix",
+    "url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8"
+  },
+  {
+    "id": 180,
+    "name": "TBMM TV SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",
+    "category": "news-haber",
+    "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+  },
+  {
+    "id": 181,
+    "name": "Tek Rumeli TV SD",
+    "photo": "https://i.imgur.com/skeNzbc.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8"
+  },
+  {
+    "id": 182,
+    "name": "Tele 1 SD",
+    "photo": "https://i.postimg.cc/ZY7bcVmn/tele1.png",
+    "category": "news-haber",
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+  },
+  {
+    "id": 183,
+    "name": "Tempo TV SD",
+    "photo": "https://i.imgur.com/tZpx32y.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
+  },
+  {
+    "id": 184,
+    "name": "Teve2 SD",
+    "photo": "https://i.postimg.cc/vZC5jSqX/teve2.png",
+    "category": "mix",
+    "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8"
+  },
+  {
+    "id": 185,
+    "name": "TGRT Belgesel SD",
+    "photo": "https://i.imgur.com/VwWTnf0.png",
+    "category": "documentary-belgesel",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8"
+  },
+  {
+    "id": 186,
+    "name": "TGRT Europe SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png",
+    "category": "mix",
+    "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8"
+  },
+  {
+    "id": 187,
+    "name": "TGRT Haber SD",
+    "photo": "https://i.imgur.com/PrxwKDw.png",
+    "category": "news-haber",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8"
+  },
+  {
+    "id": 188,
+    "name": "Tivi 6 SD",
+    "photo": "https://i.imgur.com/Mbi0jbz.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+  },
+  {
+    "id": 189,
+    "name": "TJK TV 2 SD",
+    "photo": "https://i.imgur.com/3zHdkYG.png",
+    "category": "sport-spor",
+    "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
+  },
+  {
+    "id": 190,
+    "name": "TJK TV SD",
+    "photo": "https://i.imgur.com/3zHdkYG.png",
+    "category": "sport-spor",
+    "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
+  },
+  {
+    "id": 191,
+    "name": "TMB SD",
+    "photo": "https://i.postimg.cc/HjDCFmMd/tmb.png",
+    "category": "mix",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8"
+  },
+  {
+    "id": 192,
+    "name": "Ton TV SD",
+    "photo": "https://i.imgur.com/f0Soeob.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
+  },
+  {
+    "id": 193,
+    "name": "Toprak TV SD",
+    "photo": "https://i.imgur.com/JGnS0qs.png",
+    "category": "farming-tarım",
+    "url": "https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8"
+  },
+  {
+    "id": 194,
+    "name": "Trabzon Buyuksehir Belediyesi TV FHD",
+    "photo": "https://tbbweb.tv/img/logo.png",
+    "category": "turkey-yerel",
+    "url": "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8"
+  },
+  {
+    "id": 195,
+    "name": "Trakya Turk SD",
+    "photo": "https://i.postimg.cc/PqskSYD9/trakyaturk.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8"
+  },
+  {
+    "id": 196,
+    "name": "TRT 1 SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",
+    "category": "mix",
+    "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+  },
+  {
+    "id": 197,
+    "name": "TRT 2 SD",
+    "photo": "https://i.imgur.com/iOCQdyD.png",
+    "category": "mix",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 198,
+    "name": "TRT 3 SD",
+    "photo": "https://i.imgur.com/JrWFwBd.png",
+    "category": "sport-spor",
+    "url": "https://tv-trt3.live.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 199,
+    "name": "TRT Arabi SD",
+    "photo": "https://i.imgur.com/dEfI2M9.png",
+    "category": "news-haber",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 200,
+    "name": "TRT Avaz SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png",
+    "category": "mix",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 201,
+    "name": "TRT Belgesel SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png",
+    "category": "documentary-belgesel",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 202,
+    "name": "TRT Cocuk SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "category": "child-çocuk",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 203,
+    "name": "TRT Diyanet Cocuk SD",
+    "photo": "https://i.imgur.com/8PmXz9t.png",
+    "category": "child-çocuk",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 204,
+    "name": "TRT EBA Ilkokul SD",
+    "photo": "https://i.imgur.com/CRBfZi4.png",
+    "category": "child-çocuk",
+    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 205,
+    "name": "TRT EBA Lise SD",
+    "photo": "https://i.imgur.com/vj2L2L2.png",
+    "category": "child-çocuk",
+    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 206,
+    "name": "TRT Haber SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+    "category": "news-haber",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 207,
+    "name": "TRT Kurdi SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png",
+    "category": "mix",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 208,
+    "name": "TRT Muzik SD",
+    "photo": "https://i.imgur.com/JgUzRH8.png",
+    "category": "music-müzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 209,
+    "name": "TRT Spor SD",
+    "photo": "https://i.imgur.com/6tv0zxh.png",
+    "category": "sport-spor",
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 210,
+    "name": "TRT Spor Yildiz SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+    "category": "sport-spor",
+    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 211,
+    "name": "TRT Turk SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",
+    "category": "mix",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd"
+  },
+  {
+    "id": 212,
+    "name": "TRT World SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
+    "category": "news-haber",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": 213,
+    "name": "TurkHaber TV SD",
+    "photo": "https://i.imgur.com/2AcRKdL.png",
+    "category": "news-haber",
+    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
+  },
+  {
+    "id": 214,
+    "name": "TV 1 SD",
+    "photo": "https://i.imgur.com/8CtrYVb.png",
+    "category": "turkey-yerel",
+    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
+  },
+  {
+    "id": 215,
+    "name": "TV 4 SD",
+    "photo": "https://i.imgur.com/UpsQsbd.png",
+    "category": "turkey-yerel",
+    "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+  },
+  {
+    "id": 216,
+    "name": "TV 8 SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",
+    "category": "mix",
+    "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+  },
+  {
+    "id": 217,
+    "name": "TV 38 SD",
+    "photo": "https://i.imgur.com/KDBXLqn.png",
+    "category": "turkey-yerel",
+    "url": "https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8"
+  },
+  {
+    "id": 218,
+    "name": "TV 41 SD",
+    "photo": "https://i.postimg.cc/GtZB71NP/tv41.png",
+    "category": "turkey-yerel",
+    "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8"
+  },
+  {
+    "id": 219,
+    "name": "TV 52 SD",
+    "photo": "https://i.postimg.cc/wxPsThvt/tv52.png",
+    "category": "turkey-yerel",
+    "url": "http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8"
+  },
+  {
+    "id": 220,
+    "name": "TV 8.5 SD",
+    "photo": "https://i.postimg.cc/wTmRt7yw/tv85.png",
+    "category": "mix",
+    "url": "http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8"
+  },
+  {
+    "id": 221,
+    "name": "TV 100 SD",
+    "photo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png",
+    "category": "news-haber",
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
+  },
+  {
+    "id": 222,
+    "name": "TV 264 SD",
+    "photo": "https://i.postimg.cc/CxCZNX4D/tv264.png",
+    "category": "turkey-yerel",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
+  },
+  {
+    "id": 223,
+    "name": "TVA SD",
+    "photo": "https://www.lyngsat.com/logo/tv/tt/tva-tr.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
+  },
+  {
+    "id": 224,
+    "name": "TV Den SD",
+    "photo": "https://i.postimg.cc/QM3dHRfF/tvden.png",
+    "category": "turkey-yerel",
+    "url": "http://canli.tvden.com.tr/hls/live.m3u8"
+  },
+  {
+    "id": 225,
+    "name": "TVNET SD",
+    "photo": "https://i.imgur.com/mQo8yWQ.png",
+    "category": "mix",
+    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
+  },
+  {
+    "id": 226,
+    "name": "TYT Turk SD",
+    "photo": "https://tytturk.com/upload/tyt-logo.png",
+    "category": "news-haber",
+    "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+  },
+  {
+    "id": 227,
+    "name": "UcanKus TV SD",
+    "photo": "https://i.imgur.com/4j8WrIu.png",
+    "category": "mix",
+    "url": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8"
+  },
+  {
+    "id": 228,
+    "name": "Ulke TV SD",
+    "photo": "https://i.imgur.com/wdWR7Qk.png",
+    "category": "news-haber",
+    "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
+  },
+  {
+    "id": 229,
+    "name": "Ulusal Kanal SD",
+    "photo": "https://i.imgur.com/EwSg612.png",
+    "category": "mix",
+    "url": "https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8"
+  },
+  {
+    "id": 230,
+    "name": "Universite TV SD",
+    "photo": "https://i.imgur.com/KeauaSh.png",
+    "category": "mix",
+    "url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8"
+  },
+  {
+    "id": 231,
+    "name": "Urfa Natik TV SD",
+    "photo": "https://i.imgur.com/8KO0uxn.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
+  },
+  {
+    "id": 232,
+    "name": "UU TV 1 SD",
+    "photo": "https://i.imgur.com/H5kOQz5.png",
+    "category": "mix",
+    "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8"
+  },
+  {
+    "id": 233,
+    "name": "UU TV 2 SD",
+    "photo": "https://i.imgur.com/FjFjdY5.png",
+    "category": "mix",
+    "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8"
+  },
+  {
+    "id": 234,
+    "name": "Vav TV SD",
+    "photo": "https://i.postimg.cc/qM8jHK62/vavtv.png",
+    "category": "mix",
+    "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
+  },
+  {
+    "id": 235,
+    "name": "Viasat Explore SD",
+    "photo": "https://i.imgur.com/DyT5pKB.png",
+    "category": "documentary-belgesel",
+    "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8"
+  },
+  {
+    "id": 236,
+    "name": "Vizyon 58 TV SD",
+    "photo": "https://i.imgur.com/tITBc59.png",
+    "category": "turkey-yerel",
+    "url": "https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8"
+  },
+  {
+    "id": 237,
+    "name": "V TV SD",
+    "photo": "https://www.vtv.net.tr/uploads/logo/sitelogo_4.jpg",
+    "category": "turkey-yerel",
+    "url": "https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8"
+  },
+  {
+    "id": 238,
+    "name": "Woman TV SD",
+    "photo": "https://i.imgur.com/f2zGoV3.png",
+    "category": "mix",
+    "url": "https://embedlp.becdn.net/womantv.m3u8"
+  },
+  {
+    "id": 239,
+    "name": "Zarok TV SD",
+    "photo": "https://i.imgur.com/o0eevnb.png",
+    "category": "child-çocuk",
+    "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
+  }
+]
