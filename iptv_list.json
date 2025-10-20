@@ -1,4 +1,4 @@
-[
+7[
   {
     "id": 0,
     "name": "4U TV SD",
@@ -10,14 +10,14 @@
     "id": 1,
     "name": "24 TV SD",
     "photo": "https://i.imgur.com/8FO41es.png",
-    "category": "news-haber",
+    "category": "News-Haber",
     "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
   },
   {
     "id": 2,
     "name": "360 SD",
     "photo": "https://i.imgur.com/agn47sQ.png",
-    "category": "news-haber",
+    "category": "News-Haber",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
   },
   {
