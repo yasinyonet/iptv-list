@@ -1,20 +1,20 @@
 [
   {
-    "id": 190,
+    "id": 0,
     "name": "24 TV (1080p)",
     "photo": "https://i.imgur.com/8FO41es.png",
     "category": "News-Haber",
     "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
   },
   {
-    "id": 191,
+    "id": 1,
     "name": "360 TV (720p) [Not 24/7]",
     "photo": "https://i.imgur.com/agn47sQ.png",
     "category": "News-Haber",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
   },
   {
-    "id": 192,
+    "id": 2,
     "name": "A2TV",
     "photo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
     "category": "Mix",
@@ -98,7 +98,7 @@
     "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8"
   },
   {
-    "id": 4,
+    "id": 14,
     "name": "ATV (360p)",
     "photo": "https://i.imgur.com/HyVUwFC.png",
     "category": "Mix",
@@ -567,7 +567,7 @@
     "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
   },
   {
-    "id": 8,
+    "id": 81,
     "name": "Kanal 7 (1080p) [Not 24/7]",
     "photo": "https://i.imgur.com/0gq9xOm.png",
     "category": "Mix",
@@ -658,7 +658,7 @@
     "url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8"
   },
   {
-    "id": 5,
+    "id": 94,
     "name": "Kanal D (1080p)",
     "photo": "https://i.imgur.com/9o1atM6.png",
     "category": "Mix",
@@ -1141,7 +1141,7 @@
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8"
   },
   {
-    "id": 6,
+    "id": 163,
     "name": "Show TV (1080p)",
     "photo": "https://i.imgur.com/1l7SCCu.png",
     "category": "Mix",
@@ -1162,7 +1162,7 @@
     "url": "https://live.sportstv.com.tr/hls/low/Sport-Sportv.m3u8"
   },
   {
-    "id": 7,
+    "id": 166,
     "name": "Star TV (720p) [Not 24/7]",
     "photo": "https://i.imgur.com/9O3DHRB.png",
     "category": "Mix",
@@ -1330,21 +1330,21 @@
     "url": "https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8"
   },
   {
-    "id": 0,
+    "id": 190,
     "name": "TRT 1 (1080p)",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",
     "category": "Mix",
     "url": ""
   },
   {
-    "id": 1,
+    "id": 191,
     "name": "TRT 2 (720p)",
     "photo": "https://i.imgur.com/iOCQdyD.png",
     "category": "Mix",
     "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
   },
   {
-    "id": 2,
+    "id": 192,
     "name": "TRT 3",
     "photo": "https://i.imgur.com/JrWFwBd.png",
     "category": "Mix",
