@@ -102,7 +102,7 @@
   "name": "Cnn Türk",
   "category": "News-Haber",
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/cnnturk.png",
-  "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=c-k8FjX3540TVgXrPoy0Ow&e=1750605867"
+  "url": "http://116.202.238.88/CNNTURK_TR/index.m3u8"
  },
  {
   "id":15,
