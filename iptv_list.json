@@ -4,14 +4,14 @@
     "name": "TRT 1 HD",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",
     "category": "Mix",
-    "url": ""
+    "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8"
   },
   {
     "id": 1,
     "name": "ATV HD",
     "photo": "https://i.imgur.com/HyVUwFC.png",
     "category": "Mix",
-    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
+    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8"
   },
   {
     "id": 2,
