@@ -1,10 +1,10 @@
 [
  {
-  "id":4,
-  "name": "TRT 1 FHD",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
+  "id":0,
+  "name": "Kanal D FHD",
   "category": "mix",
-  "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8"
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/kanal-d.png",
+  "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8"
  },
  {
   "id":1,
@@ -27,12 +27,12 @@
   "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/show-tv.png",
   "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8"
  },
- {
-  "id":0,
-  "name": "Kanal D FHD",
+{
+  "id":4,
+  "name": "TRT 1 FHD",
+  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/trt1.png",
   "category": "mix",
-  "photo": "https://github.com/yasinyonet/iptv-list/raw/main/iptv-logo/kanal-d.png",
-  "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8"
+  "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8"
  },
  {
   "id":5,
