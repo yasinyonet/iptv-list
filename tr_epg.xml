@@ -10,7 +10,7 @@
 <channel id="50"><display-name>TRT 2</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="5"><display-name>Sinema Aksiyon 2</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="10"><display-name>Sinema 1001</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="28"><display-name>NOW TV</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="28"><display-name>NOW</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="49"><display-name>Bengü Türk TV</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="48"><display-name>TV 4</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="27"><display-name>Kanal 7</display-name><url>https://turksatkablo.com.tr</url></channel>
@@ -7457,4 +7457,4 @@
 <programme start="20260310080000 +0000" stop="20260310082200 +0000" channel="106"><title lang="tr">Parlons-en : le journal</title></programme>
 <programme start="20260310082200 +0000" stop="20260310083000 +0000" channel="106"><title lang="tr">L&apos;info éco</title></programme>
 <programme start="20260310083000 +0000" stop="20260310084200 +0000" channel="106"><title lang="tr">Parlons-en : le journal</title></programme>
-<programme start="20260310084200 +0000" stop="202603
+<programme start="20260310084200 +0000" stop="202
