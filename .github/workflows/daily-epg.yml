@@ -2,37 +2,79 @@ name: Günlük EPG Güncelleme (turksatkablo)
 
 on:
   schedule:
-    # Her gün Türkiye saatiyle 03:00'da çalışır (UTC 00:00)
     - cron: '0 0 * * *'
-  workflow_dispatch:  # Manuel tetikleme için
+  workflow_dispatch:
 
 jobs:
   update-epg:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: 1️⃣ Depo kodlarını indir
         uses: actions/checkout@v3
-
-      - name: 2️⃣ Node.js kur (v18)
+      
+      - name: 2️⃣ Dosyaları listele (debug)
+        run: |
+          echo "=== Dizin içeriği ==="
+          ls -la
+          echo "=== package.json var mı? ==="
+          find . -name "package.json" -type f
+      
+      - name: 3️⃣ Node.js kur (v18)
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-
-      - name: 3️⃣ Proje bağımlılıklarını yükle (npm install)
-        run: npm install
-
-      - name: 4️⃣ EPG verisini çek (npm run grab)
-        run: npm run grab --- --site=turksatkablo.com.tr --output=./tr_epg.xml
-        # DİKKAT: --output yolunu ana dizindeki tr_epg.xml olarak değiştirdim.
-        # Eğer komutunuz zaten doğru yolu kullanıyorsa burayı olduğu gibi bırakabilirsiniz.
-
-      - name: 5️⃣ Değişiklikleri GitHub'a geri gönder
+      
+      - name: 4️⃣ Eğer package.json yoksa oluştur
+        run: |
+          if [ ! -f package.json ]; then
+            echo "package.json bulunamadı, oluşturuluyor..."
+            npm init -y
+            # EPG çekme script'i için gerekli olabilecek paketler
+            npm install xml2js axios cheerio
+          else
+            echo "package.json mevcut, npm install çalıştırılıyor..."
+            npm install
+          fi
+      
+      - name: 5️⃣ EPG çekme script'ini kontrol et
+        run: |
+          echo "=== package.json içeriği ==="
+          cat package.json
+          echo "=== npm run grab var mı? ==="
+          npm run | grep grab || echo "grab script'i tanımlı değil!"
+      
+      - name: 6️⃣ EPG'yi çek (farklı yöntem dene)
+        run: |
+          # Eğer npm run grab çalışmazsa, alternatif komutlar dene
+          if npm run | grep -q grab; then
+            echo "npm run grab çalıştırılıyor..."
+            npm run grab --- --site=turksatkablo.com.tr --output=./tr_epg.xml
+          else
+            echo "grab script'i yok, doğrudan node komutu dene..."
+            # Buraya EPG çekmek için kullanmanız gereken gerçek komutu yazın
+            # Örnek: node epg-grabber.js --site=turksatkablo.com.tr --output=./tr_epg.xml
+            echo "!!! LÜTFEN: EPG çekmek için kullandığınız gerçek komutu yazın !!!"
+            exit 1
+          fi
+      
+      - name: 7️⃣ Oluşan dosyayı kontrol et
+        run: |
+          echo "=== tr_epg.xml var mı? ==="
+          ls -la tr_epg.xml || echo "tr_epg.xml oluşturulmamış!"
+          echo "=== Dosya boyutu ==="
+          wc -l tr_epg.xml 2>/dev/null || echo "Dosya yok"
+      
+      - name: 8️⃣ Değişiklikleri GitHub'a geri gönder
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tr_epg.xml
-          # Eğer başka dosyalar da değişiyorsa (örn. iptv_list.json) onları da ekleyin:
-          # git add iptv_list.json tr.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Otomatik EPG güncellemesi: turksatkablo.com.tr - $(date +'%d.%m.%Y')"
-          git push
+          
+          if [ -f tr_epg.xml ]; then
+            git add tr_epg.xml
+            git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Otomatik EPG güncellemesi: turksatkablo.com.tr - $(date +'%d.%m.%Y')"
+            git push
+          else
+            echo "tr_epg.xml dosyası bulunamadı, commit atlanıyor."
+            exit 1
+          fi
