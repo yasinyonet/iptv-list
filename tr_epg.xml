@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260311">
 <channel id="1"><display-name>Kablo Info</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="933"><display-name>TRT Eba</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="931"><display-name>DMAX</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="930"><display-name>24</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="928"><display-name>a2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="926"><display-name>TLC</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="925"><display-name>Bloomberg HT</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="922"><display-name>HABERTÜRK TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="920"><display-name>NTV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="919"><display-name>A Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="918"><display-name>TRT Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="915"><display-name>TRT Belgesel</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="914"><display-name>TRT Çocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="913"><display-name>TGRT Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="912"><display-name>A Spor</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="911"><display-name>TRT Spor</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="910"><display-name>Haber Global</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="2"><display-name>Sinema TV</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="3"><display-name>Sinema 2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="6"><display-name>Sinema Yerli</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="11"><display-name>Sinema 1002</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="5"><display-name>Sinema Aksiyon 2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="10"><display-name>Sinema 1001</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="9"><display-name>Sinema Aile 2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="25"><display-name>Kanal D</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="4"><display-name>Sinema Aksiyon</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="8"><display-name>Sinema Aile</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="24"><display-name>Show</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="23"><display-name>Atv</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="7"><display-name>Sinema Yerli 2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="22"><display-name>TRT 1</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="13"><display-name>Sinema Komedi 2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="12"><display-name>Sinema Komedi</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="909"><display-name>NOW</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="908"><display-name>Kanal D</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="907"><display-name>TV 8</display-name><url>https://turksatkablo.com.tr</url></channel>
@@ -160,22 +160,22 @@
 <channel id="28"><display-name>NOW</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="27"><display-name>Kanal 7</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="26"><display-name>Star</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="25"><display-name>Kanal D</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="24"><display-name>Show</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="23"><display-name>Atv</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="22"><display-name>TRT 1</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="13"><display-name>Sinema Komedi 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="12"><display-name>Sinema Komedi</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="11"><display-name>Sinema 1002</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="10"><display-name>Sinema 1001</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="9"><display-name>Sinema Aile 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="8"><display-name>Sinema Aile</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="7"><display-name>Sinema Yerli 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="6"><display-name>Sinema Yerli</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="5"><display-name>Sinema Aksiyon 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="4"><display-name>Sinema Aksiyon</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="3"><display-name>Sinema 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="2"><display-name>Sinema TV</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="928"><display-name>a2</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="926"><display-name>TLC</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="922"><display-name>HABERTÜRK TV</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="920"><display-name>NTV</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="919"><display-name>A Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="918"><display-name>TRT Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="914"><display-name>TRT Çocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="913"><display-name>TGRT Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="912"><display-name>A Spor</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="911"><display-name>TRT Spor</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="933"><display-name>TRT Eba</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="931"><display-name>DMAX</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="930"><display-name>24</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="915"><display-name>TRT Belgesel</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="910"><display-name>Haber Global</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="925"><display-name>Bloomberg HT</display-name><url>https://turksatkablo.com.tr</url></channel>
 <programme start="20260311030000 +0000" stop="20260311070000 +0000" channel="1"><title lang="tr">KABLO İnfo</title></programme>
 <programme start="20260311070000 +0000" stop="20260311110000 +0000" channel="1"><title lang="tr">KABLO İnfo</title></programme>
 <programme start="20260311110000 +0000" stop="20260311150000 +0000" channel="1"><title lang="tr">KABLO İnfo</title></programme>
@@ -1743,6 +1743,31 @@
 <programme start="20260313134500 +0000" stop="20260313153000 +0000" channel="41"><title lang="tr">Cevap Ver Türkiye</title></programme>
 <programme start="20260313153000 +0000" stop="20260313170000 +0000" channel="41"><title lang="tr">Bir Demet Tiyatro</title></programme>
 <programme start="20260313170000 +0000" stop="20260313211500 +0000" channel="41"><title lang="tr">Jet Sosyete</title></programme>
+<programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="43"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="43"><title lang="tr">Sportmence</title></programme>
+<programme start="20260310230000 +0000" stop="20260310233000 +0000" channel="43"><title lang="tr">Geçmişten Günümüze Demir Yolları</title></programme>
+<programme start="20260310233000 +0000" stop="20260311023000 +0000" channel="43"><title lang="tr">Güne Bakış</title></programme>
+<programme start="20260311023000 +0000" stop="20260311031000 +0000" channel="43"><title lang="tr">Sahur Vakti</title></programme>
+<programme start="20260311031000 +0000" stop="20260311040000 +0000" channel="43"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260311040000 +0000" stop="20260311073000 +0000" channel="43"><title lang="tr">Güne Bakış</title></programme>
+<programme start="20260311073000 +0000" stop="20260311090000 +0000" channel="43"><title lang="tr">Biz Bize</title></programme>
+<programme start="20260311090000 +0000" stop="20260311093000 +0000" channel="43"><title lang="tr">Haber</title></programme>
+<programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="43"><title lang="tr">Orkestra Akademik Başkent</title></programme>
+<programme start="20260311100000 +0000" stop="20260311103000 +0000" channel="43"><title lang="tr">Haber</title></programme>
+<programme start="20260311103000 +0000" stop="20260311110000 +0000" channel="43"><title lang="tr">Ellerin Türküsü</title></programme>
+<programme start="20260311110000 +0000" stop="20260311113000 +0000" channel="43"><title lang="tr">Haber</title></programme>
+<programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="43"><title lang="tr">Anka</title></programme>
+<programme start="20260311120000 +0000" stop="20260311123000 +0000" channel="43"><title lang="tr">Haber</title></programme>
+<programme start="20260311123000 +0000" stop="20260311130000 +0000" channel="43"><title lang="tr">Eğitime Yolculuk</title></programme>
+<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="43"><title lang="tr">Sağlıklı ve Formda Sohbetler</title></programme>
+<programme start="20260311140000 +0000" stop="20260311153000 +0000" channel="43"><title lang="tr">Günce</title></programme>
+<programme start="20260311153000 +0000" stop="20260311160000 +0000" channel="43"><title lang="tr">İftara Doğru</title></programme>
+<programme start="20260311160000 +0000" stop="20260311170000 +0000" channel="43"><title lang="tr">Başkentte Sağlık</title></programme>
+<programme start="20260311170000 +0000" stop="20260311180000 +0000" channel="43"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20260311180000 +0000" stop="20260311190000 +0000" channel="43"><title lang="tr">Güne Bakış</title></programme>
+<programme start="20260311190000 +0000" stop="20260311193000 +0000" channel="43"><title lang="tr">Eczane Köşesi</title></programme>
+<programme start="20260311193000 +0000" stop="20260311200000 +0000" channel="43"><title lang="tr">Ben Çanakkale</title></programme>
+<programme start="20260311200000 +0000" stop="20260311210000 +0000" channel="43"><title lang="tr">Yurdun Sesi</title></programme>
 <programme start="20260311210000 +0000" stop="20260311220000 +0000" channel="43"><title lang="tr">Ana Haber Bülteni</title></programme>
 <programme start="20260311220000 +0000" stop="20260311233000 +0000" channel="43"><title lang="tr">Günce</title></programme>
 <programme start="20260311233000 +0000" stop="20260312023000 +0000" channel="43"><title lang="tr">Güne Bakış</title></programme>
@@ -5630,6 +5655,24 @@
 <programme start="20260313160000 +0000" stop="20260313170000 +0000" channel="81"><title lang="tr">Rok İle Haber Yorum</title></programme>
 <programme start="20260313170000 +0000" stop="20260313185500 +0000" channel="81"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20260313185500 +0000" stop="20260313210000 +0000" channel="81"><title lang="tr">Sebep-Sonuç Özel</title></programme>
+<programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="82"><title lang="tr">Başrol</title></programme>
+<programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="82"><title lang="tr">Haber 08</title></programme>
+<programme start="20260311060000 +0000" stop="20260311080000 +0000" channel="82"><title lang="tr">Sağlık Gündemi</title></programme>
+<programme start="20260311080000 +0000" stop="20260311090000 +0000" channel="82"><title lang="tr">Yağmur Zamanı</title></programme>
+<programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="82"><title lang="tr">Yağmur Zamanı</title></programme>
+<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="82"><title lang="tr">Haber 13</title></programme>
+<programme start="20260311110000 +0000" stop="20260311120000 +0000" channel="82"><title lang="tr">Dünya&apos;nın Lezzetleri</title></programme>
+<programme start="20260311120000 +0000" stop="20260311123000 +0000" channel="82"><title lang="tr">Haber 15</title></programme>
+<programme start="20260311123000 +0000" stop="20260311130000 +0000" channel="82"><title lang="tr">Emeğin Öyküsü</title></programme>
+<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="82"><title lang="tr">Başka Sohbetler</title></programme>
+<programme start="20260311140000 +0000" stop="20260311143000 +0000" channel="82"><title lang="tr">Haber 17</title></programme>
+<programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="82"><title lang="tr">Senin Şehrin</title></programme>
+<programme start="20260311150000 +0000" stop="20260311160000 +0000" channel="82"><title lang="tr">Başrol</title></programme>
+<programme start="20260311160000 +0000" stop="20260311170000 +0000" channel="82"><title lang="tr">Ana Haber</title></programme>
+<programme start="20260311170000 +0000" stop="20260311180000 +0000" channel="82"><title lang="tr">Asla Vazgeçmem - Özel</title></programme>
+<programme start="20260311180000 +0000" stop="20260311190000 +0000" channel="82"><title lang="tr">Asla Vazgeçmem</title></programme>
+<programme start="20260311190000 +0000" stop="20260311200000 +0000" channel="82"><title lang="tr">Asla Vazgeçmem</title></programme>
+<programme start="20260311200000 +0000" stop="20260312040000 +0000" channel="82"><title lang="tr">Başrol</title></programme>
 <programme start="20260312040000 +0000" stop="20260312050000 +0000" channel="82"><title lang="tr">Başrol</title></programme>
 <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="82"><title lang="tr">Haber 08</title></programme>
 <programme start="20260312060000 +0000" stop="20260312080000 +0000" channel="82"><title lang="tr">Sağlık Gündemi</title></programme>
@@ -19633,23 +19676,6 @@
 <programme start="20260313200000 +0000" stop="20260313205000 +0000" channel="920"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20260313205000 +0000" stop="20260313205500 +0000" channel="920"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20260313205500 +0000" stop="20260313210000 +0000" channel="920"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20260310213000 +0000" stop="20260310220000 +0000" channel="922"><title lang="tr">Osman Egin ile Ramazan Notları</title></programme>
-<programme start="20260310220000 +0000" stop="20260310231500 +0000" channel="922"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260310231500 +0000" stop="20260311020000 +0000" channel="922"><title lang="tr">Nedir Ne Değildir ?</title></programme>
-<programme start="20260311020000 +0000" stop="20260311023000 +0000" channel="922"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="922"><title lang="tr">Osman Egin ile Ramazan Notları</title></programme>
-<programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="922"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20260311040000 +0000" stop="20260311070000 +0000" channel="922"><title lang="tr">Gün Başlıyor</title></programme>
-<programme start="20260311070000 +0000" stop="20260311084500 +0000" channel="922"><title lang="tr">Para Gündem</title></programme>
-<programme start="20260311084500 +0000" stop="20260311090000 +0000" channel="922"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20260311090000 +0000" stop="20260311110000 +0000" channel="922"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20260311110000 +0000" stop="20260311124500 +0000" channel="922"><title lang="tr">Haber Hattı</title></programme>
-<programme start="20260311124500 +0000" stop="20260311130000 +0000" channel="922"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="922"><title lang="tr">Ht 360</title></programme>
-<programme start="20260311140000 +0000" stop="20260311160000 +0000" channel="922"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20260311160000 +0000" stop="20260311170000 +0000" channel="922"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20260311170000 +0000" stop="20260311200000 +0000" channel="922"><title lang="tr">Açık ve Net</title></programme>
-<programme start="20260311200000 +0000" stop="20260311213000 +0000" channel="922"><title lang="tr">Gece Raporu</title></programme>
 <programme start="20260311213000 +0000" stop="20260311220000 +0000" channel="922"><title lang="tr">Osman Egin ile Ramazan Notları</title></programme>
 <programme start="20260311220000 +0000" stop="20260311231500 +0000" channel="922"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20260311231500 +0000" stop="20260312020000 +0000" channel="922"><title lang="tr">Açık ve Net</title></programme>

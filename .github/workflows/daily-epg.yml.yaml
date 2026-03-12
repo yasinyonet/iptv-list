@@ -1,0 +1,52 @@
+name: Günlük EPG Güncelleme (turksatkablo)
+
+on:
+  schedule:
+    # Her gün Türkiye saatiyle 03:00'da (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Manuel tetikleme için
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Ana repoyu (iptv-list) indir. Bu reponun içinde epg alt modülü var mı?
+      # Eğer epg klasörü repoda mevcutsa, actions/checkout onu da indirecektir.
+      - name: Ana depoyu kontrol et (iptv-list)
+        uses: actions/checkout@v3
+        with:
+          # Eğer epg bir alt modül (submodule) ise, submodules: true eklenmeli.
+          # Ama epg klasörü normal bir klasörse (git submodule değilse) bu yeterli.
+          submodules: true  # Eğer epg alt modülse, bunu ekleyin; değilse kaldırabilirsiniz.
+          path: iptv-list
+
+      # 2. Node.js kur
+      - name: Node.js kur (v18)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3. epg klasöründe bağımlılıkları yükle
+      - name: EPG bağımlılıklarını yükle
+        run: |
+          cd iptv-list/epg
+          npm install
+
+      # 4. EPG'yi çek (npm run grab)
+      - name: EPG verisini çek (turksatkablo.com.tr)
+        run: |
+          cd iptv-list/epg
+          # Çıktıyı ana dizindeki tr_epg.xml olarak belirt
+          npm run grab --- --site=turksatkablo.com.tr --output=../tr_epg.xml
+
+      # 5. Değişiklikleri kontrol et ve GitHub'a gönder
+      - name: Değişiklikleri commit ve push et
+        run: |
+          cd iptv-list
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tr_epg.xml
+          # Eğer sadece tr_epg.xml değişmişse commit al
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Otomatik EPG güncellemesi: turksatkablo.com.tr - $(date +'%d.%m.%Y')"
+          git push
