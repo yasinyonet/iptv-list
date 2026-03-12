@@ -13,7 +13,7 @@ jobs:
     steps:
       # 1. Ana repoyu (iptv-list) indir. Bu reponun içinde epg alt modülü var mı?
       # Eğer epg klasörü repoda mevcutsa, actions/checkout onu da indirecektir.
-      - name: Ana depoyu kontrol et (iptv-list)
+      - name: 1️⃣ Ana depoyu kontrol et (iptv-list)
         uses: actions/checkout@v3
         with:
           # Eğer epg bir alt modül (submodule) ise, submodules: true eklenmeli.
@@ -22,26 +22,26 @@ jobs:
           path: iptv-list
 
       # 2. Node.js kur
-      - name: Node.js kur (v18)
+      - name: 2️⃣ Node.js kur (v18)
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
       # 3. epg klasöründe bağımlılıkları yükle
-      - name: EPG bağımlılıklarını yükle
+      - name: 3️⃣ EPG bağımlılıklarını yükle
         run: |
           cd iptv-list/epg
           npm install
 
       # 4. EPG'yi çek (npm run grab)
-      - name: EPG verisini çek (turksatkablo.com.tr)
+      - name: 4️⃣ EPG verisini çek (turksatkablo.com.tr)
         run: |
           cd iptv-list/epg
           # Çıktıyı ana dizindeki tr_epg.xml olarak belirt
           npm run grab --- --site=turksatkablo.com.tr --output=../tr_epg.xml
 
       # 5. Değişiklikleri kontrol et ve GitHub'a gönder
-      - name: Değişiklikleri commit ve push et
+      - name: 5️⃣ Değişiklikleri commit ve push et
         run: |
           cd iptv-list
           git config user.name "github-actions[bot]"
