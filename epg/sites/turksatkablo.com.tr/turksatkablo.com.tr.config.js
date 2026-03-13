@@ -12,7 +12,7 @@ dayjs.extend(customParseFormat);
 
 module.exports = {
   site: 'turksatkablo.com.tr',
-  days: 3, // 2 günlük EPG çek
+  days: 2, // 2 günlük EPG çek
   url({ date }) {
     // date: dayjs objesi (sistem tarafından sağlanır)
     const dayOfMonth = date.format('D'); // Tek haneli gün (1-31)
