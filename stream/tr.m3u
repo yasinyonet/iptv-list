@@ -5,7 +5,7 @@ https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/kanal-d.png" tvg-url="https://www.kanald.com.tr/" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" group-title="Ulusal",NOW TV
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" tvg-url="https://www.nowtv.com.tr/" group-title="Ulusal",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/Show_TV.png" tvg-url="https://www.showtv.com.tr/" group-title="Ulusal",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
