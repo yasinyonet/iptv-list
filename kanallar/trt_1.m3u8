@@ -1,7 +1,9 @@
-<html><head><meta name="viewport" content="width=device-width">
+<html>
+<head><meta name="viewport" content="width=device-width">
 </head>
 <body>
-<video controls="" autoplay="" name="media"><source src="https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8" type="application/x-mpegurl">
+<video controls="" autoplay="" name="media">
+<source src="https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8" type="application/x-mpegurl">
 </video>
 </body>
 </html>
