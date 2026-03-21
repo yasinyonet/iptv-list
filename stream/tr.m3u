@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-turkey.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/tr_epg.xml" url-tvg="https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/tr_epg.xml" tvg-url="https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/tr_epg.xml"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/TRT_1.png" tvg-url="https://www.trt1.com.tr/" group-title="Ulusal",TRT 1
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://github.com/yasinyonet/iptv-list/blob/main/iptv-logo/atv.png" tvg-url="https://www.atv.com.tr/" group-title="Ulusal",ATV
