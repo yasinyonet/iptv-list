@@ -1,0 +1,13 @@
+{
+  "name": "tr-epg-scraper",
+  "version": "1.0.0",
+  "description": "Turkish IPTV channel list scraper with stream quality detection and logo matching",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
