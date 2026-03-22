@@ -113,7 +113,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=89ltbfs2bkdt&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
+        "url": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=89lwegs3xz29&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
       },
       {
         "quality": "720p",
@@ -121,7 +121,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=89ltbfs2bkdt&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
+        "url": "https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=89lwegs3xz29&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
       },
       {
         "quality": "480p",
@@ -129,7 +129,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=89ltbfs2bkdt&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
+        "url": "https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=89lwegs3xz29&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
       },
       {
         "quality": "360p",
@@ -137,7 +137,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald_360p.m3u8?&sid=89ltbfs2bkdt&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
+        "url": "https://demiroren.daioncdn.net/kanald/kanald_360p.m3u8?&sid=89lwegs3xz29&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=2"
       }
     ],
     "status": "ok"
@@ -195,7 +195,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89ltbfn0nl16&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
+        "url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89lwehd4zjan&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
       },
       {
         "quality": "720p",
@@ -203,7 +203,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89ltbfn0nl16&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
+        "url": "https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89lwehd4zjan&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
       },
       {
         "quality": "480p",
@@ -211,7 +211,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89ltbfn0nl16&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
+        "url": "https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89lwehd4zjan&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
       },
       {
         "quality": "360p",
@@ -219,7 +219,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89ltbfn0nl16&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
+        "url": "https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=10800&st=h0-PWPqysceQXQbdX4Cewg&sid=89lwehd4zjan&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2"
       }
     ],
     "status": "ok"
@@ -330,7 +330,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=89ltbg30vj02&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=89lweh0fcw91&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
       },
       {
         "quality": "720p",
@@ -338,7 +338,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=89ltbg30vj02&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=89lweh0fcw91&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
       },
       {
         "quality": "480p",
@@ -346,7 +346,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=89ltbg30vj02&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=89lweh0fcw91&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
       },
       {
         "quality": "360p",
@@ -354,7 +354,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8/tv8_360p.m3u8?&sid=89ltbg30vj02&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8/tv8_360p.m3u8?&sid=89lweh0fcw91&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
       }
     ],
     "status": "ok"
@@ -375,7 +375,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=89ltbhg2drec&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+        "url": "http://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=89lweim35601&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
       },
       {
         "quality": "480p",
@@ -383,7 +383,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://dogus.daioncdn.net/startv/startv_480p.m3u8?&sid=89ltbhg2drec&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+        "url": "http://dogus.daioncdn.net/startv/startv_480p.m3u8?&sid=89lweim35601&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
       },
       {
         "quality": "360p",
@@ -391,7 +391,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://dogus.daioncdn.net/startv/startv_360p.m3u8?&sid=89ltbhg2drec&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+        "url": "http://dogus.daioncdn.net/startv/startv_360p.m3u8?&sid=89lweim35601&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
       }
     ],
     "status": "ok"
@@ -587,7 +587,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/TGRT_Haber.png",
     "tvgId": "TGRTHaber.tr",
     "website": "https://www.tgrthaber.com/",
-    "originalUrl": "https://canli.tgrthaber.com/tgrt-61519.ts",
+    "originalUrl": "https://canli.tgrthaber.com/tgrt-240637.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/TGRT_Haber_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -608,7 +608,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=89ltbgre0i7v&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
+        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=89lweig9ea9f&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
       },
       {
         "quality": "720p",
@@ -616,7 +616,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=89ltbgre0i7v&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
+        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=89lweig9ea9f&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
       },
       {
         "quality": "480p",
@@ -624,7 +624,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_480p.m3u8?sid=89ltbgre0i7v&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
+        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_480p.m3u8?sid=89lweig9ea9f&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
       },
       {
         "quality": "360p",
@@ -632,7 +632,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_360p.m3u8?sid=89ltbgre0i7v&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
+        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_360p.m3u8?sid=89lweig9ea9f&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2"
       }
     ],
     "status": "ok"
@@ -650,7 +650,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1406240,
+        "bandwidth": 1403106,
         "frameRate": null,
         "codecs": "avc1.100.31,mp4a.40.2",
         "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8"
@@ -719,7 +719,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?&sid=89ltbipkj65z&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
+        "url": "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?&sid=89lwejyaom8y&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
       },
       {
         "quality": "720p",
@@ -727,7 +727,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?&sid=89ltbipkj65z&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
+        "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?&sid=89lwejyaom8y&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
       },
       {
         "quality": "480p",
@@ -735,7 +735,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_480p.m3u8?&sid=89ltbipkj65z&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
+        "url": "https://dogus.daioncdn.net/ntv/ntv_480p.m3u8?&sid=89lwejyaom8y&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
       },
       {
         "quality": "360p",
@@ -743,7 +743,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_360p.m3u8?&sid=89ltbipkj65z&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
+        "url": "https://dogus.daioncdn.net/ntv/ntv_360p.m3u8?&sid=89lwejyaom8y&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=2"
       }
     ],
     "status": "ok"
@@ -801,7 +801,7 @@
         "bandwidth": 1280000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1774207860/ei/FO-_aYuLLZ_4xN8P8feqwA8/ip/85.105.233.142/id/jBXyxnV_ELk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-u0g3uxax3-pnus.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGLtg4I0d5RNo041DPAL85dX5ZlL2zg2JzgY_VptAyB2mCtwUl8S8pc3Tuv68UF8fEqjjq7CHDXV/spc/jlWavd9AILN1-AIzw390y-2JbImjLJcO1WI_xzs4_G24qk6cO_oT2ZsYWNghSEO3/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1975000/met/1774186261,/mh/l1/mm/44/mn/sn-u0g3uxax3-pnus/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/mt/1774185885/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbodSAxGSXh7fUU5X0mgZ2k_ebkv03tDpiEH4DNePPLACIB1yVdzB4b1Uu9Wgy2siTU8Z5ifux6HuLrct21DPn9CH/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgFWJR4EFXVvfqMgea59oEDJRjPCxnYxM7bzoGOd9yHUgCIQCb_3l-88E94tsQxNzm9qKcepwM6poZDqaYc0OS1a39aw%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1774209663/ei/H_a_aZiVCvbM6dsPh7W-YQ/ip/85.105.233.142/id/jBXyxnV_ELk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-u0g3uxax3-pnus.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-yKXIruz8EHOFolIYP8N-dFtlROnIwB-UdcQeClqFT0m7VuYW7oKyPw4br19nn46EHT-YAC23PG/spc/6dlaFLw8ZS_fyd2sFbD_ySr4WeooOZvv8wLZnurM4E8sNNUMMOiR6Y4ZgS4c46zI/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1905000/met/1774188063,/mh/l1/mm/44/mn/sn-u0g3uxax3-pnus/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/mt/1774187571/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAP0bCTrEYpRNHhQCVuJYLxSv0Ggq6zvk121a5AeTiu6pAiBZCCi3mOYjGLQhbth_pgQlVv0Cnv2aiKH-iwS2n58VsQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJEhF301Noy3r_b4rYKF__PGPb3vsf9JciUW_UI-JeczAiEAtaRdbhzHjlT50up8DWubsYBlh2sQQCLOQf9f5IlBSak%3D/playlist/index.m3u8"
       }
     ],
     "status": "ok"
@@ -856,7 +856,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4548246,
+        "bandwidth": 4481468,
         "frameRate": null,
         "codecs": "avc1.4d0028,mp4a.40.2",
         "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8"
@@ -945,7 +945,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Ulusal_Kanal.png",
     "tvgId": "UlusalKanal.tr",
     "website": "https://www.ulusal.com.tr/",
-    "originalUrl": "https://internettv.guventechnology.com/hls/ulusaltv/8553.ts",
+    "originalUrl": "https://internettv.guventechnology.com/hls/ulusaltv/9074.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ulusal_Kanal_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -963,10 +963,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4911011,
+        "bandwidth": 5192710,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w999980218.m3u8"
+        "url": "https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w944618574.m3u8"
       }
     ],
     "status": "ok"
@@ -1021,10 +1021,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2197945,
+        "bandwidth": 2211030,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/chunklist_w493166474.m3u8"
+        "url": "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/chunklist_w269823629.m3u8"
       }
     ],
     "status": "ok"
@@ -1065,7 +1065,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/dha.png",
     "tvgId": "",
     "website": "https://www.dha.com.tr/",
-    "originalUrl": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/media_w630024058_105752.ts",
+    "originalUrl": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/media_w630024058_105960.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/DHA_1_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -1083,10 +1083,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1498886,
+        "bandwidth": 1825940,
         "frameRate": null,
         "codecs": "avc1.4d4028,mp4a.40.2",
-        "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w2050003100.m3u8"
+        "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1003228973.m3u8"
       }
     ],
     "status": "ok"
@@ -1122,7 +1122,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/bha.png",
     "tvgId": "",
     "website": "https://bha.net.tr/",
-    "originalUrl": "https://live.euromediacenter.com/bhatv/tracks-v1a1/2026/03/22/13/38/43-06000.ts",
+    "originalUrl": "https://live.euromediacenter.com/bhatv/tracks-v1a1/2026/03/22/14/13/22-06000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/BHA_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -1305,7 +1305,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Show_Turk.png",
     "tvgId": "ShowTurk.tr",
     "website": "https://www.showturk.com.tr/",
-    "originalUrl": "https://cachehsi2b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTFjZGY1YjMyNzMwNDZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.aeArTEp4YetvzYtXGmG2McujaAexixBA0Qeih_20c5dHJKYe7EUIs-cZ8jgeX9nLm5l0XeDjfoKxvKqu56hEMw==/live/eds/showturk/browser-HLS8/showturk.m3u8",
+    "originalUrl": "https://cachehsi2b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MjI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMzYzZGVjOTJhMWFjYmVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.583EIJVuyZ5wejSUnRgyH6arcALevYdD29fxZT5pbfdXsji-erZQoklvXM2Epu9fTELgVN1uvQCrj1CxiosiqQ==/live/eds/showturk/browser-HLS8/showturk.m3u8",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Show_Turk_showturk.m3u8",
     "streams": [
       {
@@ -1314,7 +1314,7 @@
         "bandwidth": 961073,
         "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
-        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTFjZGY1YjMyNzMwNDZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.aeArTEp4YetvzYtXGmG2McujaAexixBA0Qeih_20c5dHJKYe7EUIs-cZ8jgeX9nLm5l0XeDjfoKxvKqu56hEMw==/live/eds/showturk/browser-HLS8/showturk-avc1_700000=8.m3u8"
+        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MjI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMzYzZGVjOTJhMWFjYmVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.583EIJVuyZ5wejSUnRgyH6arcALevYdD29fxZT5pbfdXsji-erZQoklvXM2Epu9fTELgVN1uvQCrj1CxiosiqQ==/live/eds/showturk/browser-HLS8/showturk-avc1_700000=8.m3u8"
       },
       {
         "quality": "432p",
@@ -1322,7 +1322,7 @@
         "bandwidth": 1660673,
         "frameRate": 25,
         "codecs": "avc1.64001e,mp4a.40.2",
-        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTFjZGY1YjMyNzMwNDZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.aeArTEp4YetvzYtXGmG2McujaAexixBA0Qeih_20c5dHJKYe7EUIs-cZ8jgeX9nLm5l0XeDjfoKxvKqu56hEMw==/live/eds/showturk/browser-HLS8/showturk-avc1_1300000=4.m3u8"
+        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MjI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMzYzZGVjOTJhMWFjYmVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.583EIJVuyZ5wejSUnRgyH6arcALevYdD29fxZT5pbfdXsji-erZQoklvXM2Epu9fTELgVN1uvQCrj1CxiosiqQ==/live/eds/showturk/browser-HLS8/showturk-avc1_1300000=4.m3u8"
       },
       {
         "quality": "720p",
@@ -1330,7 +1330,7 @@
         "bandwidth": 2476873,
         "frameRate": 25,
         "codecs": "avc1.640020,mp4a.40.2",
-        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTFjZGY1YjMyNzMwNDZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.aeArTEp4YetvzYtXGmG2McujaAexixBA0Qeih_20c5dHJKYe7EUIs-cZ8jgeX9nLm5l0XeDjfoKxvKqu56hEMw==/live/eds/showturk/browser-HLS8/showturk-avc1_2000000=6.m3u8"
+        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MjI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMzYzZGVjOTJhMWFjYmVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.583EIJVuyZ5wejSUnRgyH6arcALevYdD29fxZT5pbfdXsji-erZQoklvXM2Epu9fTELgVN1uvQCrj1CxiosiqQ==/live/eds/showturk/browser-HLS8/showturk-avc1_2000000=6.m3u8"
       },
       {
         "quality": "720p",
@@ -1338,7 +1338,7 @@
         "bandwidth": 4808873,
         "frameRate": 50,
         "codecs": "avc1.640020,mp4a.40.2",
-        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM3MTUzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTFjZGY1YjMyNzMwNDZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.aeArTEp4YetvzYtXGmG2McujaAexixBA0Qeih_20c5dHJKYe7EUIs-cZ8jgeX9nLm5l0XeDjfoKxvKqu56hEMw==/live/eds/showturk/browser-HLS8/showturk-avc1_4000000=2.m3u8"
+        "url": "https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjM5MjI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9zaG93dHVyay9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMzYzZGVjOTJhMWFjYmVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMyIsInNvdXJjZXMiOlsxMDBdfQ==.583EIJVuyZ5wejSUnRgyH6arcALevYdD29fxZT5pbfdXsji-erZQoklvXM2Epu9fTELgVN1uvQCrj1CxiosiqQ==/live/eds/showturk/browser-HLS8/showturk-avc1_4000000=2.m3u8"
       }
     ],
     "status": "ok"
@@ -1356,7 +1356,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1431808,
+        "bandwidth": 1456812,
         "frameRate": null,
         "codecs": "avc1.100.40,mp4a.40.2",
         "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8"
@@ -1377,7 +1377,7 @@
       {
         "quality": "480p",
         "resolution": "852x480",
-        "bandwidth": 880000,
+        "bandwidth": 990000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v3a1/mono.m3u8"
@@ -1385,7 +1385,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1830000,
+        "bandwidth": 1730000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8"
@@ -1393,7 +1393,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3000000,
+        "bandwidth": 2770000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v1a1/mono.m3u8"
@@ -1429,7 +1429,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89ltbn2hs5z4&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89lweokkfw59&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
       },
       {
         "quality": "480p",
@@ -1437,7 +1437,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_480p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89ltbn2hs5z4&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_480p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89lweokkfw59&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
       },
       {
         "quality": "360p",
@@ -1445,7 +1445,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_360p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89ltbn2hs5z4&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_360p.m3u8?ex=10800&st=rA3q4mtDhvsaMwxxbAqBCw&sid=89lweokkfw59&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=2"
       }
     ],
     "status": "ok"
@@ -1457,7 +1457,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Ekoturk.png",
     "tvgId": "Ekoturk.tr",
     "website": "https://www.ekoturk.com/",
-    "originalUrl": "https://trn03.tulix.tv/gt-ekoturk/tracks-v1a1/2026/03/22/13/39/44-05760.ts",
+    "originalUrl": "https://trn03.tulix.tv/gt-ekoturk/tracks-v1a1/2026/03/22/14/14/29-05760.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ekoturk_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -1475,10 +1475,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1821944,
+        "bandwidth": 1817571,
         "frameRate": null,
         "codecs": "avc1.66.31,mp4a.40.2",
-        "url": "https://yayin30.haber100.com/live/finansturk/chunklist_w236281237.m3u8"
+        "url": "https://yayin30.haber100.com/live/finansturk/chunklist_w2098621805.m3u8"
       }
     ],
     "status": "ok"
@@ -1496,10 +1496,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3001733,
+        "bandwidth": 3004083,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://cdn-expovizyontv.yayin.com.tr/expovizyontv/expovizyontv/chunklist_w1981523789.m3u8"
+        "url": "https://cdn-expovizyontv.yayin.com.tr/expovizyontv/expovizyontv/chunklist_w2060900926.m3u8"
       }
     ],
     "status": "ok"
@@ -1663,7 +1663,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=89ltbq3spkvy&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+        "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=89lwepp4w6vj&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
       },
       {
         "quality": "720p",
@@ -1671,7 +1671,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=89ltbq3spkvy&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+        "url": "https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=89lwepp4w6vj&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
       },
       {
         "quality": "480p",
@@ -1679,7 +1679,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/teve2/teve2_480p.m3u8?&sid=89ltbq3spkvy&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+        "url": "https://demiroren.daioncdn.net/teve2/teve2_480p.m3u8?&sid=89lwepp4w6vj&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
       },
       {
         "quality": "360p",
@@ -1687,7 +1687,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://demiroren.daioncdn.net/teve2/teve2_360p.m3u8?&sid=89ltbq3spkvy&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+        "url": "https://demiroren.daioncdn.net/teve2/teve2_360p.m3u8?&sid=89lwepp4w6vj&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
       }
     ],
     "status": "ok"
@@ -1753,7 +1753,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=89ltbpmgeygs&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=89lweppemvyo&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
       },
       {
         "quality": "720p",
@@ -1761,7 +1761,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=89ltbpmgeygs&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=89lweppemvyo&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
       },
       {
         "quality": "480p",
@@ -1769,7 +1769,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=89ltbpmgeygs&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=89lweppemvyo&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
       },
       {
         "quality": "360p",
@@ -1777,7 +1777,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_360p.m3u8?&sid=89ltbpmgeygs&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_360p.m3u8?&sid=89lweppemvyo&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
       }
     ],
     "status": "ok"
@@ -1798,7 +1798,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?&sid=89ltbplrfz0b&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
+        "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?&sid=89lweppf9ig7&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
       },
       {
         "quality": "480p",
@@ -1806,7 +1806,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/tlc/tlc_480p.m3u8?&sid=89ltbplrfz0b&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
+        "url": "https://dogus.daioncdn.net/tlc/tlc_480p.m3u8?&sid=89lweppf9ig7&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
       },
       {
         "quality": "360p",
@@ -1814,7 +1814,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?&sid=89ltbplrfz0b&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
+        "url": "https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?&sid=89lweppf9ig7&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
       }
     ],
     "status": "ok"
@@ -1835,7 +1835,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?&sid=89ltbq2c9pml&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
+        "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?&sid=89lweq80ib3c&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
       },
       {
         "quality": "480p",
@@ -1843,7 +1843,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/dmax/dmax_480p.m3u8?&sid=89ltbq2c9pml&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
+        "url": "https://dogus.daioncdn.net/dmax/dmax_480p.m3u8?&sid=89lweq80ib3c&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
       },
       {
         "quality": "360p",
@@ -1851,7 +1851,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://dogus.daioncdn.net/dmax/dmax_360p.m3u8?&sid=89ltbq2c9pml&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
+        "url": "https://dogus.daioncdn.net/dmax/dmax_360p.m3u8?&sid=89lweq80ib3c&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
       }
     ],
     "status": "ok"
@@ -1906,7 +1906,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3414681,
+        "bandwidth": 3649421,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8"
@@ -1927,10 +1927,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1298234,
+        "bandwidth": 1321634,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=2564940854"
+        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=2565131629"
       }
     ],
     "status": "ok"
@@ -1993,7 +1993,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1575440,
+        "bandwidth": 1646128,
         "frameRate": null,
         "codecs": "avc1.77.41,mp4a.40.2",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/chunklist.m3u8"
@@ -2014,7 +2014,7 @@
       {
         "quality": "540p",
         "resolution": "960x540",
-        "bandwidth": 1140000,
+        "bandwidth": 790000,
         "frameRate": 25,
         "codecs": "avc1.640033,mp4a.40.2",
         "url": "http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8"
@@ -2035,7 +2035,7 @@
       {
         "quality": "540p",
         "resolution": "960x540",
-        "bandwidth": 950000,
+        "bandwidth": 920000,
         "frameRate": 25,
         "codecs": "avc1.640033,mp4a.40.2",
         "url": "http://75.119.144.48/KUZEYMAXHD_STREAM/tracks-v1a1/mono.m3u8"
@@ -2112,7 +2112,7 @@
         "bandwidth": 3018400,
         "frameRate": 25,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=89ltbrw7dtzc&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=89lwers51ahv&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
       },
       {
         "quality": "480p",
@@ -2120,7 +2120,7 @@
         "bandwidth": 812240,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?&sid=89ltbrw7dtzc&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?&sid=89lwers51ahv&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
       },
       {
         "quality": "360p",
@@ -2128,7 +2128,7 @@
         "bandwidth": 393360,
         "frameRate": 25,
         "codecs": "avc1.77.30,mp4a.40.2",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_360p.m3u8?&sid=89ltbrw7dtzc&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_360p.m3u8?&sid=89lwers51ahv&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
       },
       {
         "quality": "1080p",
@@ -2136,7 +2136,7 @@
         "bandwidth": 4901600,
         "frameRate": 25,
         "codecs": "avc1.640029,mp4a.40.2",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=89ltbrw7dtzc&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=89lwers51ahv&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
       },
       {
         "quality": "1440p",
@@ -2144,7 +2144,7 @@
         "bandwidth": 8412800,
         "frameRate": 25,
         "codecs": "avc1.640032,mp4a.40.2",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1440p.m3u8?&sid=89ltbrw7dtzc&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1440p.m3u8?&sid=89lwers51ahv&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
       }
     ],
     "status": "ok"
@@ -2222,7 +2222,7 @@
         "bandwidth": 2200000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=89ltbsvms477&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=89lweucxyyki&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
       },
       {
         "quality": "720p",
@@ -2230,7 +2230,7 @@
         "bandwidth": 1050000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=89ltbsvms477&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=89lweucxyyki&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
       },
       {
         "quality": "480p",
@@ -2238,7 +2238,7 @@
         "bandwidth": 800000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_480p.m3u8?ex=0&sid=89ltbsvms477&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_480p.m3u8?ex=0&sid=89lweucxyyki&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
       },
       {
         "quality": "360p",
@@ -2246,7 +2246,7 @@
         "bandwidth": 550000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_360p.m3u8?ex=0&sid=89ltbsvms477&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_360p.m3u8?ex=0&sid=89lweucxyyki&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
       }
     ],
     "status": "ok"
@@ -2295,7 +2295,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png",
     "tvgId": "SifirTV.tr",
     "website": "https://www.sifirtv.com/",
-    "originalUrl": "https://ahr7chck.rocketcdn.com/sifirtv.stream/media-ugmvnahe3_30653.ts",
+    "originalUrl": "https://ahr7chck.rocketcdn.com/sifirtv.stream/media-ugmvnahe3_30860.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Sifir_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -2421,7 +2421,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/209495ee-35fc-47b8-b442-f9a410110970.png",
     "tvgId": "",
     "website": "http://www.itp.tv.tr/",
-    "originalUrl": "http://139.162.182.79/live/test/4976.ts",
+    "originalUrl": "http://139.162.182.79/live/test/5183.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Bric_ve_Satranc_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -2478,7 +2478,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/f948bb15-bec8-4ba9-b4a2-710f32c214b1.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://ip44.radyotelekomtv.com:3710/stream/play-619842.ts",
+    "originalUrl": "https://ip44.radyotelekomtv.com:3710/stream/play-620325.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Denizlispor_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -2605,7 +2605,7 @@
         "bandwidth": 7596000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=405367511"
+        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=405494832"
       },
       {
         "quality": "720p",
@@ -2613,7 +2613,7 @@
         "bandwidth": 2496000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8?nimblesessionid=405367511"
+        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8?nimblesessionid=405494832"
       },
       {
         "quality": "480p",
@@ -2621,7 +2621,7 @@
         "bandwidth": 2096000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2096000_sltur.m3u8?nimblesessionid=405367511"
+        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2096000_sltur.m3u8?nimblesessionid=405494832"
       }
     ],
     "status": "ok"
@@ -2642,7 +2642,7 @@
         "bandwidth": 7596000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=405367512"
+        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=405494831"
       },
       {
         "quality": "720p",
@@ -2650,7 +2650,7 @@
         "bandwidth": 2496000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2496000_sltur.m3u8?nimblesessionid=405367512"
+        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2496000_sltur.m3u8?nimblesessionid=405494831"
       },
       {
         "quality": "480p",
@@ -2658,7 +2658,7 @@
         "bandwidth": 2096000,
         "frameRate": null,
         "codecs": "",
-        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2096000_sltur.m3u8?nimblesessionid=405367512"
+        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2096000_sltur.m3u8?nimblesessionid=405494831"
       }
     ],
     "status": "ok"
@@ -2697,7 +2697,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1173721,
+        "bandwidth": 1129504,
         "frameRate": null,
         "codecs": "avc1.77.31,mp4a.40.2",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/chunklist.m3u8"
@@ -2721,7 +2721,7 @@
         "bandwidth": 1000000,
         "frameRate": 25,
         "codecs": "mp4a.40.2,avc1.640029",
-        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?&sid=89ltcdxpu498&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
+        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?&sid=89lwffxaea4a&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
       },
       {
         "quality": "480p",
@@ -2729,7 +2729,7 @@
         "bandwidth": 800000,
         "frameRate": 25,
         "codecs": "mp4a.40.2,avc1.4D4028",
-        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8?&sid=89ltcdxpu498&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
+        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8?&sid=89lwffxaea4a&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
       },
       {
         "quality": "360p",
@@ -2737,7 +2737,7 @@
         "bandwidth": 550000,
         "frameRate": 25,
         "codecs": "mp4a.40.2,avc1.4D401f",
-        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_360p.m3u8?&sid=89ltcdxpu498&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
+        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv_360p.m3u8?&sid=89lwffxaea4a&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2"
       }
     ],
     "status": "ok"
@@ -2767,10 +2767,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2795079,
+        "bandwidth": 2752027,
         "frameRate": 30,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=405367553"
+        "url": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=405494868"
       }
     ],
     "status": "ok"
@@ -2788,10 +2788,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2813064,
+        "bandwidth": 2754069,
         "frameRate": 30,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=405367555"
+        "url": "http://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=405494869"
       }
     ],
     "status": "ok"
@@ -2809,10 +2809,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2788294,
+        "bandwidth": 2779405,
         "frameRate": 30,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8?nimblesessionid=405367557"
+        "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8?nimblesessionid=405494883"
       }
     ],
     "status": "ok"
@@ -2830,10 +2830,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2770231,
+        "bandwidth": 2773535,
         "frameRate": 30,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://livetv.powerapp.com.tr/plove/love.smil/chunks.m3u8?nimblesessionid=405367568"
+        "url": "http://livetv.powerapp.com.tr/plove/love.smil/chunks.m3u8?nimblesessionid=405494873"
       }
     ],
     "status": "ok"
@@ -2851,10 +2851,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2746387,
+        "bandwidth": 2764709,
         "frameRate": 30,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=405367607"
+        "url": "http://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=405494897"
       }
     ],
     "status": "ok"
@@ -2872,7 +2872,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1177958,
+        "bandwidth": 1235015,
         "frameRate": null,
         "codecs": "avc1.66.31,mp4a.40.2",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8"
@@ -2893,7 +2893,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1167404,
+        "bandwidth": 1285017,
         "frameRate": null,
         "codecs": "avc1.77.31,mp4a.40.2",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8"
@@ -2914,7 +2914,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1528816,
+        "bandwidth": 1562405,
         "frameRate": null,
         "codecs": "avc1.77.40,mp4a.40.2",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8"
@@ -2935,10 +2935,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 982613,
+        "bandwidth": 1447117,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist_w2127756687.m3u8"
+        "url": "https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist_w631573031.m3u8"
       }
     ],
     "status": "ok"
@@ -3083,7 +3083,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3175966,
+        "bandwidth": 3046025,
         "frameRate": null,
         "codecs": "avc1.4d4028,mp4a.40.2",
         "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8"
@@ -3116,10 +3116,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1365787,
+        "bandwidth": 1324559,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=2564942171"
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=2565132934"
       }
     ],
     "status": "ok"
@@ -3131,19 +3131,10 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Koy_TV.png",
     "tvgId": "",
     "website": "https://koytv.tv/",
-    "originalUrl": "http://188.245.211.255:1935/canlitv/koytv.stream/playlist.m3u8?hash=3447b8f201a231b95188ad432bd27f32",
-    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Koy_TV_master.m3u8",
-    "streams": [
-      {
-        "quality": "unknown",
-        "resolution": null,
-        "bandwidth": 250000,
-        "frameRate": null,
-        "codecs": "",
-        "url": "http://188.245.211.255:1935/canlitv/koytv.stream/chunklist_w858828672.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
-      }
-    ],
-    "status": "ok"
+    "originalUrl": null,
+    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Koy_TV_7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8",
+    "streams": [],
+    "status": "error:http_403"
   },
   {
     "index": 100,
@@ -3590,7 +3581,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/dost_tv.png",
     "tvgId": "DostTV.tr",
     "website": "https://dosttv.com/",
-    "originalUrl": "https://dost.stream.emsal.im/tv/live8.ts",
+    "originalUrl": "https://dost.stream.emsal.im/tv/live11.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Dost_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -3608,7 +3599,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1872010,
+        "bandwidth": 1779833,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8"
@@ -3629,10 +3620,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1236593,
+        "bandwidth": 1252822,
         "frameRate": 50,
         "codecs": "avc1.4d4020,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=2564942318"
+        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=2565133066"
       }
     ],
     "status": "ok"
@@ -3650,10 +3641,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1013374,
+        "bandwidth": 1018579,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/on4/bant1/chunks.m3u8?nimblesessionid=288701163"
+        "url": "https://edge1.taksimbilisim.com:443/on4/bant1/chunks.m3u8?nimblesessionid=1335203764"
       }
     ],
     "status": "ok"
@@ -3665,7 +3656,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Lalegul_tv.png",
     "tvgId": "LalegulTV.tr",
     "website": "https://lalegultv.com.tr/",
-    "originalUrl": "https://lbl.netmedya.net/hls/lalegultv-577095.ts",
+    "originalUrl": "https://lbl.netmedya.net/hls/lalegultv-577441.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Lalegul_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -3683,10 +3674,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1085214,
+        "bandwidth": 1308237,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8?nimblesessionid=2564942326"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8?nimblesessionid=2565133055"
       }
     ],
     "status": "ok"
@@ -3698,7 +3689,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/b30fbf52-ad6a-47fd-8873-798070b40847.png",
     "tvgId": "",
     "website": "https://www.mihrap.tv/",
-    "originalUrl": "https://yayin30.haber100.com/live/mihraptv/media_w5388557_25641.ts",
+    "originalUrl": "https://yayin30.haber100.com/live/mihraptv/media_w1142957427_25840.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Mihrap_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -3710,7 +3701,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Rehber_TV.png",
     "tvgId": "",
     "website": "https://rehbertv.com.tr/",
-    "originalUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/2026/03/22/13/38/30-08000.ts",
+    "originalUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/2026/03/22/14/13/02-08000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Rehber_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -3722,7 +3713,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/ASF_TV.png",
     "tvgId": "ASFTV.tr",
     "website": "https://asftv.com.tr/",
-    "originalUrl": "https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/2026/03/22/13/39/10-06000.ts",
+    "originalUrl": "https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/2026/03/22/14/13/43-06000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/ASF_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -3740,7 +3731,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3629964,
+        "bandwidth": 3741248,
         "frameRate": 25,
         "codecs": "avc1.640028,mp4a.40.2",
         "url": "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/chunks.m3u8"
@@ -3748,7 +3739,7 @@
       {
         "quality": "480p",
         "resolution": "854x480",
-        "bandwidth": 592362,
+        "bandwidth": 773421,
         "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_480p/chunks.m3u8"
@@ -3756,7 +3747,7 @@
       {
         "quality": "240p",
         "resolution": "426x240",
-        "bandwidth": 376890,
+        "bandwidth": 480400,
         "frameRate": 25,
         "codecs": "avc1.42c015,mp4a.40.2",
         "url": "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_240p/chunks.m3u8"
@@ -3771,7 +3762,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/643d83ac-c463-453c-987c-fd59d13fd71d.png",
     "tvgId": "",
     "website": "https://www.sat7turk.com/",
-    "originalUrl": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/l_2686_2211748704_552937.ts",
+    "originalUrl": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/l_2686_2213820704_553455.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Sat_7_Turk_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4382,10 +4373,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1306271,
+        "bandwidth": 1290495,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://cdn-1tvtr.yayin.com.tr/1tvtr/1tvtr/chunklist_w763700521.m3u8"
+        "url": "https://cdn-1tvtr.yayin.com.tr/1tvtr/1tvtr/chunklist_w141200739.m3u8"
       }
     ],
     "status": "ok"
@@ -4403,7 +4394,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 15860000,
+        "bandwidth": 15820000,
         "frameRate": 25,
         "codecs": "avc1.640028,mp4a.40.2",
         "url": "https://live.euromediacenter.com/ahadtv/tracks-v1a1/mono.m3u8"
@@ -4418,7 +4409,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Kon_TV.png",
     "tvgId": "",
     "website": "https://www.akkontv.com/",
-    "originalUrl": "https://ip.akkontv.com:3205/stream/play-2135063.ts",
+    "originalUrl": "https://ip.akkontv.com:3205/stream/play-2135515.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Akkon_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4483,7 +4474,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png",
     "tvgId": "",
     "website": "https://begentv.com/",
-    "originalUrl": "https://ip44.radyotelekomtv.com:3958/hybrid/play-549576.ts",
+    "originalUrl": "https://ip44.radyotelekomtv.com:3958/hybrid/play-550099.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Begen_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4501,7 +4492,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 4070000,
+        "bandwidth": 2460000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/bizimocaktv/tracks-v1a1/mono.m3u8"
@@ -4516,7 +4507,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/b0c4eabe-d127-41e6-abc7-5180bb7000df.png",
     "tvgId": "",
     "website": "https://cansuyutv.com.tr/",
-    "originalUrl": "https://ip44.radyotelekomtv.com:3924/stream/play-98447.ts",
+    "originalUrl": "https://ip44.radyotelekomtv.com:3924/stream/play-98896.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Cansuyu_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4534,10 +4525,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1246753,
+        "bandwidth": 1354795,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8?nimblesessionid=2564942621"
+        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8?nimblesessionid=2565133307"
       }
     ],
     "status": "ok"
@@ -4549,7 +4540,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Mercan_TV.png",
     "tvgId": "CanTV.tr",
     "website": "https://cantv.tv/",
-    "originalUrl": "http://canbroadcast.com:7000/canlican/tv-424187.ts",
+    "originalUrl": "http://canbroadcast.com:7000/canlican/tv-424530.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Can_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4565,11 +4556,11 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Channel_6_TV_index.m3u8",
     "streams": [
       {
-        "quality": "360p",
-        "resolution": "640x360",
-        "bandwidth": 410000,
+        "quality": "720p",
+        "resolution": "1280x720",
+        "bandwidth": 1330000,
         "frameRate": 24,
-        "codecs": "avc1.64001e,mp4a.40.2",
+        "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8"
       }
     ],
@@ -4588,7 +4579,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 15310000,
+        "bandwidth": 11490000,
         "frameRate": 30,
         "codecs": "avc1.4d4028,mp4a.40.2",
         "url": "https://live.euromediacenter.com/dertv23/tracks-v1a1/mono.m3u8"
@@ -4609,10 +4600,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2871723,
+        "bandwidth": 2887800,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/duzguntv/duzguntv/chunklist_w551585308.m3u8"
+        "url": "http://145.239.37.125:20458/duzguntv/duzguntv/chunklist_w340775070.m3u8"
       }
     ],
     "status": "ok"
@@ -4624,7 +4615,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/f9b17518-eb05-4276-98b9-f1267b40c923.png",
     "tvgId": "",
     "website": "https://www.ekonomiknokta.tv/",
-    "originalUrl": "http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/media_w915566431_55790.ts",
+    "originalUrl": "http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/media_w1577102883_55997.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ekonomik_Nokta_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4636,7 +4627,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/",
     "tvgId": "",
     "website": "https://www.esfatvhaber.com/",
-    "originalUrl": "https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/2026/03/22/13/39/03-05120.ts",
+    "originalUrl": "https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/2026/03/22/14/13/40-07400.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Esfa_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4652,12 +4643,12 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Espiye_TV_playlist.m3u8",
     "streams": [
       {
-        "quality": "720p",
-        "resolution": "1280x720",
-        "bandwidth": 2628286,
+        "quality": "360p",
+        "resolution": "640x360",
+        "bandwidth": 564440,
         "frameRate": null,
-        "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/chunklist_w1643348366.m3u8"
+        "codecs": "avc1.4d401e,mp4a.40.2",
+        "url": "https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/chunklist_w219298255.m3u8"
       }
     ],
     "status": "ok"
@@ -4696,7 +4687,7 @@
       {
         "quality": "576p",
         "resolution": "1024x576",
-        "bandwidth": 7890000,
+        "bandwidth": 8420000,
         "frameRate": 25,
         "codecs": "avc1.42401f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8"
@@ -4715,9 +4706,9 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Fashion_World_video.m3u8",
     "streams": [
       {
-        "quality": "576p",
-        "resolution": "788x576",
-        "bandwidth": 1740000,
+        "quality": "720p",
+        "resolution": "1280x720",
+        "bandwidth": 2430000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/fashionworld/tracks-v1a1/mono.m3u8"
@@ -4738,7 +4729,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1690000,
+        "bandwidth": 1820000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8"
@@ -4798,7 +4789,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/6c4a52e7-4b29-4fd2-81d3-e92d7d6fb548.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://live.euromediacenter.com/fohowtr59/tracks-v1a1/2026/03/22/13/39/11-05200.ts",
+    "originalUrl": "https://live.euromediacenter.com/fohowtr59/tracks-v1a1/2026/03/22/14/13/45-05240.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Fohow_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4816,10 +4807,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 3737696,
+        "bandwidth": 4126430,
         "frameRate": 50,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/ftvturk/bant1/chunks.m3u8?nimblesessionid=288701195"
+        "url": "https://edge1.taksimbilisim.com:443/ftvturk/bant1/chunks.m3u8?nimblesessionid=1335203837"
       }
     ],
     "status": "ok"
@@ -4831,7 +4822,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/2f95410c-911a-4302-8642-e89bef9e1444.png",
     "tvgId": "",
     "website": "https://www.gopsentv.com/",
-    "originalUrl": "https://canli.gopsentv.com:3604/stream/play-254484.ts",
+    "originalUrl": "https://canli.gopsentv.com:3604/stream/play-254979.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Gopsen_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4843,7 +4834,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/A_Haber.png",
     "tvgId": "",
     "website": "https://habercaddesitv.com/",
-    "originalUrl": "https://tv191.radyotelekom.com.tr:3451/stream/play-1583.ts",
+    "originalUrl": "https://tv191.radyotelekom.com.tr:3451/stream/play-2016.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Haber_Caddesi_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4861,7 +4852,7 @@
       {
         "quality": "226p",
         "resolution": "400x226",
-        "bandwidth": 550000,
+        "bandwidth": 650000,
         "frameRate": 25,
         "codecs": "avc1.42c00d,mp4a.40.2",
         "url": "https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8"
@@ -4876,7 +4867,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/7b433dd9-3f59-4f33-86b6-e607b483cd49.png",
     "tvgId": "",
     "website": "https://kdctv.com.tr/",
-    "originalUrl": "https://tv191.radyotelekom.com.tr:3466/stream/play-781621.ts",
+    "originalUrl": "https://tv191.radyotelekom.com.tr:3466/stream/play-782137.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/KDC_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4897,7 +4888,7 @@
         "bandwidth": 1596000,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1265972235_b1596000.m3u8"
+        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1057381976_b1596000.m3u8"
       },
       {
         "quality": "720p",
@@ -4905,7 +4896,7 @@
         "bandwidth": 3396000,
         "frameRate": null,
         "codecs": "avc1.64081f,mp4a.40.2",
-        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1265972235_b3096000.m3u8"
+        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1057381976_b3096000.m3u8"
       },
       {
         "quality": "480p",
@@ -4913,7 +4904,7 @@
         "bandwidth": 497500,
         "frameRate": null,
         "codecs": "avc1.64081f,mp4a.40.2",
-        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1265972235_b461000.m3u8"
+        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1057381976_b461000.m3u8"
       },
       {
         "quality": "360p",
@@ -4921,7 +4912,7 @@
         "bandwidth": 497500,
         "frameRate": null,
         "codecs": "avc1.64081e,mp4a.40.2",
-        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1265972235_b461000.m3u8"
+        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1057381976_b461000.m3u8"
       },
       {
         "quality": "240p",
@@ -4929,7 +4920,7 @@
         "bandwidth": 255500,
         "frameRate": null,
         "codecs": "avc1.42e015,mp4a.40.2",
-        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1265972235_b241000.m3u8"
+        "url": "https://kisiselvideo.stopvideodownload.com:8443/nefes/ngrp:live_all/chunklist_w1057381976_b241000.m3u8"
       }
     ],
     "status": "ok"
@@ -4941,7 +4932,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/bae1268c-2f08-4a42-b1dc-a64344d218e4.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://ip100.radyotelekomtv.com:3982/stream/play-106828.ts",
+    "originalUrl": "https://ip100.radyotelekomtv.com:3982/stream/play-107315.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Lebih_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -4959,10 +4950,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2125496,
+        "bandwidth": 926193,
         "frameRate": null,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/lugattv/lugattv/chunklist_w1276053558.m3u8"
+        "url": "http://145.239.37.125:20458/lugattv/lugattv/chunklist_w1199377308.m3u8"
       }
     ],
     "status": "ok"
@@ -4995,7 +4986,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/cdbba9b3-cde5-43d3-b2c6-9baba35ca94a.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "http://mmn.mypsx.net:1935/live/mmnhdradioturky/media_w1571985729_169337.ts",
+    "originalUrl": "http://mmn.mypsx.net:1935/live/mmnhdradioturky/media_w1571985729_169544.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/MMN_Channel_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5007,7 +4998,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/445053b3-3a56-47ce-a312-022c10d3df71.png",
     "tvgId": "",
     "website": "https://www.neftv.com.tr/",
-    "originalUrl": "https://ip44.radyotelekomtv.com:3628/stream/play-253162.ts",
+    "originalUrl": "https://ip44.radyotelekomtv.com:3628/stream/play-253649.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Nef_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5019,7 +5010,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/2026/03/22/13/38/35-13290.ts",
+    "originalUrl": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/2026/03/22/14/13/14-13309.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ons_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5037,7 +5028,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 450000,
+        "bandwidth": 390000,
         "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/paraninyonu/tracks-v1a1/mono.m3u8"
@@ -5052,7 +5043,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/0d2381f6-d09e-4054-9845-2ff72539ecad.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://ip100.radyotelekomtv.com:3784/stream/play-225046.ts",
+    "originalUrl": "https://ip100.radyotelekomtv.com:3784/stream/play-225464.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Play_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5070,7 +5061,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 790000,
+        "bandwidth": 520000,
         "frameRate": 29.97,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/romanestv/tracks-v1a1/mono.m3u8"
@@ -5091,7 +5082,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 18630000,
+        "bandwidth": 19520000,
         "frameRate": 25,
         "codecs": "avc1.420028,mp4a.40.2",
         "url": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8"
@@ -5157,7 +5148,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 5450000,
+        "bandwidth": 5440000,
         "frameRate": 25,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8"
@@ -5178,7 +5169,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 5810000,
+        "bandwidth": 5550000,
         "frameRate": 25,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8"
@@ -5199,7 +5190,7 @@
       {
         "quality": "576p",
         "resolution": "1024x576",
-        "bandwidth": 1650000,
+        "bandwidth": 1970000,
         "frameRate": 29.97,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8"
@@ -5220,7 +5211,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 5300000,
+        "bandwidth": 5610000,
         "frameRate": 25,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8"
@@ -5241,7 +5232,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 5830000,
+        "bandwidth": 5540000,
         "frameRate": 25,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8"
@@ -5256,7 +5247,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/fb00cc4a-821d-4e9e-af31-3c11883f63fc.png",
     "tvgId": "",
     "website": "https://www.siteler.tv.tr/",
-    "originalUrl": "https://ip100.radyotelekomtv.com:3534/stream/play-447171.ts",
+    "originalUrl": "https://ip100.radyotelekomtv.com:3534/stream/play-447605.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Siteler_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5274,7 +5265,7 @@
       {
         "quality": "240p",
         "resolution": "426x240",
-        "bandwidth": 1010000,
+        "bandwidth": 580000,
         "frameRate": 30,
         "codecs": "avc1.42c00d,mp4a.40.2",
         "url": "https://live.euromediacenter.com/songtv/tracks-v1a1/mono.m3u8"
@@ -5293,12 +5284,12 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Spirity_TV_playlist.m3u8",
     "streams": [
       {
-        "quality": "1080p",
-        "resolution": "1920x1080",
-        "bandwidth": 1538515,
+        "quality": "720p",
+        "resolution": "1280x720",
+        "bandwidth": 600163,
         "frameRate": null,
-        "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/super/super/chunklist_w178919999.m3u8"
+        "codecs": "avc1.4d401f,mp4a.40.2",
+        "url": "http://145.239.37.125:20458/super/super/chunklist_w296726535.m3u8"
       }
     ],
     "status": "ok"
@@ -5337,7 +5328,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 16290000,
+        "bandwidth": 15900000,
         "frameRate": 25,
         "codecs": "avc1.4d402a,mp4a.40.2",
         "url": "https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8"
@@ -5403,7 +5394,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1410000,
+        "bandwidth": 1370000,
         "frameRate": 30,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8"
@@ -5424,10 +5415,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 10601999,
+        "bandwidth": 8077638,
         "frameRate": null,
         "codecs": "avc1.64003e,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/uluslar/uluslar/chunklist_w1914291523.m3u8"
+        "url": "http://145.239.37.125:20458/uluslar/uluslar/chunklist_w589616599.m3u8"
       }
     ],
     "status": "ok"
@@ -5439,7 +5430,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/0845ecbe-6750-499f-a18c-7d2013f2c1e7.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/2026/03/22/13/39/05-07000.ts",
+    "originalUrl": "https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/2026/03/22/14/13/38-05080.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ureten_Turkiye_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5451,7 +5442,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/9bfc415f-86c6-4363-b08c-ef710a9d0f65.png",
     "tvgId": "",
     "website": "https://yenicag.az/",
-    "originalUrl": "https://live.euromediacenter.com/yenicagtv/tracks-v1a1/2026/03/22/13/39/15-05120.ts",
+    "originalUrl": "https://live.euromediacenter.com/yenicagtv/tracks-v1a1/2026/03/22/14/13/41-05120.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Yenicag_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5463,7 +5454,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/921b0acf-b7e6-425a-977f-94ecdf4ae755.png",
     "tvgId": "",
     "website": "https://tivi16.com/",
-    "originalUrl": "https://tv156.radyotelekom.com.tr:3785/stream/play-2210025.ts",
+    "originalUrl": "https://tv156.radyotelekom.com.tr:3785/stream/play-2210505.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Tivi16_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5493,10 +5484,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1578342,
+        "bandwidth": 1594928,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?nimblesessionid=2564942962"
+        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?nimblesessionid=2565133564"
       }
     ],
     "status": "ok"
@@ -5512,12 +5503,12 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Alanya_Posta_TV_playlist.m3u8",
     "streams": [
       {
-        "quality": "1080p",
-        "resolution": "1920x1080",
-        "bandwidth": 3764239,
+        "quality": "288p",
+        "resolution": "512x288",
+        "bandwidth": 864800,
         "frameRate": null,
-        "codecs": "avc1.4d4029,mp4a.40.2",
-        "url": "http://cdn-postatv.yayin.com.tr/postatv/postatv/chunklist_w2106827213.m3u8"
+        "codecs": "avc1.42c015,mp4a.40.2",
+        "url": "http://cdn-postatv.yayin.com.tr/postatv/postatv/chunklist_w407321797.m3u8"
       }
     ],
     "status": "ok"
@@ -5535,10 +5526,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1212374,
+        "bandwidth": 1196883,
         "frameRate": null,
         "codecs": "avc1.640020,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/almanyatv/almanyatv/chunklist_w1481663752.m3u8"
+        "url": "http://145.239.37.125:20458/almanyatv/almanyatv/chunklist_w548063209.m3u8"
       }
     ],
     "status": "ok"
@@ -5556,10 +5547,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1729520,
+        "bandwidth": 1608057,
         "frameRate": 25,
         "codecs": "avc1.42001f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/altastv/bant1/chunks.m3u8?nimblesessionid=288701228"
+        "url": "https://edge1.taksimbilisim.com:443/altastv/bant1/chunks.m3u8?nimblesessionid=1335203926"
       }
     ],
     "status": "ok"
@@ -5595,7 +5586,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Anadolum_TV.png",
     "tvgId": "AnadolumTV.tr",
     "website": "https://anadolumtv.com.tr/",
-    "originalUrl": "https://cdn4.yayin.com.tr/anadolum/tracks-v1a1/2026/03/22/13/39/10-06000.ts",
+    "originalUrl": "https://cdn4.yayin.com.tr/anadolum/tracks-v1a1/2026/03/22/14/13/40-06000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Anadolum_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5616,7 +5607,7 @@
         "bandwidth": 250000,
         "frameRate": null,
         "codecs": "",
-        "url": "https://2.rtmp.org/tv217/yayin.stream/chunklist_w450785122.m3u8"
+        "url": "https://2.rtmp.org/tv217/yayin.stream/chunklist_w1609497580.m3u8"
       }
     ],
     "status": "ok"
@@ -5628,19 +5619,10 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/09ddfa2e-3d41-40fc-a102-530ef29f8019.png",
     "tvgId": "",
     "website": "https://www.amasyaradyotv.com/",
-    "originalUrl": "http://188.245.211.255:1935/canlitv/arttv.stream/playlist.m3u8?hash=3447b8f201a231b95188ad432bd27f32",
-    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/ART_Amasya_master.m3u8",
-    "streams": [
-      {
-        "quality": "480p",
-        "resolution": "854x480",
-        "bandwidth": 1311079,
-        "frameRate": null,
-        "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/canlitv/arttv.stream/chunklist_w1904868021.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
-      }
-    ],
-    "status": "ok"
+    "originalUrl": null,
+    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/ART_Amasya_bda64054-2b0b-4c15-b29e-be7b5beb02d0.m3u8",
+    "streams": [],
+    "status": "error:http_403"
   },
   {
     "index": 201,
@@ -5655,10 +5637,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 6542244,
+        "bandwidth": 6767570,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8?nimblesessionid=2564943003"
+        "url": "https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8?nimblesessionid=2565133647"
       }
     ],
     "status": "ok"
@@ -5688,10 +5670,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1892934,
+        "bandwidth": 1833289,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://cdn-aytv.yayin.com.tr/aytv/aytv/chunklist_w132735.m3u8"
+        "url": "https://cdn-aytv.yayin.com.tr/aytv/aytv/chunklist_w154049598.m3u8"
       }
     ],
     "status": "ok"
@@ -5709,7 +5691,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 550000,
+        "bandwidth": 720000,
         "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8"
@@ -5730,10 +5712,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1393683,
+        "bandwidth": 1355801,
         "frameRate": 50,
         "codecs": "avc1.640029,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=288701243"
+        "url": "https://edge1.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=1335203943"
       }
     ],
     "status": "ok"
@@ -5796,8 +5778,8 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 550000,
-        "frameRate": 24,
+        "bandwidth": 390000,
+        "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8"
       }
@@ -5817,9 +5799,9 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 280000,
-        "frameRate": 30,
-        "codecs": "avc1.64001f,mp4a.40.2",
+        "bandwidth": 780000,
+        "frameRate": 25,
+        "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8"
       }
     ],
@@ -5862,10 +5844,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2396262,
+        "bandwidth": 3050233,
         "frameRate": 29.97,
         "codecs": "avc1.4d001f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?nimblesessionid=2564943116"
+        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?nimblesessionid=2565133709"
       }
     ],
     "status": "ok"
@@ -5877,7 +5859,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/a0200571-a064-4599-9ed9-ae1f869add81.png",
     "tvgId": "",
     "website": "https://radyodeniz.com/",
-    "originalUrl": "http://162.212.179.32/akamaissh101/ssh101/denizradyotv/l_2695478_4202283_1029.ts",
+    "originalUrl": "http://162.212.179.32/akamaissh101/ssh101/denizradyotv/l_2695478_6273066_1522.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Deniz_Radyo_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5901,7 +5883,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/12bcd1d9-9978-4b15-8caf-c3a36485557b.png",
     "tvgId": "",
     "website": "https://www.edirnetv.com/",
-    "originalUrl": "https://yayin.edirnetv.com:8088/hls/etvcanliyayin-1774172381574.ts",
+    "originalUrl": "https://yayin.edirnetv.com:8088/hls/etvcanliyayin-1774174449730.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Edirne_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -5913,19 +5895,10 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/4a1c798d-6f17-49cb-8d61-bcaddd000138.png",
     "tvgId": "",
     "website": "",
-    "originalUrl": "http://188.245.211.255:1935/canlitv/egelivetv.stream/playlist.m3u8?hash=3447b8f201a231b95188ad432bd27f32",
-    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ege_Live_TV_master.m3u8",
-    "streams": [
-      {
-        "quality": "360p",
-        "resolution": "640x360",
-        "bandwidth": 1014336,
-        "frameRate": null,
-        "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/canlitv/egelivetv.stream/chunklist_w1794583145.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
-      }
-    ],
-    "status": "ok"
+    "originalUrl": null,
+    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ege_Live_TV_016a8c68-5bd7-4c6a-8d0c-98f695bd8b57.m3u8",
+    "streams": [],
+    "status": "error:http_403"
   },
   {
     "index": 218,
@@ -5940,10 +5913,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2574459,
+        "bandwidth": 2682355,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8?nimblesessionid=2564943178"
+        "url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8?nimblesessionid=2565133757"
       }
     ],
     "status": "ok"
@@ -5973,10 +5946,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2153655,
+        "bandwidth": 2131686,
         "frameRate": 25,
         "codecs": "avc1.640029,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8?nimblesessionid=2564943201"
+        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8?nimblesessionid=2565133756"
       }
     ],
     "status": "ok"
@@ -6018,7 +5991,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 12590000,
+        "bandwidth": 12670000,
         "frameRate": 25,
         "codecs": "avc1.4d402a,mp4a.40.2",
         "url": "https://live.euromediacenter.com/euronews34/tracks-v1a1/mono.m3u8"
@@ -6045,7 +6018,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/4ca348c7-1037-4dd6-8ba6-a5d5e4fc53e1.png",
     "tvgId": "",
     "website": "https://gemlikinsesitv.com/",
-    "originalUrl": "https://gemlikinsesitv.ozelip.com:3764/stream/play-1306005.ts",
+    "originalUrl": "https://gemlikinsesitv.ozelip.com:3764/stream/play-1306453.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Gemlikin_Sesi_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6063,10 +6036,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1183146,
+        "bandwidth": 1241113,
         "frameRate": null,
         "codecs": "avc1.64002a,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/live/gozdetv.stream/chunklist_w1679921758.m3u8?hash=5611c4820b79084cc3c4d892c5641061"
+        "url": "http://188.245.211.255:1935/live/gozdetv.stream/chunklist_w890287756.m3u8?hash=5611c4820b79084cc3c4d892c5641061"
       }
     ],
     "status": "ok"
@@ -6096,10 +6069,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1767583,
+        "bandwidth": 1786902,
         "frameRate": 29.97,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/gtv/bant1/chunks.m3u8?nimblesessionid=288701272"
+        "url": "https://edge1.taksimbilisim.com:443/gtv/bant1/chunks.m3u8?nimblesessionid=1335203979"
       }
     ],
     "status": "ok"
@@ -6117,10 +6090,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1844355,
+        "bandwidth": 1756672,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://cdn1-gurbet24.yayin.com.tr/gurbet24/gurbet24/chunklist_w1746393616.m3u8"
+        "url": "https://cdn1-gurbet24.yayin.com.tr/gurbet24/gurbet24/chunklist_w1647714363.m3u8"
       }
     ],
     "status": "ok"
@@ -6141,7 +6114,7 @@
         "bandwidth": 2128000,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w1989342561_b2128000.m3u8"
+        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w1232881555_b2128000.m3u8"
       },
       {
         "quality": "480p",
@@ -6149,7 +6122,7 @@
         "bandwidth": 896000,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w1989342561_b896000.m3u8"
+        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w1232881555_b896000.m3u8"
       }
     ],
     "status": "ok"
@@ -6161,7 +6134,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/A_Haber.png",
     "tvgId": "",
     "website": "https://www.haberrize.com.tr/",
-    "originalUrl": "https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/2026/03/22/13/39/19-05000.ts",
+    "originalUrl": "https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/2026/03/22/14/13/49-05000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Haber_Rize_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6179,10 +6152,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1803120,
+        "bandwidth": 1625249,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8?nimblesessionid=2564943327"
+        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8?nimblesessionid=2565133903"
       }
     ],
     "status": "ok"
@@ -6194,7 +6167,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/72ff9fbe-54cf-462d-bc37-040d66a92304.png",
     "tvgId": "",
     "website": "https://www.hurtvradyo.com/",
-    "originalUrl": "https://live.euromediacenter.com/hurtv/tracks-v1a1/2026/03/22/13/39/08-09080.ts",
+    "originalUrl": "https://live.euromediacenter.com/hurtv/tracks-v1a1/2026/03/22/14/13/35-06080.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Hur_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6212,10 +6185,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2190178,
+        "bandwidth": 2190917,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/iceltv/bant1/chunks.m3u8?nimblesessionid=288701277"
+        "url": "https://edge1.taksimbilisim.com:443/iceltv/bant1/chunks.m3u8?nimblesessionid=1335204002"
       }
     ],
     "status": "ok"
@@ -6227,7 +6200,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/f2c6a86b-559b-4c79-8fa0-1005a4fdee3b.png",
     "tvgId": "",
     "website": "https://ilketv.com.tr/",
-    "originalUrl": "https://stream.ilketv.com.tr/hls/ilkecanli-35779.ts",
+    "originalUrl": "https://stream.ilketv.com.tr/hls/ilkecanli-35987.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ilke_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6239,7 +6212,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/318037aa-acfe-4b80-9827-0d3dd32b265f.png",
     "tvgId": "IsvicreTV.tr",
     "website": "https://www.isvicretv.com/",
-    "originalUrl": "https://i41.ozelip.com:3269/hybrid/play-1294138.ts",
+    "originalUrl": "https://i41.ozelip.com:3269/hybrid/play-1294593.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Isvicre_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6260,7 +6233,7 @@
         "bandwidth": 4292248,
         "frameRate": null,
         "codecs": "avc1.4d4032,mp4a.40.2",
-        "url": "https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/chunklist_w2070955403.m3u8"
+        "url": "https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/chunklist_w199479203.m3u8"
       }
     ],
     "status": "ok"
@@ -6272,19 +6245,10 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Power_Turk_TV.png",
     "tvgId": "",
     "website": "https://www.izmirturk.tv/",
-    "originalUrl": "http://188.245.211.255:1935/canlitv/izmirturktv.stream/playlist.m3u8?hash=3447b8f201a231b95188ad432bd27f32",
-    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Izmir_Turk_TV_master.m3u8",
-    "streams": [
-      {
-        "quality": "700p",
-        "resolution": "1120x700",
-        "bandwidth": 1136708,
-        "frameRate": null,
-        "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/canlitv/izmirturktv.stream/chunklist_w2082176357.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
-      }
-    ],
-    "status": "ok"
+    "originalUrl": null,
+    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Izmir_Turk_TV_616175cb-d59a-4b6a-b0df-b3ffd016007e.m3u8",
+    "streams": [],
+    "status": "error:http_403"
   },
   {
     "index": 239,
@@ -6293,7 +6257,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Kanal_12.png",
     "tvgId": "",
     "website": "https://kanal13.com.tr/",
-    "originalUrl": "https://cdn4.yayin.com.tr/kanal13/tracks-v1a1/2026/03/22/13/39/19-05120.ts",
+    "originalUrl": "https://cdn4.yayin.com.tr/kanal13/tracks-v1a1/2026/03/22/14/13/51-05120.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Kanal_13_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6311,10 +6275,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1346395,
+        "bandwidth": 1344714,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8?nimblesessionid=2564943441"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8?nimblesessionid=2565133937"
       }
     ],
     "status": "ok"
@@ -6332,7 +6296,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 1500000,
+        "bandwidth": 1850000,
         "frameRate": 29.97,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8"
@@ -6353,7 +6317,7 @@
       {
         "quality": "480p",
         "resolution": "852x480",
-        "bandwidth": 960000,
+        "bandwidth": 970000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/tracks-v3a1/mono.m3u8"
@@ -6361,7 +6325,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1610000,
+        "bandwidth": 1640000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/tracks-v2a1/mono.m3u8"
@@ -6369,7 +6333,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2380000,
+        "bandwidth": 2410000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/tracks-v1a1/mono.m3u8"
@@ -6390,10 +6354,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1297157,
+        "bandwidth": 1302886,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?nimblesessionid=2564943444"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?nimblesessionid=2565133962"
       }
     ],
     "status": "ok"
@@ -6423,10 +6387,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2385565,
+        "bandwidth": 2215694,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/kanal33/bant1/chunks.m3u8?nimblesessionid=288701295"
+        "url": "https://edge1.taksimbilisim.com:443/kanal33/bant1/chunks.m3u8?nimblesessionid=1335204017"
       }
     ],
     "status": "ok"
@@ -6444,7 +6408,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 350000,
+        "bandwidth": 290000,
         "frameRate": 25,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8"
@@ -6471,7 +6435,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Kanal_5.png",
     "tvgId": "",
     "website": "https://kanal53.fm.tc/",
-    "originalUrl": "https://kanal53.ozelip.com:3448/hybrid/play-724836.ts",
+    "originalUrl": "https://kanal53.ozelip.com:3448/hybrid/play-725340.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Kanal_53_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6489,10 +6453,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1354761,
+        "bandwidth": 1250604,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8?nimblesessionid=2564943479"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8?nimblesessionid=2565133983"
       }
     ],
     "status": "ok"
@@ -6510,10 +6474,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1176128,
+        "bandwidth": 1167856,
         "frameRate": null,
         "codecs": "avc1.640020,mp4a.40.2",
-        "url": "http://ip252.ozelip.com:28008/kanalada/kanalada/chunklist_w1721994347.m3u8"
+        "url": "http://ip252.ozelip.com:28008/kanalada/kanalada/chunklist_w1443662041.m3u8"
       }
     ],
     "status": "ok"
@@ -6531,10 +6495,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1166984,
+        "bandwidth": 1209575,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?nimblesessionid=2564943481"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?nimblesessionid=2565133982"
       }
     ],
     "status": "ok"
@@ -6552,10 +6516,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1486933,
+        "bandwidth": 1463802,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/kanalg/kanalg/chunklist_w1600879676.m3u8"
+        "url": "http://145.239.37.125:20458/kanalg/kanalg/chunklist_w1211893546.m3u8"
       }
     ],
     "status": "ok"
@@ -6573,10 +6537,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4730307,
+        "bandwidth": 5219582,
         "frameRate": 25,
         "codecs": "avc1.42c028,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8?nimblesessionid=2564943495"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8?nimblesessionid=2565133984"
       }
     ],
     "status": "ok"
@@ -6594,10 +6558,10 @@
       {
         "quality": "404p",
         "resolution": "720x404",
-        "bandwidth": 1397944,
+        "bandwidth": 1330198,
         "frameRate": 30,
         "codecs": "avc1.4d001f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/kanalurfa/bant1/chunks.m3u8?nimblesessionid=288701303"
+        "url": "https://edge1.taksimbilisim.com:443/kanalurfa/bant1/chunks.m3u8?nimblesessionid=1335204037"
       }
     ],
     "status": "ok"
@@ -6615,10 +6579,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1251938,
+        "bandwidth": 1280013,
         "frameRate": 50,
         "codecs": "avc1.4d4020,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?nimblesessionid=2564943494"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?nimblesessionid=2565133985"
       }
     ],
     "status": "ok"
@@ -6636,10 +6600,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2016387,
+        "bandwidth": 1998903,
         "frameRate": 30,
         "codecs": "avc1.4d001f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8?nimblesessionid=2564943566"
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8?nimblesessionid=2565134048"
       }
     ],
     "status": "ok"
@@ -6657,7 +6621,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1870000,
+        "bandwidth": 2140000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/karadeniztv/tracks-v1a1/mono.m3u8"
@@ -6672,7 +6636,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/f5fa3c04-5a07-44b7-a447-7b171065c9ac.png",
     "tvgId": "",
     "website": "https://karasu.tv/",
-    "originalUrl": "https://ip100.radyotelekomtv.com:3579/stream/play-676122.ts",
+    "originalUrl": "https://ip100.radyotelekomtv.com:3579/stream/play-676776.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Karasu_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6690,10 +6654,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2258045,
+        "bandwidth": 2291840,
         "frameRate": 25,
         "codecs": "avc1.4d001f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/kardelentv/bant1/chunks.m3u8?nimblesessionid=288701312"
+        "url": "https://edge1.taksimbilisim.com:443/kardelentv/bant1/chunks.m3u8?nimblesessionid=1335204050"
       }
     ],
     "status": "ok"
@@ -6705,7 +6669,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/98251a7c-ceee-4d00-b15d-b583418e50e6.png",
     "tvgId": "",
     "website": "https://www.facebook.com/37kastamonutv/",
-    "originalUrl": "http://51.91.118.139:8080/live/kastamonutv/kastamonutv/hls/kastamonutv/kastamonutv/3385/dbf00a58a392bd5c73fb1071a0fbe490/3385_6885.ts",
+    "originalUrl": "http://51.91.118.139:8080/live/kastamonutv/kastamonutv/hls/kastamonutv/kastamonutv/3385/ad9b244fc0a2532374621954ba3d7a46/3385_7092.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Kastamonu_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -6723,10 +6687,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2942318,
+        "bandwidth": 2785976,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8?nimblesessionid=2564943569"
+        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8?nimblesessionid=2565134050"
       }
     ],
     "status": "ok"
@@ -6744,10 +6708,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 10521382,
+        "bandwidth": 8481297,
         "frameRate": null,
-        "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/kent64/kent64/chunklist_w418142983.m3u8"
+        "codecs": "avc1.42c028,mp4a.40.2",
+        "url": "http://145.239.37.125:20458/kent64/kent64/chunklist_w1222919810.m3u8"
       }
     ],
     "status": "ok"
@@ -6765,10 +6729,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 2029640,
+        "bandwidth": 1969047,
         "frameRate": 50,
         "codecs": "avc1.640029,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8?nimblesessionid=2564943573"
+        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8?nimblesessionid=2565134049"
       }
     ],
     "status": "ok"
@@ -6810,10 +6774,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1631272,
+        "bandwidth": 1738543,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?nimblesessionid=2564943625"
+        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?nimblesessionid=2565134101"
       }
     ],
     "status": "ok"
@@ -6843,10 +6807,10 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 1841395,
+        "bandwidth": 1899757,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/chunklist_w1603776184.m3u8"
+        "url": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/chunklist_w1520925409.m3u8"
       }
     ],
     "status": "ok"
@@ -6864,10 +6828,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1843207,
+        "bandwidth": 1790738,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?nimblesessionid=2564943622"
+        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?nimblesessionid=2565134103"
       }
     ],
     "status": "ok"
@@ -6885,10 +6849,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2329151,
+        "bandwidth": 2222264,
         "frameRate": 25,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/linetv/bant1/chunks.m3u8?nimblesessionid=288701327"
+        "url": "https://edge1.taksimbilisim.com:443/linetv/bant1/chunks.m3u8?nimblesessionid=1335204075"
       }
     ],
     "status": "ok"
@@ -6906,10 +6870,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1362087,
+        "bandwidth": 1091925,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8?nimblesessionid=2564943626"
+        "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8?nimblesessionid=2565134104"
       }
     ],
     "status": "ok"
@@ -6939,7 +6903,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 8270000,
+        "bandwidth": 7970000,
         "frameRate": 25,
         "codecs": "avc1.4d4029,mp4a.40.2",
         "url": "https://live.euromediacenter.com/medyatv/tracks-v1a1/mono.m3u8"
@@ -6958,12 +6922,12 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Mega_TV_Iskenderun_playlist.m3u8",
     "streams": [
       {
-        "quality": "360p",
-        "resolution": "640x360",
-        "bandwidth": 878907,
+        "quality": "720p",
+        "resolution": "1280x720",
+        "bandwidth": 1070718,
         "frameRate": null,
-        "codecs": "avc1.42c01e,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/megatv/megatv/chunklist_w784039939.m3u8"
+        "codecs": "avc1.4d401f,mp4a.40.2",
+        "url": "http://145.239.37.125:20458/megatv/megatv/chunklist_w1562230662.m3u8"
       }
     ],
     "status": "ok"
@@ -6981,10 +6945,10 @@
       {
         "quality": "576p",
         "resolution": "720x576",
-        "bandwidth": 1356770,
+        "bandwidth": 1359252,
         "frameRate": 25,
         "codecs": "avc1.77.30,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?nimblesessionid=2564943681"
+        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?nimblesessionid=2565134174"
       }
     ],
     "status": "ok"
@@ -6996,7 +6960,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/3ac8cefb-1c3b-4830-9ecc-228804bffff4.png",
     "tvgId": "",
     "website": "https://merkeztv.net/",
-    "originalUrl": "https://ip100.radyotelekomtv.com:3689/stream/play-541845.ts",
+    "originalUrl": "https://ip100.radyotelekomtv.com:3689/stream/play-542364.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Merkez_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7014,10 +6978,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 6072168,
+        "bandwidth": 6946769,
         "frameRate": 25,
         "codecs": "avc1.42c028,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/metropoltv/smil/metropoltv/bant1/chunks.m3u8?nimblesessionid=288701334"
+        "url": "https://edge1.taksimbilisim.com:443/metropoltv/smil/metropoltv/bant1/chunks.m3u8?nimblesessionid=1335204091"
       }
     ],
     "status": "ok"
@@ -7047,10 +7011,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1348997,
+        "bandwidth": 1069778,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=2564943683"
+        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=2565134151"
       }
     ],
     "status": "ok"
@@ -7068,7 +7032,7 @@
       {
         "quality": "576p",
         "resolution": "1024x576",
-        "bandwidth": 2760000,
+        "bandwidth": 3820000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8"
@@ -7089,10 +7053,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1532598,
+        "bandwidth": 1700069,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/muglaturk/bant1/chunks.m3u8?nimblesessionid=288701343"
+        "url": "https://edge1.taksimbilisim.com:443/muglaturk/bant1/chunks.m3u8?nimblesessionid=1335204109"
       }
     ],
     "status": "ok"
@@ -7110,10 +7074,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4414645,
+        "bandwidth": 4261348,
         "frameRate": 50,
         "codecs": "avc1.4d0029,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8?nimblesessionid=2564943785"
+        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8?nimblesessionid=2565134223"
       }
     ],
     "status": "ok"
@@ -7131,7 +7095,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 5370000,
+        "bandwidth": 5360000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8"
@@ -7146,7 +7110,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/41309b0a-e115-4803-9fcb-8b22472bc86c.png",
     "tvgId": "",
     "website": "https://www.onmedya.com.tr/",
-    "originalUrl": "https://yayin11.sunucuodasi.com/hls/mtv/live-47259.ts",
+    "originalUrl": "https://yayin11.sunucuodasi.com/hls/mtv/live-47606.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/On_Medya_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7176,7 +7140,7 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 400000,
+        "bandwidth": 380000,
         "frameRate": 30,
         "codecs": "avc1.4d401e,mp4a.40.2",
         "url": "https://live.euromediacenter.com/pusulatv/tracks-v1a1/mono.m3u8"
@@ -7191,7 +7155,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Power_Turk_TV.png",
     "tvgId": "",
     "website": "https://rizeturktv.fm.tc/",
-    "originalUrl": "https://yayin.rizeturk.com:3777/hybrid/play-675198.ts",
+    "originalUrl": "https://yayin.rizeturk.com:3777/hybrid/play-675668.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Rize_Turk_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7203,7 +7167,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/3220b2d8-86bc-4b78-9a94-3b3be7b8f92d.png",
     "tvgId": "",
     "website": "https://www.ruhatv.com.tr/",
-    "originalUrl": "https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive-91006.ts",
+    "originalUrl": "https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive-91525.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ruha_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7221,10 +7185,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4547914,
+        "bandwidth": 11085081,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/rumeliturk/rumeliturk/chunklist_w294939280.m3u8"
+        "url": "http://145.239.37.125:20458/rumeliturk/rumeliturk/chunklist_w968766722.m3u8"
       }
     ],
     "status": "ok"
@@ -7254,7 +7218,7 @@
       {
         "quality": "480p",
         "resolution": "854x480",
-        "bandwidth": 760000,
+        "bandwidth": 740000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8"
@@ -7290,7 +7254,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/95e3cc57-2db2-497c-a5a0-38b1e09f864a.png",
     "tvgId": "",
     "website": "https://www.sonmeztv.com/",
-    "originalUrl": "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive-3311.ts",
+    "originalUrl": "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive-3829.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Sonmez_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7308,10 +7272,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2653321,
+        "bandwidth": 2649711,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/suduragitv/suduragitv/chunklist_w59280379.m3u8"
+        "url": "http://145.239.37.125:20458/suduragitv/suduragitv/chunklist_w600719271.m3u8"
       }
     ],
     "status": "ok"
@@ -7341,7 +7305,7 @@
       {
         "quality": "480p",
         "resolution": "854x480",
-        "bandwidth": 8560000,
+        "bandwidth": 3250000,
         "frameRate": 30,
         "codecs": "avc1.64001f,mp4a.40.2",
         "url": "https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8"
@@ -7362,7 +7326,7 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 4500000,
+        "bandwidth": 7360000,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
         "url": "https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8"
@@ -7395,10 +7359,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 5099552,
+        "bandwidth": 4733958,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8?nimblesessionid=2564943918"
+        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8?nimblesessionid=2565134356"
       }
     ],
     "status": "ok"
@@ -7469,10 +7433,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2184069,
+        "bandwidth": 2225381,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "https://edge2.taksimbilisim.com:443/turkhaber/bant1/chunks.m3u8?nimblesessionid=288701361"
+        "url": "https://edge1.taksimbilisim.com:443/turkhaber/bant1/chunks.m3u8?nimblesessionid=1335204143"
       }
     ],
     "status": "ok"
@@ -7551,10 +7515,10 @@
       {
         "quality": "360p",
         "resolution": "640x360",
-        "bandwidth": 1890076,
+        "bandwidth": 1882665,
         "frameRate": null,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/canlitv/tv38.stream/chunklist_w1234185572.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
+        "url": "http://188.245.211.255:1935/canlitv/tv38.stream/chunklist_w2050187542.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
       }
     ],
     "status": "ok"
@@ -7578,7 +7542,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/TV_4.png",
     "tvgId": "",
     "website": "https://www.tv48.com.tr/",
-    "originalUrl": "https://ajansplay.com:5443/LiveApp/streams/tv48000162356.ts",
+    "originalUrl": "https://ajansplay.com:5443/LiveApp/streams/tv48000163392.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/TV_48_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7590,7 +7554,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/5e035236-0bf0-49a4-8a61-d5cb0a2040d8.png",
     "tvgId": "",
     "website": "https://tvden.com.tr/",
-    "originalUrl": "https://canli.tvden.com.tr/hls/live-1774186727268.ts",
+    "originalUrl": "https://canli.tvden.com.tr/hls/live-1774188797231.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/TV_DEN_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7627,11 +7591,11 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/TV_Kentim_video.m3u8",
     "streams": [
       {
-        "quality": "360p",
-        "resolution": "480x360",
-        "bandwidth": 420000,
-        "frameRate": 25,
-        "codecs": "avc1.4d4015,mp4a.40.2",
+        "quality": "720p",
+        "resolution": "1280x720",
+        "bandwidth": 74930000,
+        "frameRate": 90000,
+        "codecs": "avc1.4d4028,mp4a.40.2",
         "url": "https://live.euromediacenter.com/kenttv/tracks-v1a1/mono.m3u8"
       }
     ],
@@ -7650,10 +7614,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3788791,
+        "bandwidth": 4720199,
         "frameRate": 25,
         "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8?nimblesessionid=2564943988"
+        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8?nimblesessionid=2565134433"
       }
     ],
     "status": "ok"
@@ -7671,7 +7635,7 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2220000,
+        "bandwidth": 2130000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/tracks-v1a1/mono.m3u8"
@@ -7690,12 +7654,12 @@
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Viyana_TV_playlist.m3u8",
     "streams": [
       {
-        "quality": "288p",
-        "resolution": "512x288",
-        "bandwidth": 1245930,
+        "quality": "360p",
+        "resolution": "638x360",
+        "bandwidth": 666308,
         "frameRate": null,
-        "codecs": "avc1.4d4015,mp4a.40.2",
-        "url": "http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/chunklist_w366175723.m3u8"
+        "codecs": "avc1.4d401e,mp4a.40.2",
+        "url": "http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/chunklist_w585084815.m3u8"
       }
     ],
     "status": "ok"
@@ -7707,7 +7671,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/8ca0d67a-b187-49b6-a0cb-3894c7858e8c.png",
     "tvgId": "",
     "website": "https://vrt.net.tr/",
-    "originalUrl": "https://vrttv.ozelip.com:3278/hybrid/play-22297.ts",
+    "originalUrl": "https://vrttv.ozelip.com:3278/hybrid/play-22652.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/VRT_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7719,19 +7683,10 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/TRT_World.png",
     "tvgId": "",
     "website": "https://worldturk.com.tr/",
-    "originalUrl": "http://188.245.211.255:1935/canlitv/worldturk.stream/playlist.m3u8?hash=3447b8f201a231b95188ad432bd27f32",
-    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/World_Turk_master.m3u8",
-    "streams": [
-      {
-        "quality": "1080p",
-        "resolution": "1920x1080",
-        "bandwidth": 2265174,
-        "frameRate": null,
-        "codecs": "avc1.42c01f,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/canlitv/worldturk.stream/chunklist_w996749800.m3u8?hash=3447b8f201a231b95188ad432bd27f32"
-      }
-    ],
-    "status": "ok"
+    "originalUrl": null,
+    "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/World_Turk_e68b0945-483e-4580-9fe8-4b52c2afd778.m3u8",
+    "streams": [],
+    "status": "error:http_403"
   },
   {
     "index": 316,
@@ -7746,10 +7701,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2416804,
+        "bandwidth": 1839941,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/yagmur/yagmur/chunklist_w820560522.m3u8"
+        "url": "http://145.239.37.125:20458/yagmur/yagmur/chunklist_w336362341.m3u8"
       }
     ],
     "status": "ok"
@@ -7767,10 +7722,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 2786326,
+        "bandwidth": 2776418,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/chunklist_w813955182.m3u8"
+        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/chunklist_w623556740.m3u8"
       }
     ],
     "status": "ok"
@@ -7788,10 +7743,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3633122,
+        "bandwidth": 3615465,
         "frameRate": null,
         "codecs": "avc1.66.31,mp4a.40.2",
-        "url": "https://yayin30.haber100.com/live/sehirekrani/chunklist_w1328354324.m3u8"
+        "url": "https://yayin30.haber100.com/live/sehirekrani/chunklist_w541330510.m3u8"
       }
     ],
     "status": "ok"
@@ -7809,7 +7764,7 @@
       {
         "quality": "480p",
         "resolution": "852x480",
-        "bandwidth": 810000,
+        "bandwidth": 930000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/tracks-v3a1/mono.m3u8"
@@ -7817,15 +7772,15 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1550000,
+        "bandwidth": 1570000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/tracks-v2a1/mono.m3u8"
       },
       {
-        "quality": "1082p",
-        "resolution": "1920x1082",
-        "bandwidth": 2800000,
+        "quality": "1080p",
+        "resolution": "1920x1080",
+        "bandwidth": 2680000,
         "frameRate": 25,
         "codecs": "avc1.4d401f,mp4a.40.2",
         "url": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/tracks-v1a1/mono.m3u8"
@@ -7840,7 +7795,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/c4fe304a-6fd6-45fe-b1f2-23379261d0d8.png",
     "tvgId": "",
     "website": "https://tbbwebtv.com.tr/",
-    "originalUrl": "https://tv191.radyotelekom.com.tr:3612/hybrid/play-1961575.ts",
+    "originalUrl": "https://tv191.radyotelekom.com.tr:3612/hybrid/play-1961932.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/TBB_Web_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -7858,10 +7813,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 3666155,
+        "bandwidth": 3538918,
         "frameRate": null,
         "codecs": "avc1.66.30,mp4a.40.2",
-        "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/chunklist_w756648090.m3u8"
+        "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/chunklist_w1990142152.m3u8"
       }
     ],
     "status": "ok"
@@ -7873,7 +7828,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/ded77a7d-ad44-4102-9b8b-114b6e294c99.png",
     "tvgId": "",
     "website": "https://www.tursab.org.tr/",
-    "originalUrl": "https://live01.vucos.io/tursab_abr/tursab/l_19_803172366_84597.ts",
+    "originalUrl": "https://live01.vucos.io/tursab_abr/tursab/l_19_805240599_85114.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Tursab_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8036,10 +7991,10 @@
       {
         "quality": "1080p",
         "resolution": "1920x1080",
-        "bandwidth": 1293178,
+        "bandwidth": 1138742,
         "frameRate": null,
         "codecs": "avc1.64002a,mp4a.40.2",
-        "url": "http://188.245.211.255:1935/live/kibrisadatv.stream/chunklist_w1057741732.m3u8?hash=5611c4820b79084cc3c4d892c5641061"
+        "url": "http://188.245.211.255:1935/live/kibrisadatv.stream/chunklist_w1610344211.m3u8?hash=5611c4820b79084cc3c4d892c5641061"
       }
     ],
     "status": "ok"
@@ -8057,10 +8012,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1793982,
+        "bandwidth": 1973388,
         "frameRate": null,
         "codecs": "avc1.4d4029,mp4a.40.2",
-        "url": "https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8?nimblesessionid=104694869"
+        "url": "https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8?nimblesessionid=104704250"
       }
     ],
     "status": "ok"
@@ -8072,7 +8027,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Kibris_Kanal_T.png",
     "tvgId": "KibrisTV.tr",
     "website": "https://kibristv.com/",
-    "originalUrl": "https://play.kibristv.com/stream/hls/stream-266786.ts",
+    "originalUrl": "https://play.kibristv.com/stream/hls/stream-266986.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Kibris_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8132,7 +8087,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/a1f62e7f-3c6f-456e-9b57-fa32648de993.png",
     "tvgId": "",
     "website": "https://intisadtv.com/",
-    "originalUrl": "https://host.onlineradyotv.net:8081/intisadtv/tracks-v1a1/2026/03/22/13/39/30-05000.ts",
+    "originalUrl": "https://host.onlineradyotv.net:8081/intisadtv/tracks-v1a1/2026/03/22/14/14/01-05000.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Intisad_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8144,7 +8099,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/62b1f5da-b03b-43d3-aac9-455cc2c36865.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/arabeskyeni-84474.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/arabeskyeni-84598.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Arabesk_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8156,7 +8111,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/0c6e20d0-c612-4c37-a02c-16b74a0e7a08.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/arma-140762.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/arma-140970.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Arma_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8168,7 +8123,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/30f854ed-4a6f-42cd-b81e-c23ed9d5385e.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/vivatv-108056.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/vivatv-108264.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Aviva_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8180,7 +8135,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Mar_TV.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/damar-84512.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/damar-84637.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Damar_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8192,7 +8147,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/dost_tv.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/dost-140655.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/dost-140862.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Dost_Web_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8204,7 +8159,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/4650b7de-b005-412b-9424-318d20e67e0c.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/ezo-140813.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/ezo-141021.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Ezo_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8216,7 +8171,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/TRT_Genc.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/genctv-84475.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/genctv-84599.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Genc_SMS_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8228,7 +8183,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/732aba1b-7b80-4c51-bb16-ee2022725fb4.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/zeynotv-140636.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/zeynotv-140843.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Guclu_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8240,7 +8195,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/rosatv-84655.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/rosatv-84780.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Rosa_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8252,7 +8207,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/7becde68-83ee-495e-b96f-243d66eb6254.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/silatv-84466.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/silatv-84590.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Sila_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8264,7 +8219,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Kral_Pop_TV.png",
     "tvgId": "",
     "website": "https://tvsms.club/",
-    "originalUrl": "https://yayin.santraltr.com/hls/toppop-140697.ts",
+    "originalUrl": "https://yayin.santraltr.com/hls/toppop-140904.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Top_Pop_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8276,7 +8231,7 @@
     "logo": "https://assets.uzunmuhalefet.com/logos/c44673f6-fc69-4c78-a24f-6da6dc7b1186.png",
     "tvgId": "",
     "website": "https://www.finest.tv/",
-    "originalUrl": "https://media.finest.tv/hls/live-4483881.ts",
+    "originalUrl": "https://media.finest.tv/hls/live-4484103.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Finest_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8294,10 +8249,10 @@
       {
         "quality": "unknown",
         "resolution": null,
-        "bandwidth": 146573,
+        "bandwidth": 141301,
         "frameRate": null,
         "codecs": "mp4a.40.2",
-        "url": "https://yayin30.haber100.com/live/kardestv/chunklist_w535805310.m3u8"
+        "url": "https://yayin30.haber100.com/live/kardestv/chunklist_w384625786.m3u8"
       }
     ],
     "status": "ok"
@@ -8315,10 +8270,10 @@
       {
         "quality": "720p",
         "resolution": "1280x720",
-        "bandwidth": 1577437,
+        "bandwidth": 2119993,
         "frameRate": null,
         "codecs": "avc1.4d401f,mp4a.40.2",
-        "url": "http://145.239.37.125:20458/foramuzik/foramuzik/chunklist_w1278277525.m3u8"
+        "url": "http://145.239.37.125:20458/foramuzik/foramuzik/chunklist_w7470696.m3u8"
       }
     ],
     "status": "ok"
@@ -8330,7 +8285,7 @@
     "logo": "https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Karadeniz_tv.png",
     "tvgId": "",
     "website": "https://slowkaradeniztv.fm.tc/",
-    "originalUrl": "https://yayin.slowkaradeniztv.com:3390/hybrid/play-697786.ts",
+    "originalUrl": "https://yayin.slowkaradeniztv.com:3390/hybrid/play-698285.ts",
     "publicUrl": "https://github.com/yasinyonet/iptv-list/tree/main/kanallar/Slow_Karadeniz_TV_master.m3u8",
     "streams": [],
     "status": "ok"
@@ -8363,7 +8318,7 @@
         "bandwidth": 2307979,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/0.m3u8?&sid=89ltdupvq3di&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/0.m3u8?&sid=89lwgnztiub8&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
       },
       {
         "quality": "720p",
@@ -8371,7 +8326,7 @@
         "bandwidth": 1637099,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/1.m3u8?&sid=89ltdupvq3di&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/1.m3u8?&sid=89lwgnztiub8&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
       },
       {
         "quality": "480p",
@@ -8379,7 +8334,7 @@
         "bandwidth": 1187979,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/2.m3u8?&sid=89ltdupvq3di&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/2.m3u8?&sid=89lwgnztiub8&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
       },
       {
         "quality": "360p",
@@ -8387,7 +8342,7 @@
         "bandwidth": 965099,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/3.m3u8?&sid=89ltdupvq3di&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist/3.m3u8?&sid=89lwgnztiub8&app=b69ca3df-5487-4c2a-bdf8-1a36c75b314c&ce=2"
       }
     ],
     "status": "ok"
@@ -8408,7 +8363,7 @@
         "bandwidth": 2312334,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/0.m3u8?&sid=89ltduq0pw2f&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/0.m3u8?&sid=89lwgnzh1cky&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
       },
       {
         "quality": "720p",
@@ -8416,7 +8371,7 @@
         "bandwidth": 1639214,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/1.m3u8?&sid=89ltduq0pw2f&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/1.m3u8?&sid=89lwgnzh1cky&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
       },
       {
         "quality": "480p",
@@ -8424,7 +8379,7 @@
         "bandwidth": 1190094,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/2.m3u8?&sid=89ltduq0pw2f&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/2.m3u8?&sid=89lwgnzh1cky&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
       },
       {
         "quality": "360p",
@@ -8432,7 +8387,7 @@
         "bandwidth": 966094,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/3.m3u8?&sid=89ltduq0pw2f&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist/3.m3u8?&sid=89lwgnzh1cky&app=f1898146-8a88-488c-a4a7-a6ea863cb3e5&ce=2"
       }
     ],
     "status": "ok"
@@ -8453,7 +8408,7 @@
         "bandwidth": 2310470,
         "frameRate": null,
         "codecs": "avc1.640028,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/0.m3u8?&sid=89ltduq87l3s&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/0.m3u8?&sid=89lwgnzm159v&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
       },
       {
         "quality": "720p",
@@ -8461,7 +8416,7 @@
         "bandwidth": 1638470,
         "frameRate": null,
         "codecs": "avc1.64001f,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/1.m3u8?&sid=89ltduq87l3s&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/1.m3u8?&sid=89lwgnzm159v&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
       },
       {
         "quality": "480p",
@@ -8469,7 +8424,7 @@
         "bandwidth": 1189350,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/2.m3u8?&sid=89ltduq87l3s&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/2.m3u8?&sid=89lwgnzm159v&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
       },
       {
         "quality": "360p",
@@ -8477,7 +8432,7 @@
         "bandwidth": 966470,
         "frameRate": null,
         "codecs": "avc1.4D401e,mp4a.40.2",
-        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/3.m3u8?&sid=89ltduq87l3s&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
+        "url": "https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist/3.m3u8?&sid=89lwgnzm159v&app=2ab9655d-0eb3-41d1-8511-4155c0d0200a&ce=2"
       }
     ],
     "status": "ok"
