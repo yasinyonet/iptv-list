@@ -1,4 +1,4 @@
-name: Daily TRT 01:00 Scraper
+name: Daily Scraper
 
 on:
   schedule:
