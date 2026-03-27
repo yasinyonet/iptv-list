@@ -1,10 +1,9 @@
 name: Daily Scraper
 
 on:
-  schedule:
-    # Türkiye Saati (TRT) UTC+3'tür. 
-    # TRT 01:00, UTC olarak bir önceki günün 22:00'sine denk gelir.
-    - cron: '0 22 * * *'
+  schedule: 
+    # Üç günde bir 01:00, UTC olarak güncellenir.
+    - cron: '0 22 */3 * *'
   workflow_dispatch: # Manuel çalıştırmaya da izin verir
 
 jobs:
