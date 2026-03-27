@@ -2,8 +2,8 @@ name: EPG Güncelleme (turksatkablo)
 
 on:
   schedule:
-    # Her gün Türkiye saatiyle 03:00'da (UTC 00:00)
-    - cron: '0 0 * * *'
+    # Her üç günde bir Türkiye saatiyle 03:00'da (UTC 00:00)
+    - cron: '0 0 */3 * *'
   workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
