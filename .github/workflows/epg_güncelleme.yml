@@ -22,10 +22,10 @@ jobs:
           path: iptv-list
 
       # 2. Node.js kur
-      - name: Node.js kur (v24)
+      - name: Node.js kur (v20)
         uses: actions/setup-node@v5
         with:
-          node-version: '24'
+          node-version: '20'
 
       # 3. epg klasöründe bağımlılıkları yükle
       - name: EPG bağımlılıklarını yükle
