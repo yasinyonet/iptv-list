@@ -14,7 +14,7 @@ jobs:
       # 1. Ana repoyu (iptv-list) indir. Bu reponun içinde epg alt modülü var mı?
       # Eğer epg klasörü repoda mevcutsa, actions/checkout onu da indirecektir.
       - name: Ana depoyu kontrol et (iptv-list)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           # Eğer epg bir alt modül (submodule) ise, submodules: true eklenmeli.
           # Ama epg klasörü normal bir klasörse (git submodule değilse) bu yeterli.
@@ -22,10 +22,10 @@ jobs:
           path: iptv-list
 
       # 2. Node.js kur
-      - name: Node.js kur (v18)
-        uses: actions/setup-node@v3
+      - name: Node.js kur (v24)
+        uses: actions/setup-node@v5
         with:
-          node-version: '18'
+          node-version: '24'
 
       # 3. epg klasöründe bağımlılıkları yükle
       - name: EPG bağımlılıklarını yükle
