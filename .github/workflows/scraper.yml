@@ -2,11 +2,12 @@ name: Daily Scraper
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
-  schedule: 
-    # Üç günde bir 01:00, UTC olarak güncellenir.
+  schedule:
+    # Every 3 days at 01:00 UTC (22:00 UTC previous day)
     - cron: '0 22 */3 * *'
-  workflow_dispatch: # Manuel çalıştırmaya da izin verir
+  workflow_dispatch:   # allows manual triggering
 
 jobs:
   scrape-and-update:
@@ -33,10 +34,15 @@ jobs:
         working-directory: ./m3u_creator
         run: npm start
 
+      - name: Copy tr.m3u to stream directory
+        run: |
+          mkdir -p stream
+          cp m3u_creator/output/tr.m3u stream/tr.m3u
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add m3u_creator/output/
+          git add m3u_creator/output/ stream/
           git commit -m "IPTV listeleri" || { echo "Değişiklik yok"; exit 0; }
-          git push
+          git push origin main
