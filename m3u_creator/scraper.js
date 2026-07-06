@@ -15,7 +15,7 @@ const { buildPublicUrl } = require('./modules/proxy');
 const { generateM3u } = require('./modules/generateM3u');
 
 // ── Ayarlar ──────────────────────────────────────────────────────────
-const M3U_URL = 'https://streams.uzunmuhalefet.com/lists/tr.m3u';
+const M3U_URL = 'https://github.com/yasinyonet/iptv-list/blob/main/tr.m3u';
 const OUTPUT_DIR = path.join(__dirname, 'output');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'streams.json');
 const M3U_FILE    = path.join(OUTPUT_DIR, 'tr.m3u');
