@@ -28,7 +28,7 @@ jobs:
       - name: Capture HAR
         run: |
           # Hedef URL'yi buraya yazın (değiştirebilirsiniz)
-          URL="https://ornek.com"
+          URL="https://www.atv.com.tr/canli-yayin"
           mkdir -p stream   # klasör zaten varsa hata vermez
           shot-scraper har "$URL" -o stream/output.har
 
