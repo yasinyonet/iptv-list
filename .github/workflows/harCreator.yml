@@ -1,1 +1,42 @@
+name: Capture HAR and Commit
 
+on:
+  workflow_dispatch:  # Sadece manuel tetikleme (Actions sekmesinden "Run workflow" ile)
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Repoyu çek
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Python kurulumu
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. shot-scraper kurulumu (Chromium'u da indirir)
+      - name: Install shot-scraper
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+
+      # 4. HAR dosyasını oluştur ve stream/ klasörüne kaydet
+      - name: Capture HAR
+        run: |
+          # Hedef URL'yi buraya yazın (değiştirebilirsiniz)
+          URL="https://ornek.com"
+          mkdir -p stream   # klasör zaten varsa hata vermez
+          shot-scraper har "$URL" -o stream/output.har
+
+      # 5. Değişiklikleri commit edip repoya gönder
+      - name: Commit and push HAR file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stream/output.har
+          git commit -m "Update HAR file [skip ci]" || echo "No changes to commit"
+          git push
