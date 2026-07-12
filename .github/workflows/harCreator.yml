@@ -1,4 +1,4 @@
-name: Capture HAR and Commit
+name: HAR and Commit
 
 on:
   workflow_dispatch:
