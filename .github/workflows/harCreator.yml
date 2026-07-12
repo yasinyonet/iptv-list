@@ -1,4 +1,4 @@
-name: HAR and Commit
+name: Capture HAR and Commit
 
 on:
   workflow_dispatch:
@@ -18,14 +18,15 @@ jobs:
 
       - name: Install shot-scraper
         run: |
-          pip install shot-scraper
+          pip install --upgrade shot-scraper
           shot-scraper install
 
       - name: Capture HAR
         run: |
-          URL="https://www.atv.com.tr/canli-yayin"   # değiştirin
+          URL="https://www.atv.com.tr/canli-yayin"
           mkdir -p stream
-          shot-scraper har "$URL" -o stream/output.har
+          # Timeout 120 saniye, ayrıca --no-sandbox ekleyelim (sorun yaşatabilir ama deneyelim)
+          shot-scraper har "$URL" -o stream/output.har --timeout 120000 --no-sandbox
 
       - name: Extract .m3u8 URLs
         run: python extract_m3u8.py
@@ -34,10 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Sadece m3u8_urls.txt'yi ekle, HAR'ı ekleme
           git add stream/m3u8_urls.txt
-          # HAR dosyasını stage'den çıkar (eğer eklenmişse)
           git reset stream/output.har 2>/dev/null || true
-          # Varsa eski HAR'ı da silip commit'ten çıkarabiliriz
           git commit -m "Update m3u8 URLs [skip ci]" || echo "No changes to commit"
           git push
