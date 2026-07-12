@@ -11,24 +11,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.11'
+          node-version: '18'
 
-      - name: Install shot-scraper
+      - name: Install Playwright
         run: |
-          pip install --upgrade shot-scraper
-          shot-scraper install
+          npm init -y
+          npm install playwright
+          npx playwright install --with-deps chromium
 
-      - name: Capture HAR
-        run: |
-          URL="https://www.atv.com.tr/canli-yayin"
-          mkdir -p stream
-          shot-scraper har "$URL" -o stream/output.har --timeout 120000
+      - name: Capture HAR with Playwright
+        run: node capture.js
 
       - name: Extract .m3u8 URLs
-        run: python extract_m3u8.py
+        run: |
+          pip install --upgrade pip
+          python extract_m3u8.py
 
       - name: Commit and push only the URLs file
         run: |
