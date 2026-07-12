@@ -23,7 +23,7 @@ jobs:
 
       - name: Capture HAR
         run: |
-          URL="https://ornek.com"   # değiştirin
+          URL="https://www.atv.com.tr/canli-yayin"   # değiştirin
           mkdir -p stream
           shot-scraper har "$URL" -o stream/output.har
 
