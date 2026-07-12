@@ -25,8 +25,7 @@ jobs:
         run: |
           URL="https://www.atv.com.tr/canli-yayin"
           mkdir -p stream
-          # Timeout 120 saniye, ayrıca --no-sandbox ekleyelim (sorun yaşatabilir ama deneyelim)
-          shot-scraper har "$URL" -o stream/output.har --timeout 120000 --no-sandbox
+          shot-scraper har "$URL" -o stream/output.har --timeout 120000
 
       - name: Extract .m3u8 URLs
         run: python extract_m3u8.py
