@@ -35,45 +35,29 @@ jobs:
           TMP_DIR="$(mktemp -d)"
           trap 'rm -rf "$TMP_DIR"' EXIT
 
-          
-download_playlist() {
-  local url="$1"
-  local output="$2"
-  local temp_file="$TMP_DIR/$output"
+          download_playlist() {
+            local url="$1"
+            local output="$2"
+            local temp_file="$TMP_DIR/$output"
 
-  echo "İndiriliyor: $output"
+            echo "İndiriliyor: $output"
 
-  curl \
-    --fail \
-    --silent \
-    --show-error \
-    --location \
-    --retry 3 \
-    --retry-delay 2 \
-    --connect-timeout 20 \
-    --max-time 300 \
-    --output "$temp_file" \
-    "$url"
+            curl \
+              --fail \
+              --silent \
+              --show-error \
+              --location \
+              --retry 3 \
+              --retry-delay 2 \
+              --connect-timeout 20 \
+              --max-time 180 \
+              --output "$temp_file" \
+              "$url"
 
-  if [[ ! -s "$temp_file" ]]; then
-    echo "::error::Dosya boş: $output"
-    return 1
-  fi
-
-  if ! head -n 5 "$temp_file" |
-    tr -d '\r' |
-    grep -Eiq '^[[:space:]]*#EXTM3U([[:space:]]|$)'; then
-    echo "::error::M3U başlığı bulunamadı: $output"
-    head -c 300 "$temp_file"
-    return 1
-  fi
-
-  if ! grep -aqE '^#EXTINF([:,[:space:]])' "$temp_file"; then
-    echo "::error::Kanal kaydı bulunamadı: $output"
-    return 1
-  fi
-}
-
+            if [[ ! -s "$temp_file" ]]; then
+              echo "::error::Dosya boş: $output"
+              return 1
+            fi
 
             # M3U başlığını kontrol et.
             if ! head -c 4096 "$temp_file" |
@@ -111,7 +95,7 @@ download_playlist() {
             turk_tv.m3u \
             turk_all.m3u \
             karma.m3u \
-            dünya.m3u
+            dunya.m3u
           do
             install -m 644 "$TMP_DIR/$file" "stream/$file"
             echo "Hazır: stream/$file"
@@ -126,7 +110,7 @@ download_playlist() {
             stream/turk_tv.m3u \
             stream/turk_all.m3u \
             stream/karma.m3u \
-            "stream/dünya.m3u"
+            "stream/dunya.m3u"
 
           if git diff --cached --quiet; then
             echo "Dosyalarda değişiklik yok. Commit oluşturulmadı."
