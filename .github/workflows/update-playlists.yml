@@ -1,0 +1,125 @@
+
+name: Update IPTV Playlists
+
+on:
+  schedule:
+    # Her 3 günde bir, saat 03:17 UTC
+    - cron: "17 3 */3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-iptv-playlists
+  cancel-in-progress: false
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: true
+
+      - name: M3U dosyalarını indir ve doğrula
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          mkdir -p stream
+          TMP_DIR="$(mktemp -d)"
+          trap 'rm -rf "$TMP_DIR"' EXIT
+
+          download_playlist() {
+            local url="$1"
+            local output="$2"
+            local temp_file="$TMP_DIR/$output"
+
+            echo "İndiriliyor: $output"
+
+            curl \
+              --fail \
+              --silent \
+              --show-error \
+              --location \
+              --retry 3 \
+              --retry-delay 2 \
+              --connect-timeout 20 \
+              --max-time 180 \
+              --output "$temp_file" \
+              "$url"
+
+            if [[ ! -s "$temp_file" ]]; then
+              echo "::error::Dosya boş: $output"
+              return 1
+            fi
+
+            # M3U başlığını kontrol et.
+            if ! head -c 4096 "$temp_file" |
+              tr -d '\r' |
+              grep -Eiq '^[[:space:]]*#EXTM3U([[:space:]]|$)'; then
+              echo "::error::Geçersiz M3U başlığı: $output"
+              return 1
+            fi
+
+            # Dosyada en az bir kanal kaydı bulunmalı.
+            if ! grep -aqE '^#EXTINF([:,[:space:]])' "$temp_file"; then
+              echo "::error::Kanal kaydı bulunamadı: $output"
+              return 1
+            fi
+          }
+
+          download_playlist \
+            "https://onureroz.com/indirmeler/turk/index.m3u" \
+            "turk_tv.m3u"
+
+          download_playlist \
+            "https://onureroz.com/indirmeler/turk/all.m3u" \
+            "turk_all.m3u"
+
+          download_playlist \
+            "https://onureroz.com/indirmeler/turk/karma-index.m3u" \
+            "karma.m3u"
+
+          download_playlist \
+            "https://onureroz.com/indirmeler/dunya/index.m3u" \
+            "dünya.m3u"
+
+          # Dört dosyanın tamamı doğrulandıktan sonra güncelle.
+          for file in \
+            turk_tv.m3u \
+            turk_all.m3u \
+            karma.m3u \
+            dünya.m3u
+          do
+            install -m 644 "$TMP_DIR/$file" "stream/$file"
+            echo "Hazır: stream/$file"
+          done
+
+      - name: Değişiklikleri GitHub'a kaydet
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          git add -- \
+            stream/turk_tv.m3u \
+            stream/turk_all.m3u \
+            stream/karma.m3u \
+            "stream/dünya.m3u"
+
+          if git diff --cached --quiet; then
+            echo "Dosyalarda değişiklik yok. Commit oluşturulmadı."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: update IPTV playlists"
+          git push
