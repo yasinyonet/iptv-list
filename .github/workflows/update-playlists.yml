@@ -118,4 +118,7 @@ jobs:
             "41898282+github-actions[bot]@users.noreply.github.com"
 
           git commit -m "chore: update IPTV playlists"
+          echo "Dosya değişiklikleri kontrol ediliyor:"
+          git status --short
+          git diff --stat
           git push
