@@ -3,7 +3,6 @@ name: Update IPTV Playlists
 
 on:
   schedule:
-    # Her 3 günde bir, saat 03:17 UTC
     - cron: "17 3 */3 * *"
   workflow_dispatch:
 
@@ -20,13 +19,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Depoyu indir
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.repository.default_branch }}
-          persist-credentials: true
 
-      - name: M3U dosyalarını indir ve doğrula
+      - name: Download and validate playlists
         shell: bash
         run: |
           set -Eeuo pipefail
@@ -37,10 +35,10 @@ jobs:
 
           download_playlist() {
             local url="$1"
-            local output="$2"
-            local temp_file="$TMP_DIR/$output"
+            local filename="$2"
+            local temp_file="$TMP_DIR/$filename"
 
-            echo "İndiriliyor: $output"
+            echo "Downloading: $filename"
 
             curl \
               --fail \
@@ -50,26 +48,24 @@ jobs:
               --retry 3 \
               --retry-delay 2 \
               --connect-timeout 20 \
-              --max-time 180 \
+              --max-time 300 \
               --output "$temp_file" \
               "$url"
 
             if [[ ! -s "$temp_file" ]]; then
-              echo "::error::Dosya boş: $output"
+              echo "::error::Empty file: $filename"
               return 1
             fi
 
-            # M3U başlığını kontrol et.
-            if ! head -c 4096 "$temp_file" |
+            if ! head -n 5 "$temp_file" |
               tr -d '\r' |
               grep -Eiq '^[[:space:]]*#EXTM3U([[:space:]]|$)'; then
-              echo "::error::Geçersiz M3U başlığı: $output"
+              echo "::error::Invalid M3U header: $filename"
               return 1
             fi
 
-            # Dosyada en az bir kanal kaydı bulunmalı.
             if ! grep -aqE '^#EXTINF([:,[:space:]])' "$temp_file"; then
-              echo "::error::Kanal kaydı bulunamadı: $output"
+              echo "::error::No channel entries: $filename"
               return 1
             fi
           }
@@ -90,18 +86,18 @@ jobs:
             "https://onureroz.com/indirmeler/dunya/index.m3u" \
             "dunya.m3u"
 
-          # Dört dosyanın tamamı doğrulandıktan sonra güncelle.
-          for file in \
+          # Install only after all four downloads are validated.
+          for filename in \
             turk_tv.m3u \
             turk_all.m3u \
             karma.m3u \
             dunya.m3u
           do
-            install -m 644 "$TMP_DIR/$file" "stream/$file"
-            echo "Hazır: stream/$file"
+            install -m 644 "$TMP_DIR/$filename" "stream/$filename"
+            echo "Ready: stream/$filename"
           done
 
-      - name: Değişiklikleri GitHub'a kaydet
+      - name: Commit and push changes
         shell: bash
         run: |
           set -Eeuo pipefail
@@ -110,10 +106,10 @@ jobs:
             stream/turk_tv.m3u \
             stream/turk_all.m3u \
             stream/karma.m3u \
-            "stream/dunya.m3u"
+            stream/dunya.m3u
 
           if git diff --cached --quiet; then
-            echo "Dosyalarda değişiklik yok. Commit oluşturulmadı."
+            echo "No changes detected."
             exit 0
           fi
 
