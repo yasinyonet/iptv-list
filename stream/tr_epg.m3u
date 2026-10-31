@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",TR24 TV
+#EXTINF:-1 tvg-id="930" tvg-name="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",TR24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
